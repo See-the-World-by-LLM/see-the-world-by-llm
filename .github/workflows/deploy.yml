@@ -1,74 +1,41 @@
-name: Deploy to GitHub Pages
+name: Deploy Static Site
 
 on:
-  schedule:
-    # Run at 00:00 UTC every day
-    - cron: '0 0 * * *'
   push:
     branches: [main]
   workflow_dispatch:
 
-permissions:
-  contents: write
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
 jobs:
-  generate-post:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-          cache: 'npm'
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Generate daily post
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: npm run generate-post
-
-      - name: Commit and push new post
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add src/data/posts/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: add daily city post $(date +%Y-%m-%d)" && git push)
-
   build-and-deploy:
-    needs: generate-post
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: '18'
-          cache: 'npm'
+          node-version: 20
+          cache: npm
 
       - name: Install dependencies
         run: npm ci
 
-      - name: Build
+      - name: Build static site
         run: npm run build
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+      - name: Deploy to Pages repo
+        uses: peaceiris/actions-gh-pages@v4
+        if: github.ref == 'refs/heads/main'
         with:
-          path: ./out
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          publish_dir: out
+          external_repository: See-the-World-by-LLM/see-the-world-by-llm.github.io
+          publish_branch: main
+          force_orphan: true
+          commit_message: ':rocket: deploy static site'
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
