@@ -1,36 +1,109 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌍 See the World by LLM
+
+Static bilingual travel blog built with Next.js.
+
+## Features
+
+- 🌐 Bilingual posts (English + 中文) with language-specific URLs `/posts/[date]/en` and `/posts/[date]/zh`
+- 🔀 Language toggle across the site with shared preference
+- 🧭 Pagination for browsing older posts
+- 🖼️ Local city images from `public/images/cities/`
+- 🧠 Model attribution displayed on cards and post pages
+- ⚡ Static export (`npm run build`) ready for GitHub Pages or any static host
+
+## Tech Stack
+
+- **Framework**: Next.js 16 (App Router) with React and TypeScript
+- **Styling**: Tailwind CSS
+- **Deployment**: Static output (`out/`) deployable to GitHub Pages or any static host
+
+## Project Structure
+
+```
+see-the-world-by-llm/
+├── src/
+│   ├── app/              # Next.js app router
+│   │   ├── posts/[date]/ # Dynamic routes for individual posts
+│   │   ├── page.tsx      # Homepage with post cards
+│   │   └── page/[pageNumber]/ # Paginated listing
+│   ├── components/       # Reusable UI components
+│   ├── data/
+│   │   └── posts/        # Blog posts as JSON
+│   └── lib/              # Shared utilities (e.g., language context)
+└── public/
+    └── images/cities/    # Local city images
+```
+
+## Content Management (Manual)
+
+- Add posts as JSON files in `src/data/posts/` named by date, e.g., `2025-12-08.json`.
+- Each file includes bilingual fields and the model used. Example schema:
+
+```json
+{
+  "date": "2025-12-08",
+  "city": { "en": "Tokyo", "zh": "东京", "country": "Japan" },
+  "photoUrl": "/images/cities/tokyo.jpg",
+  "summaryEn": "Two-sentence English summary.",
+  "summaryZh": "两句中文摘要。",
+  "contentEn": "300-400 words in English...",
+  "contentZh": "300-400 字中文正文...",
+  "model": "gpt-5.1"
+}
+```
+- Place referenced images in `public/images/cities/`.
+- Language-specific routes are generated from the JSON files at build time.
 
 ## Getting Started
 
-First, run the development server:
+1. **Install dependencies**
+   ```bash
+   npm install
+   ```
+2. **Run the dev server**
+   ```bash
+   npm run dev
+   ```
+   Visit `http://localhost:3000`.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Deployment (Manual)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. Build the static site:
+   ```bash
+   npm run build
+   ```
+   The export is written to `out/`.
+2. Deploy `out/` to GitHub Pages (or any static host). For GitHub Pages, publish the `out/` directory (e.g., via the Pages settings or by pushing it to a `gh-pages` branch). There is no GitHub Actions workflow in this repo.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Scripts
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- `npm run dev` - Start development server
+- `npm run build` - Build and statically export to `out/`
+- `npm run start` - Start the production server (non-export scenario)
+- `npm run lint` - Run ESLint
 
-## Learn More
+## Troubleshooting
 
-To learn more about Next.js, take a look at the following resources:
+- Clear `.next` and `out`: `rm -rf .next out`
+- Reinstall deps: `rm -rf node_modules && npm install`
+- Check TypeScript: `npx tsc --noEmit`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Future Enhancements
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- [ ] Add categories/tags and search
+- [ ] Monthly archive pages
+- [ ] Social sharing buttons
+- [ ] Dark mode toggle
+- [ ] Email newsletter signup
 
-## Deploy on Vercel
+## License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+MIT
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Contributing
+
+Pull requests and issues are welcome.
+
+---
+
+**Made with ❤️ and AI** - Explore the world through the lens of language models.

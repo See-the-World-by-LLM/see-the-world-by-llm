@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import { notFound } from 'next/navigation';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import BlogPostCard from '@/components/BlogPostCard';
@@ -19,37 +20,38 @@ interface BlogPost {
   contentZh: string;
 }
 
+const PAGE_SIZE = 10;
+
 async function getPosts(): Promise<BlogPost[]> {
-  try {
-    const postsDir = path.join(process.cwd(), 'src/data/posts');
-    if (!fs.existsSync(postsDir)) {
-      return [];
-    }
-
-    const files = fs
-      .readdirSync(postsDir)
-      .filter((file) => file.endsWith('.json'))
-      .sort()
-      .reverse();
-
-    const posts = files.map((file) => {
+  const postsDir = path.join(process.cwd(), 'src/data/posts');
+  if (!fs.existsSync(postsDir)) return [];
+  return fs
+    .readdirSync(postsDir)
+    .filter((file) => file.endsWith('.json'))
+    .sort()
+    .reverse()
+    .map((file) => {
       const content = fs.readFileSync(path.join(postsDir, file), 'utf-8');
       return JSON.parse(content) as BlogPost;
     });
-
-    return posts;
-  } catch (error) {
-    console.error('Error reading posts:', error);
-    return [];
-  }
 }
 
-const PAGE_SIZE = 10;
-
-export default async function Home() {
-  const page = 1;
+export async function generateStaticParams() {
   const posts = await getPosts();
   const totalPages = Math.max(1, Math.ceil(posts.length / PAGE_SIZE));
+  return Array.from({ length: totalPages }, (_, i) => ({ pageNumber: String(i + 1) }));
+}
+
+export default async function Page({ params }: { params: { pageNumber: string } | Promise<{ pageNumber: string }> }) {
+  const resolvedParams = await params;
+  const pageNum = Number(resolvedParams.pageNumber);
+  const posts = await getPosts();
+  const totalPages = Math.max(1, Math.ceil(posts.length / PAGE_SIZE));
+  if (!Number.isInteger(pageNum) || pageNum < 1 || pageNum > totalPages) {
+    notFound();
+  }
+
+  const page = pageNum;
   const start = (page - 1) * PAGE_SIZE;
   const paginated = posts.slice(start, start + PAGE_SIZE);
 
@@ -58,14 +60,9 @@ export default async function Home() {
       <Header />
 
       <main className="container mx-auto px-4 py-12 flex-grow">
-        {posts.length === 0 ? (
+        {paginated.length === 0 ? (
           <div className="text-center py-20">
-            <p className="text-xl text-gray-600 mb-4">
-              Coming soon! The first city post will be generated soon...
-            </p>
-            <p className="text-gray-500">
-              Posts are automatically generated daily using AI and deployed to this site.
-            </p>
+            <p className="text-xl text-gray-600 mb-4">No posts yet.</p>
           </div>
         ) : (
           <>
