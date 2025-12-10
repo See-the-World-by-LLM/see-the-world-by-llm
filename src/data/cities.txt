@@ -1,0 +1,1850 @@
+New York, USA
+Los Angeles, USA
+Chicago, USA
+Houston, USA
+Phoenix, USA
+Philadelphia, USA
+San Antonio, USA
+San Diego, USA
+Dallas, USA
+San Jose, USA
+Austin, USA
+Jacksonville, USA
+Fort Worth, USA
+Columbus, USA
+Charlotte, USA
+San Francisco, USA
+Indianapolis, USA
+Seattle, USA
+Denver, USA
+Washington, USA
+Boston, USA
+El Paso, USA
+Nashville, USA
+Detroit, USA
+Oklahoma City, USA
+Portland, USA
+Las Vegas, USA
+Memphis, USA
+Louisville, USA
+Baltimore, USA
+Milwaukee, USA
+Albuquerque, USA
+Tucson, USA
+Fresno, USA
+Mesa, USA
+Sacramento, USA
+Atlanta, USA
+Kansas City, USA
+Colorado Springs, USA
+Miami, USA
+Raleigh, USA
+Omaha, USA
+Long Beach, USA
+Virginia Beach, USA
+Oakland, USA
+Minneapolis, USA
+Tulsa, USA
+Arlington, USA
+Tampa, USA
+New Orleans, USA
+Toronto, Canada
+Montreal, Canada
+Vancouver, Canada
+Calgary, Canada
+Ottawa, Canada
+Edmonton, Canada
+Winnipeg, Canada
+Quebec City, Canada
+Hamilton, Canada
+Halifax, Canada
+London, Canada
+Victoria, Canada
+Windsor, Canada
+Saskatoon, Canada
+Regina, Canada
+St. John's, Canada
+Kelowna, Canada
+Barrie, Canada
+Sherbrooke, Canada
+Guelph, Canada
+Mexico City, Mexico
+Guadalajara, Mexico
+Monterrey, Mexico
+Puebla, Mexico
+Tijuana, Mexico
+Leon, Mexico
+Merida, Mexico
+Cancun, Mexico
+Toluca, Mexico
+Chihuahua, Mexico
+Juarez, Mexico
+Zapopan, Mexico
+San Luis Potosi, Mexico
+Aguascalientes, Mexico
+Acapulco, Mexico
+Morelia, Mexico
+Hermosillo, Mexico
+Saltillo, Mexico
+Mexicali, Mexico
+Culiacan, Mexico
+Sao Paulo, Brazil
+Rio de Janeiro, Brazil
+Brasilia, Brazil
+Salvador, Brazil
+Fortaleza, Brazil
+Belo Horizonte, Brazil
+Curitiba, Brazil
+Manaus, Brazil
+Recife, Brazil
+Porto Alegre, Brazil
+Belem, Brazil
+Goiania, Brazil
+Guarulhos, Brazil
+Campinas, Brazil
+Sao Luis, Brazil
+Sao Goncalo, Brazil
+Maceio, Brazil
+Duque de Caxias, Brazil
+Natal, Brazil
+Campo Grande, Brazil
+Buenos Aires, Argentina
+Cordoba, Argentina
+Rosario, Argentina
+Mendoza, Argentina
+La Plata, Argentina
+Mar del Plata, Argentina
+San Miguel de Tucuman, Argentina
+Salta, Argentina
+Santa Fe, Argentina
+Bahia Blanca, Argentina
+Resistencia, Argentina
+Posadas, Argentina
+Corrientes, Argentina
+San Salvador de Jujuy, Argentina
+Santiago del Estero, Argentina
+Parana, Argentina
+Neuquen, Argentina
+Formosa, Argentina
+San Fernando del Valle de Catamarca, Argentina
+San Luis, Argentina
+Santiago, Chile
+Valparaiso, Chile
+Concepcion, Chile
+La Serena, Chile
+Antofagasta, Chile
+Temuco, Chile
+Rancagua, Chile
+Iquique, Chile
+Talca, Chile
+Arica, Chile
+Puerto Montt, Chile
+Chillan, Chile
+Los Angeles, Chile
+Calama, Chile
+Copiapo, Chile
+Osorno, Chile
+Quillota, Chile
+Valdivia, Chile
+Punta Arenas, Chile
+Curico, Chile
+Bogota, Colombia
+Medellin, Colombia
+Cali, Colombia
+Barranquilla, Colombia
+Cartagena, Colombia
+Bucaramanga, Colombia
+Cucuta, Colombia
+Pereira, Colombia
+Santa Marta, Colombia
+Manizales, Colombia
+Ibague, Colombia
+Bello, Colombia
+Pasto, Colombia
+Neiva, Colombia
+Soledad, Colombia
+Villavicencio, Colombia
+Armenia, Colombia
+Soacha, Colombia
+Valledupar, Colombia
+Monteria, Colombia
+Lima, Peru
+Arequipa, Peru
+Trujillo, Peru
+Chiclayo, Peru
+Piura, Peru
+Iquitos, Peru
+Cusco, Peru
+Chimbote, Peru
+Huancayo, Peru
+Tacna, Peru
+Ica, Peru
+Juliaca, Peru
+Sullana, Peru
+Cajamarca, Peru
+Pucallpa, Peru
+Ayacucho, Peru
+Huanuco, Peru
+Chincha Alta, Peru
+Tarapoto, Peru
+Puno, Peru
+Caracas, Venezuela
+Maracaibo, Venezuela
+Valencia, Venezuela
+Barquisimeto, Venezuela
+Maracay, Venezuela
+Ciudad Guayana, Venezuela
+Barcelona, Venezuela
+Maturin, Venezuela
+Merida, Venezuela
+Punto Fijo, Venezuela
+San Cristobal, Venezuela
+Ciudad Bolivar, Venezuela
+Cumana, Venezuela
+Barinas, Venezuela
+Cabimas, Venezuela
+Puerto La Cruz, Venezuela
+Guarenas, Venezuela
+Los Teques, Venezuela
+Coro, Venezuela
+Valera, Venezuela
+Quito, Ecuador
+Guayaquil, Ecuador
+Cuenca, Ecuador
+Santo Domingo, Ecuador
+Machala, Ecuador
+Manta, Ecuador
+Portoviejo, Ecuador
+Loja, Ecuador
+Ambato, Ecuador
+Esmeraldas, Ecuador
+Riobamba, Ecuador
+Quevedo, Ecuador
+Ibarra, Ecuador
+Milagro, Ecuador
+Babahoyo, Ecuador
+La Libertad, Ecuador
+Latacunga, Ecuador
+Tulcan, Ecuador
+Pasaje, Ecuador
+Chone, Ecuador
+London, United Kingdom
+Manchester, United Kingdom
+Birmingham, United Kingdom
+Leeds, United Kingdom
+Liverpool, United Kingdom
+Glasgow, United Kingdom
+Edinburgh, United Kingdom
+Bristol, United Kingdom
+Newcastle, United Kingdom
+Belfast, United Kingdom
+Sheffield, United Kingdom
+Cardiff, United Kingdom
+Nottingham, United Kingdom
+Leicester, United Kingdom
+Southampton, United Kingdom
+Portsmouth, United Kingdom
+Plymouth, United Kingdom
+Brighton, United Kingdom
+Reading, United Kingdom
+Aberdeen, United Kingdom
+Dublin, Ireland
+Cork, Ireland
+Limerick, Ireland
+Galway, Ireland
+Waterford, Ireland
+Drogheda, Ireland
+Dundalk, Ireland
+Sligo, Ireland
+Kilkenny, Ireland
+Wexford, Ireland
+Bray, Ireland
+Navan, Ireland
+Ennis, Ireland
+Tralee, Ireland
+Carlow, Ireland
+Naas, Ireland
+Athlone, Ireland
+Mullingar, Ireland
+Letterkenny, Ireland
+Tullamore, Ireland
+Paris, France
+Marseille, France
+Lyon, France
+Toulouse, France
+Nice, France
+Nantes, France
+Strasbourg, France
+Montpellier, France
+Bordeaux, France
+Lille, France
+Rennes, France
+Reims, France
+Le Havre, France
+Saint-Etienne, France
+Toulon, France
+Grenoble, France
+Dijon, France
+Angers, France
+Nimes, France
+Villeurbanne, France
+Berlin, Germany
+Hamburg, Germany
+Munich, Germany
+Cologne, Germany
+Frankfurt, Germany
+Stuttgart, Germany
+Dusseldorf, Germany
+Dortmund, Germany
+Essen, Germany
+Leipzig, Germany
+Bremen, Germany
+Dresden, Germany
+Hanover, Germany
+Nuremberg, Germany
+Duisburg, Germany
+Bochum, Germany
+Wuppertal, Germany
+Bielefeld, Germany
+Bonn, Germany
+Munster, Germany
+Madrid, Spain
+Barcelona, Spain
+Valencia, Spain
+Seville, Spain
+Zaragoza, Spain
+Malaga, Spain
+Murcia, Spain
+Palma, Spain
+Bilbao, Spain
+Alicante, Spain
+Cordoba, Spain
+Valladolid, Spain
+Vigo, Spain
+Gijon, Spain
+L'Hospitalet de Llobregat, Spain
+Vitoria-Gasteiz, Spain
+A Coruna, Spain
+Granada, Spain
+Elche, Spain
+Oviedo, Spain
+Lisbon, Portugal
+Porto, Portugal
+Vila Nova de Gaia, Portugal
+Braga, Portugal
+Coimbra, Portugal
+Aveiro, Portugal
+Faro, Portugal
+Setubal, Portugal
+Funchal, Portugal
+Evora, Portugal
+Guimaraes, Portugal
+Leiria, Portugal
+Viseu, Portugal
+Viana do Castelo, Portugal
+Portimao, Portugal
+Cascais, Portugal
+Sintra, Portugal
+Almada, Portugal
+Amadora, Portugal
+Queluz, Portugal
+Rome, Italy
+Milan, Italy
+Naples, Italy
+Turin, Italy
+Palermo, Italy
+Genoa, Italy
+Bologna, Italy
+Florence, Italy
+Bari, Italy
+Catania, Italy
+Venice, Italy
+Verona, Italy
+Messina, Italy
+Padua, Italy
+Trieste, Italy
+Taranto, Italy
+Brescia, Italy
+Parma, Italy
+Prato, Italy
+Modena, Italy
+Amsterdam, Netherlands
+Rotterdam, Netherlands
+The Hague, Netherlands
+Utrecht, Netherlands
+Eindhoven, Netherlands
+Tilburg, Netherlands
+Groningen, Netherlands
+Almere, Netherlands
+Breda, Netherlands
+Nijmegen, Netherlands
+Enschede, Netherlands
+Apeldoorn, Netherlands
+Haarlem, Netherlands
+Amersfoort, Netherlands
+Arnhem, Netherlands
+Zaanstad, Netherlands
+Den Bosch, Netherlands
+Haarlemmermeer, Netherlands
+Zwolle, Netherlands
+Zoetermeer, Netherlands
+Brussels, Belgium
+Antwerp, Belgium
+Ghent, Belgium
+Charleroi, Belgium
+Liege, Belgium
+Bruges, Belgium
+Namur, Belgium
+Leuven, Belgium
+Mons, Belgium
+Mechelen, Belgium
+Aalst, Belgium
+La Louviere, Belgium
+Kortrijk, Belgium
+Hasselt, Belgium
+Sint-Niklaas, Belgium
+Ostend, Belgium
+Tournai, Belgium
+Genk, Belgium
+Seraing, Belgium
+Roeselare, Belgium
+Zurich, Switzerland
+Geneva, Switzerland
+Basel, Switzerland
+Lausanne, Switzerland
+Bern, Switzerland
+Lucerne, Switzerland
+St Gallen, Switzerland
+Lugano, Switzerland
+Winterthur, Switzerland
+Biel, Switzerland
+Thun, Switzerland
+Koniz, Switzerland
+La Chaux-de-Fonds, Switzerland
+Fribourg, Switzerland
+Schaffhausen, Switzerland
+Chur, Switzerland
+Vernier, Switzerland
+Neuchatel, Switzerland
+Uster, Switzerland
+Sion, Switzerland
+Vienna, Austria
+Graz, Austria
+Linz, Austria
+Salzburg, Austria
+Innsbruck, Austria
+Klagenfurt, Austria
+Villach, Austria
+Wels, Austria
+Sankt Polten, Austria
+Dornbirn, Austria
+Wiener Neustadt, Austria
+Steyr, Austria
+Feldkirch, Austria
+Bregenz, Austria
+Leonding, Austria
+Klosterneuburg, Austria
+Baden bei Wien, Austria
+Wolfsberg, Austria
+Leoben, Austria
+Krems an der Donau, Austria
+Stockholm, Sweden
+Gothenburg, Sweden
+Malmo, Sweden
+Uppsala, Sweden
+Vasteras, Sweden
+Orebro, Sweden
+Linkoping, Sweden
+Helsingborg, Sweden
+Jonkoping, Sweden
+Norrkoping, Sweden
+Lund, Sweden
+Umea, Sweden
+Gavle, Sweden
+Boras, Sweden
+Sodertalje, Sweden
+Eskilstuna, Sweden
+Halmstad, Sweden
+Vaxjo, Sweden
+Karlstad, Sweden
+Sundsvall, Sweden
+Oslo, Norway
+Bergen, Norway
+Trondheim, Norway
+Stavanger, Norway
+Drammen, Norway
+Fredrikstad, Norway
+Kristiansand, Norway
+Tromso, Norway
+Sandnes, Norway
+Skien, Norway
+Sarpsborg, Norway
+Alesund, Norway
+Sandefjord, Norway
+Haugesund, Norway
+Tonsberg, Norway
+Moss, Norway
+Porsgrunn, Norway
+Bodo, Norway
+Arendal, Norway
+Hamar, Norway
+Copenhagen, Denmark
+Aarhus, Denmark
+Odense, Denmark
+Aalborg, Denmark
+Esbjerg, Denmark
+Randers, Denmark
+Kolding, Denmark
+Horsens, Denmark
+Vejle, Denmark
+Roskilde, Denmark
+Herning, Denmark
+Helsingor, Denmark
+Silkeborg, Denmark
+Naestved, Denmark
+Fredericia, Denmark
+Viborg, Denmark
+Koge, Denmark
+Holstebro, Denmark
+Taastrup, Denmark
+Slagelse, Denmark
+Helsinki, Finland
+Espoo, Finland
+Tampere, Finland
+Vantaa, Finland
+Oulu, Finland
+Turku, Finland
+Jyvaskyla, Finland
+Kuopio, Finland
+Lahti, Finland
+Pori, Finland
+Kouvola, Finland
+Joensuu, Finland
+Lappeenranta, Finland
+Hameenlinna, Finland
+Vaasa, Finland
+Seinajoki, Finland
+Rovaniemi, Finland
+Mikkeli, Finland
+Kotka, Finland
+Salo, Finland
+Warsaw, Poland
+Krakow, Poland
+Lodz, Poland
+Wroclaw, Poland
+Poznan, Poland
+Gdansk, Poland
+Szczecin, Poland
+Bydgoszcz, Poland
+Lublin, Poland
+Katowice, Poland
+Bialystok, Poland
+Gdynia, Poland
+Czestochowa, Poland
+Radom, Poland
+Sosnowiec, Poland
+Torun, Poland
+Kielce, Poland
+Rzeszow, Poland
+Gliwice, Poland
+Zabrze, Poland
+Prague, Czechia
+Brno, Czechia
+Ostrava, Czechia
+Plzen, Czechia
+Liberec, Czechia
+Olomouc, Czechia
+Ceske Budejovice, Czechia
+Hradec Kralove, Czechia
+Usti nad Labem, Czechia
+Pardubice, Czechia
+Zlin, Czechia
+Havirov, Czechia
+Kladno, Czechia
+Most, Czechia
+Opava, Czechia
+Frydek-Mistek, Czechia
+Karvina, Czechia
+Jihlava, Czechia
+Teplice, Czechia
+Decin, Czechia
+Budapest, Hungary
+Debrecen, Hungary
+Szeged, Hungary
+Miskolc, Hungary
+Pecs, Hungary
+Gyor, Hungary
+Nyiregyhaza, Hungary
+Kecskemet, Hungary
+Szekesfehervar, Hungary
+Szombathely, Hungary
+Szolnok, Hungary
+Tatabanya, Hungary
+Kaposvar, Hungary
+Erd, Hungary
+Veszprem, Hungary
+Bekescsaba, Hungary
+Zalaegerszeg, Hungary
+Sopron, Hungary
+Eger, Hungary
+Nagykanizsa, Hungary
+Athens, Greece
+Thessaloniki, Greece
+Patras, Greece
+Heraklion, Greece
+Larissa, Greece
+Volos, Greece
+Ioannina, Greece
+Chania, Greece
+Rhodes, Greece
+Kalamata, Greece
+Chalcis, Greece
+Agrinio, Greece
+Katerini, Greece
+Trikala, Greece
+Serres, Greece
+Lamia, Greece
+Alexandroupoli, Greece
+Kozani, Greece
+Kavala, Greece
+Corfu, Greece
+Istanbul, Turkey
+Ankara, Turkey
+Izmir, Turkey
+Bursa, Turkey
+Antalya, Turkey
+Adana, Turkey
+Konya, Turkey
+Gaziantep, Turkey
+Kayseri, Turkey
+Mersin, Turkey
+Eskisehir, Turkey
+Diyarbakir, Turkey
+Samsun, Turkey
+Denizli, Turkey
+Sanliurfa, Turkey
+Adapazari, Turkey
+Malatya, Turkey
+Kahramanmaras, Turkey
+Erzurum, Turkey
+Van, Turkey
+Moscow, Russia
+Saint Petersburg, Russia
+Novosibirsk, Russia
+Yekaterinburg, Russia
+Kazan, Russia
+Nizhny Novgorod, Russia
+Samara, Russia
+Omsk, Russia
+Rostov-on-Don, Russia
+Ufa, Russia
+Krasnoyarsk, Russia
+Voronezh, Russia
+Perm, Russia
+Volgograd, Russia
+Krasnodar, Russia
+Saratov, Russia
+Tyumen, Russia
+Tolyatti, Russia
+Izhevsk, Russia
+Barnaul, Russia
+Kyiv, Ukraine
+Kharkiv, Ukraine
+Odessa, Ukraine
+Dnipro, Ukraine
+Lviv, Ukraine
+Zaporizhzhia, Ukraine
+Kryvyi Rih, Ukraine
+Mykolaiv, Ukraine
+Mariupol, Ukraine
+Vinnytsia, Ukraine
+Kherson, Ukraine
+Poltava, Ukraine
+Chernihiv, Ukraine
+Cherkasy, Ukraine
+Zhytomyr, Ukraine
+Sumy, Ukraine
+Khmelnytskyi, Ukraine
+Chernivtsi, Ukraine
+Rivne, Ukraine
+Ivano-Frankivsk, Ukraine
+Jerusalem, Israel
+Tel Aviv, Israel
+Haifa, Israel
+Rishon LeZion, Israel
+Petah Tikva, Israel
+Ashdod, Israel
+Netanya, Israel
+Beersheba, Israel
+Holon, Israel
+Bnei Brak, Israel
+Ramat Gan, Israel
+Rehovot, Israel
+Bat Yam, Israel
+Ashkelon, Israel
+Herzliya, Israel
+Kfar Saba, Israel
+Hadera, Israel
+Ra'anana, Israel
+Modi'in-Maccabim-Re'ut, Israel
+Nazareth, Israel
+Dubai, United Arab Emirates
+Abu Dhabi, United Arab Emirates
+Sharjah, United Arab Emirates
+Ajman, United Arab Emirates
+Ras Al Khaimah, United Arab Emirates
+Fujairah, United Arab Emirates
+Umm Al Quwain, United Arab Emirates
+Al Ain, United Arab Emirates
+Kalba, United Arab Emirates
+Khor Fakkan, United Arab Emirates
+Dibba Al-Fujairah, United Arab Emirates
+Dibba Al-Hisn, United Arab Emirates
+Al Dhaid, United Arab Emirates
+Ar-Rams, United Arab Emirates
+Hatta, United Arab Emirates
+Madinat Zayed, United Arab Emirates
+Ruwais, United Arab Emirates
+Liwa Oasis, United Arab Emirates
+Ghayathi, United Arab Emirates
+Al Jazirah Al Hamra, United Arab Emirates
+Riyadh, Saudi Arabia
+Jeddah, Saudi Arabia
+Mecca, Saudi Arabia
+Medina, Saudi Arabia
+Dammam, Saudi Arabia
+Khobar, Saudi Arabia
+Jubail, Saudi Arabia
+Taif, Saudi Arabia
+Tabuk, Saudi Arabia
+Abha, Saudi Arabia
+Buraydah, Saudi Arabia
+Khamis Mushait, Saudi Arabia
+Hofuf, Saudi Arabia
+Hafar Al-Batin, Saudi Arabia
+Hail, Saudi Arabia
+Najran, Saudi Arabia
+Yanbu, Saudi Arabia
+Al Qatif, Saudi Arabia
+Al Mubarraz, Saudi Arabia
+Arar, Saudi Arabia
+Cairo, Egypt
+Alexandria, Egypt
+Giza, Egypt
+Shubra El Kheima, Egypt
+Port Said, Egypt
+Suez, Egypt
+Mansoura, Egypt
+Tanta, Egypt
+Asyut, Egypt
+Luxor, Egypt
+Faiyum, Egypt
+Zagazig, Egypt
+Ismailia, Egypt
+Aswan, Egypt
+Damanhur, Egypt
+El Minya, Egypt
+Damietta, Egypt
+Qena, Egypt
+Sohag, Egypt
+Beni Suef, Egypt
+Johannesburg, South Africa
+Cape Town, South Africa
+Durban, South Africa
+Pretoria, South Africa
+Port Elizabeth, South Africa
+Bloemfontein, South Africa
+Pietermaritzburg, South Africa
+East London, South Africa
+Polokwane, South Africa
+Nelspruit, South Africa
+Kimberley, South Africa
+Rustenburg, South Africa
+George, South Africa
+Soweto, South Africa
+Benoni, South Africa
+Tembisa, South Africa
+Vereeniging, South Africa
+Welkom, South Africa
+Newcastle, South Africa
+Krugersdorp, South Africa
+Lagos, Nigeria
+Abuja, Nigeria
+Kano, Nigeria
+Ibadan, Nigeria
+Port Harcourt, Nigeria
+Benin City, Nigeria
+Kaduna, Nigeria
+Enugu, Nigeria
+Maiduguri, Nigeria
+Jos, Nigeria
+Ilorin, Nigeria
+Warri, Nigeria
+Aba, Nigeria
+Onitsha, Nigeria
+Akure, Nigeria
+Abeokuta, Nigeria
+Oshogbo, Nigeria
+Zaria, Nigeria
+Sokoto, Nigeria
+Calabar, Nigeria
+Nairobi, Kenya
+Mombasa, Kenya
+Kisumu, Kenya
+Nakuru, Kenya
+Eldoret, Kenya
+Thika, Kenya
+Malindi, Kenya
+Kitale, Kenya
+Machakos, Kenya
+Nyeri, Kenya
+Garissa, Kenya
+Kakamega, Kenya
+Naivasha, Kenya
+Kilifi, Kenya
+Bungoma, Kenya
+Busia, Kenya
+Meru, Kenya
+Lamu, Kenya
+Kericho, Kenya
+Embu, Kenya
+Addis Ababa, Ethiopia
+Dire Dawa, Ethiopia
+Mekelle, Ethiopia
+Gondar, Ethiopia
+Adama, Ethiopia
+Hawassa, Ethiopia
+Bahir Dar, Ethiopia
+Jimma, Ethiopia
+Dessie, Ethiopia
+Jijiga, Ethiopia
+Shashamane, Ethiopia
+Bishoftu, Ethiopia
+Sodo, Ethiopia
+Arba Minch, Ethiopia
+Hosaena, Ethiopia
+Harar, Ethiopia
+Dilla, Ethiopia
+Nekemte, Ethiopia
+Debre Birhan, Ethiopia
+Asella, Ethiopia
+Delhi, India
+Mumbai, India
+Bangalore, India
+Kolkata, India
+Chennai, India
+Hyderabad, India
+Pune, India
+Ahmedabad, India
+Jaipur, India
+Lucknow, India
+Surat, India
+Kanpur, India
+Nagpur, India
+Indore, India
+Thane, India
+Bhopal, India
+Visakhapatnam, India
+Pimpri-Chinchwad, India
+Patna, India
+Vadodara, India
+Karachi, Pakistan
+Lahore, Pakistan
+Islamabad, Pakistan
+Rawalpindi, Pakistan
+Faisalabad, Pakistan
+Multan, Pakistan
+Peshawar, Pakistan
+Quetta, Pakistan
+Gujranwala, Pakistan
+Sialkot, Pakistan
+Hyderabad, Pakistan
+Bahawalpur, Pakistan
+Sargodha, Pakistan
+Sukkur, Pakistan
+Larkana, Pakistan
+Sheikhupura, Pakistan
+Rahim Yar Khan, Pakistan
+Jhang, Pakistan
+Dera Ghazi Khan, Pakistan
+Gujrat, Pakistan
+Dhaka, Bangladesh
+Chittagong, Bangladesh
+Khulna, Bangladesh
+Rajshahi, Bangladesh
+Sylhet, Bangladesh
+Mymensingh, Bangladesh
+Barisal, Bangladesh
+Rangpur, Bangladesh
+Comilla, Bangladesh
+Narayanganj, Bangladesh
+Gazipur, Bangladesh
+Bogra, Bangladesh
+Dinajpur, Bangladesh
+Jessore, Bangladesh
+Cox's Bazar, Bangladesh
+Brahmanbaria, Bangladesh
+Tangail, Bangladesh
+Jamalpur, Bangladesh
+Pabna, Bangladesh
+Noakhali, Bangladesh
+Colombo, Sri Lanka
+Kandy, Sri Lanka
+Galle, Sri Lanka
+Jaffna, Sri Lanka
+Negombo, Sri Lanka
+Anuradhapura, Sri Lanka
+Trincomalee, Sri Lanka
+Batticaloa, Sri Lanka
+Kurunegala, Sri Lanka
+Ratnapura, Sri Lanka
+Badulla, Sri Lanka
+Matara, Sri Lanka
+Puttalam, Sri Lanka
+Kegalle, Sri Lanka
+Vavuniya, Sri Lanka
+Kalutara, Sri Lanka
+Beruwala, Sri Lanka
+Panadura, Sri Lanka
+Wattala, Sri Lanka
+Gampaha, Sri Lanka
+Kathmandu, Nepal
+Pokhara, Nepal
+Lalitpur, Nepal
+Bharatpur, Nepal
+Biratnagar, Nepal
+Birgunj, Nepal
+Dharan, Nepal
+Janakpur, Nepal
+Hetauda, Nepal
+Nepalgunj, Nepal
+Itahari, Nepal
+Butwal, Nepal
+Dhangadhi, Nepal
+Tulsipur, Nepal
+Siddharthanagar, Nepal
+Damak, Nepal
+Ghorahi, Nepal
+Triyuga, Nepal
+Kirtipur, Nepal
+Tikapur, Nepal
+Beijing, China
+Shanghai, China
+Guangzhou, China
+Shenzhen, China
+Chengdu, China
+Chongqing, China
+Tianjin, China
+Wuhan, China
+Hangzhou, China
+Xi'an, China
+Nanjing, China
+Suzhou, China
+Zhengzhou, China
+Dongguan, China
+Shenyang, China
+Qingdao, China
+Harbin, China
+Changsha, China
+Foshan, China
+Jinan, China
+Tokyo, Japan
+Yokohama, Japan
+Osaka, Japan
+Nagoya, Japan
+Sapporo, Japan
+Fukuoka, Japan
+Kobe, Japan
+Kyoto, Japan
+Hiroshima, Japan
+Sendai, Japan
+Kitakyushu, Japan
+Chiba, Japan
+Sakai, Japan
+Niigata, Japan
+Hamamatsu, Japan
+Kumamoto, Japan
+Sagamihara, Japan
+Shizuoka, Japan
+Okayama, Japan
+Kagoshima, Japan
+Seoul, South Korea
+Busan, South Korea
+Incheon, South Korea
+Daegu, South Korea
+Daejeon, South Korea
+Gwangju, South Korea
+Suwon, South Korea
+Ulsan, South Korea
+Changwon, South Korea
+Jeonju, South Korea
+Cheongju, South Korea
+Bucheon, South Korea
+Ansan, South Korea
+Namyangju, South Korea
+Hwaseong, South Korea
+Cheonan, South Korea
+Gimhae, South Korea
+Pohang, South Korea
+Pyeongtaek, South Korea
+Jeju City, South Korea
+Bangkok, Thailand
+Nonthaburi, Thailand
+Nakhon Ratchasima, Thailand
+Chiang Mai, Thailand
+Hat Yai, Thailand
+Udon Thani, Thailand
+Pak Kret, Thailand
+Chaophraya Surasak, Thailand
+Phuket, Thailand
+Khon Kaen, Thailand
+Ubon Ratchathani, Thailand
+Nakhon Si Thammarat, Thailand
+Pattaya, Thailand
+Nakhon Sawan, Thailand
+Surat Thani, Thailand
+Rangsit, Thailand
+Phitsanulok, Thailand
+Songkhla, Thailand
+Chiang Rai, Thailand
+Yala, Thailand
+Hanoi, Vietnam
+Ho Chi Minh City, Vietnam
+Da Nang, Vietnam
+Hai Phong, Vietnam
+Can Tho, Vietnam
+Bien Hoa, Vietnam
+Nha Trang, Vietnam
+Hue, Vietnam
+Vinh, Vietnam
+Quy Nhon, Vietnam
+Vung Tau, Vietnam
+Buon Ma Thuot, Vietnam
+Long Xuyen, Vietnam
+Thai Nguyen, Vietnam
+Pleiku, Vietnam
+Bac Lieu, Vietnam
+Thu Dau Mot, Vietnam
+Ha Long, Vietnam
+Da Lat, Vietnam
+Nam Dinh, Vietnam
+Jakarta, Indonesia
+Surabaya, Indonesia
+Bandung, Indonesia
+Medan, Indonesia
+Semarang, Indonesia
+Palembang, Indonesia
+Makassar, Indonesia
+Batam, Indonesia
+Pekanbaru, Indonesia
+Bandar Lampung, Indonesia
+Denpasar, Indonesia
+Padang, Indonesia
+Malang, Indonesia
+Samarinda, Indonesia
+Tasikmalaya, Indonesia
+Pontianak, Indonesia
+Banjarmasin, Indonesia
+Balikpapan, Indonesia
+Jambi, Indonesia
+Surakarta, Indonesia
+Kuala Lumpur, Malaysia
+George Town, Malaysia
+Ipoh, Malaysia
+Shah Alam, Malaysia
+Petaling Jaya, Malaysia
+Johor Bahru, Malaysia
+Malacca City, Malaysia
+Kota Kinabalu, Malaysia
+Alor Setar, Malaysia
+Kuala Terengganu, Malaysia
+Kuching, Malaysia
+Seremban, Malaysia
+Kuantan, Malaysia
+Taiping, Malaysia
+Sandakan, Malaysia
+Klang, Malaysia
+Subang Jaya, Malaysia
+Sungai Petani, Malaysia
+Miri, Malaysia
+Ampang Jaya, Malaysia
+Manila, Philippines
+Quezon City, Philippines
+Davao City, Philippines
+Cebu City, Philippines
+Zamboanga City, Philippines
+Taguig, Philippines
+Pasig, Philippines
+Cagayan de Oro, Philippines
+Paranaque, Philippines
+Makati, Philippines
+Bacolod, Philippines
+Muntinlupa, Philippines
+Las Pinas, Philippines
+General Santos, Philippines
+Caloocan, Philippines
+Iloilo City, Philippines
+Baguio, Philippines
+Mandaluyong, Philippines
+Angeles, Philippines
+Lapu-Lapu City, Philippines
+Tehran, Iran
+Mashhad, Iran
+Isfahan, Iran
+Karaj, Iran
+Shiraz, Iran
+Tabriz, Iran
+Qom, Iran
+Ahvaz, Iran
+Kermanshah, Iran
+Urmia, Iran
+Rasht, Iran
+Zahedan, Iran
+Hamadan, Iran
+Kerman, Iran
+Yazd, Iran
+Ardabil, Iran
+Bandar Abbas, Iran
+Arak, Iran
+Islamshahr, Iran
+Zanjan, Iran
+Baghdad, Iraq
+Basra, Iraq
+Mosul, Iraq
+Erbil, Iraq
+Kirkuk, Iraq
+Najaf, Iraq
+Karbala, Iraq
+Nasiriyah, Iraq
+Amarah, Iraq
+Samawah, Iraq
+Diwaniyah, Iraq
+Kut, Iraq
+Hilla, Iraq
+Ramadi, Iraq
+Fallujah, Iraq
+Sulaymaniyah, Iraq
+Duhok, Iraq
+Zakho, Iraq
+Halabja, Iraq
+Baqubah, Iraq
+Amman, Jordan
+Zarqa, Jordan
+Irbid, Jordan
+Russeifa, Jordan
+Al-Quwaysimah, Jordan
+Wadi as-Ser, Jordan
+Tila al-Ali, Jordan
+Khuraybat as-Suq, Jordan
+Aqaba, Jordan
+As-Salt, Jordan
+Ar-Ramtha, Jordan
+Madaba, Jordan
+Al-Jubayhah, Jordan
+Al-Baq'a, Jordan
+Suwaylih, Jordan
+Al-Mafraq, Jordan
+Sahab, Jordan
+Muhayyam Hatin, Jordan
+Ayn al-Basha, Jordan
+Jerash, Jordan
+Beirut, Lebanon
+Tripoli, Lebanon
+Sidon, Lebanon
+Tyre, Lebanon
+Nabatieh, Lebanon
+Jounieh, Lebanon
+Zahle, Lebanon
+Baalbek, Lebanon
+Byblos, Lebanon
+Aley, Lebanon
+Batroun, Lebanon
+Bsharri, Lebanon
+Zgharta, Lebanon
+Jezzine, Lebanon
+Rachaya, Lebanon
+Marjayoun, Lebanon
+Anjar, Lebanon
+Deir el Qamar, Lebanon
+Beiteddine, Lebanon
+Broummana, Lebanon
+Muscat, Oman
+Seeb, Oman
+Salalah, Oman
+Bawshar, Oman
+Sohar, Oman
+Suwayq, Oman
+Ibri, Oman
+Saham, Oman
+Barka, Oman
+Rustaq, Oman
+Nizwa, Oman
+Buraimi, Oman
+Sur, Oman
+Al Mudhaibi, Oman
+Al Masna'ah, Oman
+Bani Bu Ali, Oman
+Bahla, Oman
+Al Khaburah, Oman
+Shinas, Oman
+Sama'il, Oman
+Doha, Qatar
+Al Rayyan, Qatar
+Al Wakrah, Qatar
+Al Khor, Qatar
+Umm Salal, Qatar
+Al Daayen, Qatar
+Al Shamal, Qatar
+Al Shahaniya, Qatar
+Dukhan, Qatar
+Mesaieed, Qatar
+Lusail, Qatar
+The Pearl-Qatar, Qatar
+West Bay, Qatar
+Old Airport, Qatar
+Abu Hamour, Qatar
+Al Thumama, Qatar
+Madinat Khalifa, Qatar
+Al Sadd, Qatar
+Al Waab, Qatar
+Al Dafna, Qatar
+Kuwait City, Kuwait
+Al Ahmadi, Kuwait
+Hawalli, Kuwait
+As Salimiyah, Kuwait
+Sabah as Salim, Kuwait
+Al Farwaniyah, Kuwait
+Al Fahahil, Kuwait
+Kuwait City, Kuwait
+Ar Rumaythiyah, Kuwait
+Ar Riqqah, Kuwait
+Salwa, Kuwait
+Al Manqaf, Kuwait
+Ar Rabiyah, Kuwait
+Bayan, Kuwait
+Al Jahra, Kuwait
+Al Fintas, Kuwait
+Janub as Surrah, Kuwait
+Al Mahbulah, Kuwait
+Ad Dasmah, Kuwait
+Ash Shamiyah, Kuwait
+Manama, Bahrain
+Riffa, Bahrain
+Muharraq, Bahrain
+Hamad Town, Bahrain
+A'ali, Bahrain
+Isa Town, Bahrain
+Sitra, Bahrain
+Budaiya, Bahrain
+Jidhafs, Bahrain
+Al Malikiyah, Bahrain
+Adliya, Bahrain
+Sanabis, Bahrain
+Tubli, Bahrain
+Saar, Bahrain
+Al Duraz, Bahrain
+Al Hidd, Bahrain
+Salmabad, Bahrain
+Samaheej, Bahrain
+Al Dair, Bahrain
+Diyar Al Muharraq, Bahrain
+Casablanca, Morocco
+Rabat, Morocco
+Fes, Morocco
+Marrakesh, Morocco
+Tangier, Morocco
+Agadir, Morocco
+Meknes, Morocco
+Oujda, Morocco
+Kenitra, Morocco
+Tetouan, Morocco
+Safi, Morocco
+Mohammedia, Morocco
+Khouribga, Morocco
+Beni Mellal, Morocco
+El Jadida, Morocco
+Taza, Morocco
+Nador, Morocco
+Settat, Morocco
+Larache, Morocco
+Ksar El Kebir, Morocco
+Algiers, Algeria
+Oran, Algeria
+Constantine, Algeria
+Annaba, Algeria
+Blida, Algeria
+Batna, Algeria
+Djelfa, Algeria
+Setif, Algeria
+Sidi Bel Abbes, Algeria
+Biskra, Algeria
+Tebessa, Algeria
+El Oued, Algeria
+Skikda, Algeria
+Tiaret, Algeria
+Bejaia, Algeria
+Tlemcen, Algeria
+Ouargla, Algeria
+Bechar, Algeria
+Mostaganem, Algeria
+Bordj Bou Arreridj, Algeria
+Tunis, Tunisia
+Sfax, Tunisia
+Sousse, Tunisia
+Ettadhamen, Tunisia
+Kairouan, Tunisia
+Gabes, Tunisia
+Bizerte, Tunisia
+Ariana, Tunisia
+Gafsa, Tunisia
+El Mourouj, Tunisia
+Monastir, Tunisia
+Ben Arous, Tunisia
+Kasserine, Tunisia
+Douz, Tunisia
+Hammamet, Tunisia
+Zarzis, Tunisia
+La Marsa, Tunisia
+Tataouine, Tunisia
+Medenine, Tunisia
+Beja, Tunisia
+Accra, Ghana
+Kumasi, Ghana
+Tamale, Ghana
+Sekondi-Takoradi, Ghana
+Ashaiman, Ghana
+Sunyani, Ghana
+Cape Coast, Ghana
+Obuasi, Ghana
+Teshie, Ghana
+Tema, Ghana
+Madina, Ghana
+Koforidua, Ghana
+Wa, Ghana
+Techiman, Ghana
+Ho, Ghana
+Nungua, Ghana
+Lashibi, Ghana
+Dome, Ghana
+Tema New Town, Ghana
+Gbawe, Ghana
+Abidjan, Ivory Coast
+Bouake, Ivory Coast
+Daloa, Ivory Coast
+Yamoussoukro, Ivory Coast
+San-Pedro, Ivory Coast
+Divo, Ivory Coast
+Korhogo, Ivory Coast
+Anyama, Ivory Coast
+Abengourou, Ivory Coast
+Man, Ivory Coast
+Gagnoa, Ivory Coast
+Soubre, Ivory Coast
+Agboville, Ivory Coast
+Dabou, Ivory Coast
+Grand-Bassam, Ivory Coast
+Bouafle, Ivory Coast
+Issia, Ivory Coast
+Sinfra, Ivory Coast
+Katiola, Ivory Coast
+Bingerville, Ivory Coast
+Dakar, Senegal
+Touba, Senegal
+Thies, Senegal
+Rufisque, Senegal
+Kaolack, Senegal
+M'Bour, Senegal
+Ziguinchor, Senegal
+Saint-Louis, Senegal
+Diourbel, Senegal
+Louga, Senegal
+Tambacounda, Senegal
+Richard Toll, Senegal
+Kolda, Senegal
+Mbacke, Senegal
+Tivaouane, Senegal
+Joal-Fadiouth, Senegal
+Kaffrine, Senegal
+Dahra, Senegal
+Bignona, Senegal
+Fatick, Senegal
+Dar es Salaam, Tanzania
+Mwanza, Tanzania
+Arusha, Tanzania
+Dodoma, Tanzania
+Mbeya, Tanzania
+Morogoro, Tanzania
+Tanga, Tanzania
+Kahama, Tanzania
+Tabora, Tanzania
+Zanzibar City, Tanzania
+Kigoma, Tanzania
+Sumbawanga, Tanzania
+Kasulu, Tanzania
+Songea, Tanzania
+Moshi, Tanzania
+Musoma, Tanzania
+Shinyanga, Tanzania
+Iringa, Tanzania
+Singida, Tanzania
+Njombe, Tanzania
+Kampala, Uganda
+Nansana, Uganda
+Kira, Uganda
+Ssabagabo, Uganda
+Mbarara, Uganda
+Mukono, Uganda
+Njeru, Uganda
+Gulu, Uganda
+Lugazi, Uganda
+Masaka, Uganda
+Kasese, Uganda
+Hoima, Uganda
+Lira, Uganda
+Mityana, Uganda
+Mubende, Uganda
+Masindi, Uganda
+Mbale, Uganda
+Jin ja, Uganda
+Entebbe, Uganda
+Kitgum, Uganda
+Bucharest, Romania
+Cluj-Napoca, Romania
+Timisoara, Romania
+Iasi, Romania
+Constanta, Romania
+Craiova, Romania
+Brasov, Romania
+Galati, Romania
+Ploiesti, Romania
+Oradea, Romania
+Braila, Romania
+Arad, Romania
+Pitesti, Romania
+Sibiu, Romania
+Bacau, Romania
+Targu Mures, Romania
+Baia Mare, Romania
+Buzau, Romania
+Botosani, Romania
+Satu Mare, Romania
+Sofia, Bulgaria
+Plovdiv, Bulgaria
+Varna, Bulgaria
+Burgas, Bulgaria
+Ruse, Bulgaria
+Stara Zagora, Bulgaria
+Pleven, Bulgaria
+Sliven, Bulgaria
+Dobrich, Bulgaria
+Shumen, Bulgaria
+Pernik, Bulgaria
+Haskovo, Bulgaria
+Yambol, Bulgaria
+Pazardzhik, Bulgaria
+Blagoevgrad, Bulgaria
+Veliko Tarnovo, Bulgaria
+Vratsa, Bulgaria
+Gabrovo, Bulgaria
+Asenovgrad, Bulgaria
+Vidin, Bulgaria
+Belgrade, Serbia
+Novi Sad, Serbia
+Nis, Serbia
+Kragujevac, Serbia
+Subotica, Serbia
+Leskovac, Serbia
+Pancevo, Serbia
+Zrenjanin, Serbia
+Sabac, Serbia
+Cacak, Serbia
+Kraljevo, Serbia
+Novi Pazar, Serbia
+Smederevo, Serbia
+Valjevo, Serbia
+Krusevac, Serbia
+Vranje, Serbia
+Uzice, Serbia
+Pozarevac, Serbia
+Sombor, Serbia
+Zajecar, Serbia
+Zagreb, Croatia
+Split, Croatia
+Rijeka, Croatia
+Osijek, Croatia
+Zadar, Croatia
+Velika Gorica, Croatia
+Slavonski Brod, Croatia
+Pula, Croatia
+Karlovac, Croatia
+Sisak, Croatia
+Varazdin, Croatia
+Sibenik, Croatia
+Dubrovnik, Croatia
+Bjelovar, Croatia
+Kastela, Croatia
+Samobor, Croatia
+Vinkovci, Croatia
+Koprivnica, Croatia
+Dakovo, Croatia
+Vukovar, Croatia
+Ljubljana, Slovenia
+Maribor, Slovenia
+Celje, Slovenia
+Kranj, Slovenia
+Velenje, Slovenia
+Koper, Slovenia
+Novo Mesto, Slovenia
+Ptuj, Slovenia
+Trbovlje, Slovenia
+Kamnik, Slovenia
+Jesenice, Slovenia
+Nova Gorica, Slovenia
+Domzale, Slovenia
+Skofja Loka, Slovenia
+Murska Sobota, Slovenia
+Izola, Slovenia
+Postojna, Slovenia
+Logatec, Slovenia
+Slovenj Gradec, Slovenia
+Ravne na Koroskem, Slovenia
+Bratislava, Slovakia
+Kosice, Slovakia
+Presov, Slovakia
+Zilina, Slovakia
+Banska Bystrica, Slovakia
+Nitra, Slovakia
+Trnava, Slovakia
+Trencin, Slovakia
+Martin, Slovakia
+Poprad, Slovakia
+Prievidza, Slovakia
+Zvolen, Slovakia
+Povazska Bystrica, Slovakia
+Michalovce, Slovakia
+Nove Zamky, Slovakia
+Spisska Nova Ves, Slovakia
+Komarno, Slovakia
+Humenne, Slovakia
+Levice, Slovakia
+Bardejov, Slovakia
+Vilnius, Lithuania
+Kaunas, Lithuania
+Klaipeda, Lithuania
+Siauliai, Lithuania
+Panevezys, Lithuania
+Alytus, Lithuania
+Marijampole, Lithuania
+Mazeikiai, Lithuania
+Jonava, Lithuania
+Utena, Lithuania
+Kedainiai, Lithuania
+Taurage, Lithuania
+Telsiai, Lithuania
+Ukmerge, Lithuania
+Visaginas, Lithuania
+Plunge, Lithuania
+Kretinga, Lithuania
+Silute, Lithuania
+Radviliskis, Lithuania
+Palanga, Lithuania
+Riga, Latvia
+Daugavpils, Latvia
+Liepaja, Latvia
+Jelgava, Latvia
+Jurmala, Latvia
+Ventspils, Latvia
+Rezekne, Latvia
+Ogre, Latvia
+Valmiera, Latvia
+Jekabpils, Latvia
+Salaspils, Latvia
+Tukums, Latvia
+Cesis, Latvia
+Sigulda, Latvia
+Olaine, Latvia
+Kuldiga, Latvia
+Saldus, Latvia
+Talsi, Latvia
+Dobele, Latvia
+Bauska, Latvia
+Tallinn, Estonia
+Tartu, Estonia
+Narva, Estonia
+Parnu, Estonia
+Kohtla-Jarve, Estonia
+Viljandi, Estonia
+Rakvere, Estonia
+Maardu, Estonia
+Kuressaare, Estonia
+Sillamae, Estonia
+Valga, Estonia
+Voru, Estonia
+Johvi, Estonia
+Haapsalu, Estonia
+Keila, Estonia
+Paide, Estonia
+Tapa, Estonia
+Polva, Estonia
+Saue, Estonia
+Elva, Estonia
+Auckland, New Zealand
+Wellington, New Zealand
+Christchurch, New Zealand
+Hamilton, New Zealand
+Tauranga, New Zealand
+Napier-Hastings, New Zealand
+Dunedin, New Zealand
+Palmerston North, New Zealand
+Nelson, New Zealand
+Rotorua, New Zealand
+Whangarei, New Zealand
+New Plymouth, New Zealand
+Invercargill, New Zealand
+Whanganui, New Zealand
+Gisborne, New Zealand
+Blenheim, New Zealand
+Timaru, New Zealand
+Taupo, New Zealand
+Masterton, New Zealand
+Levin, New Zealand
+Suva, Fiji
+Lautoka, Fiji
+Nadi, Fiji
+Labasa, Fiji
+Ba, Fiji
+Lami, Fiji
+Sigatoka, Fiji
+Nausori, Fiji
+Savusavu, Fiji
+Levuka, Fiji
+Tavua, Fiji
+Navua, Fiji
+Rakiraki, Fiji
+Korovou, Fiji
+Nasinu, Fiji
+Vatukoula, Fiji
+Navua, Fiji
+Seaqaqa, Fiji
+Nabouwalu, Fiji
+Dreketi, Fiji
+Santa Cruz de la Sierra, Bolivia
+El Alto, Bolivia
+La Paz, Bolivia
+Cochabamba, Bolivia
+Oruro, Bolivia
+Sucre, Bolivia
+Tarija, Bolivia
+Potosi, Bolivia
+Sacaba, Bolivia
+Quillacollo, Bolivia
+Montero, Bolivia
+Trinidad, Bolivia
+Riberalta, Bolivia
+Warnes, Bolivia
+La Guardia, Bolivia
+Viacha, Bolivia
+Yacuiba, Bolivia
+Colcapirhua, Bolivia
+Tiquipaya, Bolivia
+Cobija, Bolivia
+Asuncion, Paraguay
+Ciudad del Este, Paraguay
+San Lorenzo, Paraguay
+Luque, Paraguay
+Capiata, Paraguay
+Lambare, Paraguay
+Fernando de la Mora, Paraguay
+Limpio, Paraguay
+Nemby, Paraguay
+Encarnacion, Paraguay
+Mariano Roque Alonso, Paraguay
+Itaugua, Paraguay
+Pedro Juan Caballero, Paraguay
+Villa Elisa, Paraguay
+San Antonio, Paraguay
+Hernandarias, Paraguay
+Presidente Franco, Paraguay
+Caaguazu, Paraguay
+Coronel Oviedo, Paraguay
+Concepcion, Paraguay
+Montevideo, Uruguay
+Salto, Uruguay
+Ciudad de la Costa, Uruguay
+Paysandu, Uruguay
+Las Piedras, Uruguay
+Rivera, Uruguay
+Maldonado, Uruguay
+Tacuarembo, Uruguay
+Melo, Uruguay
+Mercedes, Uruguay
+Artigas, Uruguay
+Minas, Uruguay
+San Jose de Mayo, Uruguay
+Durazno, Uruguay
+Florida, Uruguay
+Barros Blancos, Uruguay
+Ciudad del Plata, Uruguay
+San Carlos, Uruguay
+Colonia del Sacramento, Uruguay
+Pando, Uruguay
+San Jose, Costa Rica
+Puerto Limon, Costa Rica
+San Francisco, Costa Rica
+Alajuela, Costa Rica
+Liberia, Costa Rica
+Paraiso, Costa Rica
+Desamparados, Costa Rica
+San Isidro de El General, Costa Rica
+Puntarenas, Costa Rica
+Curridabat, Costa Rica
+San Vicente, Costa Rica
+San Jose, Costa Rica
+Purral, Costa Rica
+Turrialba, Costa Rica
+San Miguel, Costa Rica
+Aguacaliente, Costa Rica
+San Rafael, Costa Rica
+San Pedro, Costa Rica
+San Rafael Abajo, Costa Rica
+Quesada, Costa Rica
+Panama City, Panama
+San Miguelito, Panama
+Tocumen, Panama
+David, Panama
+Las Cumbres, Panama
+Colon, Panama
+La Chorrera, Panama
+Pacora, Panama
+Santiago de Veraguas, Panama
+Chitre, Panama
+Arraijan, Panama
+Vista Alegre, Panama
+Chilibre, Panama
+Cativa, Panama
+Nuevo Arraijan, Panama
+Changuinola, Panama
+Alcalde Diaz, Panama
+Puerto Armuelles, Panama
+La Cabima, Panama
+Anton, Panama
+Guatemala City, Guatemala
+Mixco, Guatemala
+Villa Nueva, Guatemala
+Petapa, Guatemala
+San Juan Sacatepequez, Guatemala
+Quetzaltenango, Guatemala
+Villa Canales, Guatemala
+Escuintla, Guatemala
+Chinautla, Guatemala
+Chimaltenango, Guatemala
+Amatitlan, Guatemala
+Huehuetenango, Guatemala
+Santa Lucia Cotzumalguapa, Guatemala
+Puerto Barrios, Guatemala
+Coban, Guatemala
+Chichicastenango, Guatemala
+Santa Catarina Pinula, Guatemala
+Totonicapan, Guatemala
+Coatepeque, Guatemala
+Mazatenango, Guatemala
+Havana, Cuba
+Santiago de Cuba, Cuba
+Camaguey, Cuba
+Holguin, Cuba
+Guantanamo, Cuba
+Santa Clara, Cuba
+Las Tunas, Cuba
+Bayamo, Cuba
+Cienfuegos, Cuba
+Pinar del Rio, Cuba
+Matanzas, Cuba
+Ciego de Avila, Cuba
+Sancti Spiritus, Cuba
+Manzanillo, Cuba
+Cardenas, Cuba
+Palma Soriano, Cuba
+Moa, Cuba
+Moron, Cuba
+Florida, Cuba
+Contramaestre, Cuba
+Santo Domingo, Dominican Republic
+Santiago de los Caballeros, Dominican Republic
+Santo Domingo Oeste, Dominican Republic
+Santo Domingo Este, Dominican Republic
+San Pedro de Macoris, Dominican Republic
+La Romana, Dominican Republic
+San Francisco de Macoris, Dominican Republic
+San Cristobal, Dominican Republic
+Puerto Plata, Dominican Republic
+Higuey, Dominican Republic
+Concepcion de la Vega, Dominican Republic
+Punta Cana, Dominican Republic
+Santa Cruz de Barahona, Dominican Republic
+Bonao, Dominican Republic
+San Juan de la Maguana, Dominican Republic
+Bani, Dominican Republic
+Bajos de Haina, Dominican Republic
+Moca, Dominican Republic
+Azua, Dominican Republic
+Mao, Dominican Republic
+Yangon, Myanmar
+Mandalay, Myanmar
+Naypyidaw, Myanmar
+Mawlamyine, Myanmar
+Bago, Myanmar
+Pathein, Myanmar
+Pyay, Myanmar
+Monywa, Myanmar
+Meiktila, Myanmar
+Sittwe, Myanmar
+Myeik, Myanmar
+Taunggyi, Myanmar
+Magway, Myanmar
+Henzada, Myanmar
+Dawei, Myanmar
+Pyin Oo Lwin, Myanmar
+Nyaunglebin, Myanmar
+Kalay, Myanmar
+Thaton, Myanmar
+Mudon, Myanmar
+Phnom Penh, Cambodia
+Siem Reap, Cambodia
+Battambang, Cambodia
+Serei Saophoan, Cambodia
+Poipet, Cambodia
+Kampong Cham, Cambodia
+Sihanoukville, Cambodia
+Kampong Speu, Cambodia
+Kampot, Cambodia
+Kampong Chhnang, Cambodia
+Kracheh, Cambodia
+Koh Kong, Cambodia
+Prey Veng, Cambodia
+Suong, Cambodia
+Stung Treng, Cambodia
+Pursat, Cambodia
+Samraong, Cambodia
+Takeo, Cambodia
+Tbeng Meanchey, Cambodia
+Svay Rieng, Cambodia
+Vientiane, Laos
+Pakse, Laos
+Savannakhet, Laos
+Luang Prabang, Laos
+Xam Neua, Laos
+Phonsavan, Laos
+Thakhek, Laos
+Muang Xay, Laos
+Vang Vieng, Laos
+Pakxan, Laos
+Attapeu, Laos
+Huay Xai, Laos
+Luang Namtha, Laos
+Phongsali, Laos
+Sayabouly, Laos
+Sekong, Laos
+Champasak, Laos
+Salavan, Laos
+Thoulakhom, Laos
+Samakkhixay, Laos

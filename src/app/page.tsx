@@ -1,54 +1,13 @@
-import fs from 'fs';
-import path from 'path';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import BlogPostCard from '@/components/BlogPostCard';
-
-interface BlogPost {
-  date: string;
-  city: {
-    en: string;
-    zh: string;
-    country: string;
-  };
-  photoUrl: string;
-  model: string;
-  summaryEn: string;
-  summaryZh: string;
-  contentEn: string;
-  contentZh: string;
-}
-
-async function getPosts(): Promise<BlogPost[]> {
-  try {
-    const postsDir = path.join(process.cwd(), 'src/data/posts');
-    if (!fs.existsSync(postsDir)) {
-      return [];
-    }
-
-    const files = fs
-      .readdirSync(postsDir)
-      .filter((file) => file.endsWith('.json'))
-      .sort()
-      .reverse();
-
-    const posts = files.map((file) => {
-      const content = fs.readFileSync(path.join(postsDir, file), 'utf-8');
-      return JSON.parse(content) as BlogPost;
-    });
-
-    return posts;
-  } catch (error) {
-    console.error('Error reading posts:', error);
-    return [];
-  }
-}
+import { getAllPosts } from '@/lib/posts';
 
 const PAGE_SIZE = 10;
 
 export default async function Home() {
   const page = 1;
-  const posts = await getPosts();
+  const posts = getAllPosts();
   const totalPages = Math.max(1, Math.ceil(posts.length / PAGE_SIZE));
   const start = (page - 1) * PAGE_SIZE;
   const paginated = posts.slice(start, start + PAGE_SIZE);
@@ -71,7 +30,7 @@ export default async function Home() {
           <>
             <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-2">
               {paginated.map((post) => (
-                <BlogPostCard key={post.date} post={post} />
+                <BlogPostCard key={post.slug} post={post} />
               ))}
             </div>
 

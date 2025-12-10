@@ -11,9 +11,13 @@ interface BlogPost {
     en: string;
     zh: string;
     country: string;
+    countryZh?: string;
   };
+  slug?: string;
   photoUrl: string;
-  model: string;
+  model?: string;
+  modelEn?: string;
+  modelZh?: string;
   summaryEn: string;
   summaryZh: string;
   contentEn: string;
@@ -28,8 +32,10 @@ export default function BlogPostCard({ post }: BlogPostCardProps) {
   const { language } = useLanguage();
   const summary = language === 'en' ? post.summaryEn : post.summaryZh;
   const cityName = language === 'en' ? post.city.en : post.city.zh;
-  const postUrl = `/posts/${post.date}/${language}`;
-  const modelLabel = post.model || 'deepseek-ai/DeepSeek-V3.2';
+  const countryName = (language === 'zh' && post.city.countryZh) ? post.city.countryZh : post.city.country;
+  const slug = post.slug || post.city.en.toLowerCase().replace(/,/g, '').replace(/ /g, '-');
+  const postUrl = `/posts/${slug}/${language}`;
+  const modelLabel = language === 'en' ? post.modelEn : post.modelZh;
 
   return (
     <article className="bg-white rounded-lg shadow-md hover:shadow-xl transition-all overflow-hidden group">
@@ -51,7 +57,7 @@ export default function BlogPostCard({ post }: BlogPostCardProps) {
           <h2 className="text-2xl font-bold text-gray-900 mb-2 hover:text-blue-600 transition">
             {cityName}
           </h2>
-          <p className="text-gray-600">{post.city.country}</p>
+          <p className="text-gray-600">{countryName}</p>
           <p className="text-sm text-gray-500 mb-2">
             {new Date(post.date).toLocaleDateString('en-US', {
               year: 'numeric',
@@ -67,9 +73,11 @@ export default function BlogPostCard({ post }: BlogPostCardProps) {
           </div>
         </Link>
 
-        <p className="text-xs text-gray-500 mt-3">
-          Model: <a href="https://huggingface.co/deepseek-ai/DeepSeek-V3.2" target="_blank" rel="noreferrer" className="text-blue-600 hover:text-blue-700">{modelLabel}</a>
-        </p>
+        {modelLabel && (
+          <p className="text-xs text-gray-500 mt-3">
+            Model: <a href={`https://huggingface.co/${modelLabel}`} target="_blank" rel="noreferrer" className="text-blue-600 hover:text-blue-700">{modelLabel}</a>
+          </p>
+        )}
       </div>
     </article>
   );

@@ -21,7 +21,7 @@ This is a Next.js project for the "See the World by LLM" blog website.
 ## File Structure
 
 - `/src/app/` - Next.js pages and layouts
-  - `/src/app/posts/[date]/[lang]/` - Language-specific dynamic routes (en/zh)
+  - `/src/app/posts/[city]/[lang]/` - Language-specific dynamic routes (en/zh)
 - `/src/components/` - Reusable React components
   - `Header.tsx` - Site navigation and branding
   - `Footer.tsx` - Site footer
@@ -57,6 +57,6 @@ Each post includes:
 - Daily posts are generated at 00:00 UTC via cron schedule
 - OpenAI API key is required for post generation
 - Homepage displays post cards with photos, titles, dates, and summaries
-- Each post has language-specific URLs at `/posts/[date]/en` and `/posts/[date]/zh`
+- Each post has language-specific URLs at `/posts/[city-slug]/en` and `/posts/[city-slug]/zh`
 - Images are stored locally in `/public/images/cities/` directory
 - Language switcher available on individual post pages

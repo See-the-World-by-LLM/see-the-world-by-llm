@@ -1,77 +1,39 @@
-import fs from 'fs';
-import path from 'path';
 import { notFound } from 'next/navigation';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import Image from 'next/image';
 import Link from 'next/link';
 import SyncPostLanguage from '@/components/SyncPostLanguage';
-
-interface BlogPost {
-  date: string;
-  city: {
-    en: string;
-    zh: string;
-    country: string;
-  };
-  photoUrl: string;
-  model: string;
-  summaryEn: string;
-  summaryZh: string;
-  contentEn: string;
-  contentZh: string;
-}
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
+import rehypeRaw from 'rehype-raw';
+import { getAllPosts, getPostBySlug } from '@/lib/posts';
 
 interface PageProps {
   params: Promise<{
-    date: string;
+    city: string;
     lang: string;
   }>;
 }
 
-async function getPost(date: string): Promise<BlogPost | null> {
-  try {
-    const filePath = path.join(process.cwd(), 'src/data/posts', `${date}.json`);
-    if (!fs.existsSync(filePath)) {
-      return null;
-    }
-    const content = fs.readFileSync(filePath, 'utf-8');
-    return JSON.parse(content) as BlogPost;
-  } catch (error) {
-    console.error('Error reading post:', error);
-    return null;
-  }
-}
-
 export async function generateStaticParams() {
-  const postsDir = path.join(process.cwd(), 'src/data/posts');
-  
-  if (!fs.existsSync(postsDir)) {
-    return [];
-  }
-
-  const files = fs
-    .readdirSync(postsDir)
-    .filter((file) => file.endsWith('.json'));
-
+  const posts = getAllPosts();
   const params = [];
-  for (const file of files) {
-    const date = file.replace('.json', '');
-    params.push({ date, lang: 'en' });
-    params.push({ date, lang: 'zh' });
+  for (const post of posts) {
+    params.push({ city: post.slug, lang: 'en' });
+    params.push({ city: post.slug, lang: 'zh' });
   }
-
   return params;
 }
 
 export default async function PostPage({ params }: PageProps) {
-  const { date, lang } = await params;
+  const { city, lang } = await params;
   
   if (lang !== 'en' && lang !== 'zh') {
     notFound();
   }
 
-  const post = await getPost(date);
+  const post = getPostBySlug(city);
 
   if (!post) {
     notFound();
@@ -79,13 +41,14 @@ export default async function PostPage({ params }: PageProps) {
 
   const content = lang === 'en' ? post.contentEn : post.contentZh;
   const cityName = lang === 'en' ? post.city.en : post.city.zh;
-  const modelLabel = post.model || 'deepseek-ai/DeepSeek-V3.2';
+  const countryName = (lang === 'zh' && post.city.countryZh) ? post.city.countryZh : post.city.country;
+  const modelLabel = lang === 'en' ? post.modelEn : post.modelZh;
 
   return (
     <div className="min-h-screen bg-gray-50 flex flex-col">
       <Header />
 
-      <SyncPostLanguage currentLang={lang} date={date} />
+      <SyncPostLanguage currentLang={lang} city={city} />
 
       <main className="container mx-auto px-4 py-12 flex-grow">
         <article className="max-w-4xl mx-auto">
@@ -109,7 +72,7 @@ export default async function PostPage({ params }: PageProps) {
                 <h1 className="text-4xl font-bold text-gray-900 mb-2">
                   {cityName}
                 </h1>
-                <p className="text-xl text-gray-600">{post.city.country}</p>
+                <p className="text-xl text-gray-600">{countryName}</p>
               </div>
               <time className="text-gray-500">
                 {new Date(post.date).toLocaleDateString(lang === 'en' ? 'en-US' : 'zh-CN', {
@@ -119,25 +82,38 @@ export default async function PostPage({ params }: PageProps) {
                 })}
               </time>
             </div>
-            <div className="flex items-center gap-2 text-sm text-gray-600">
-              <span>Model:</span>
-              <a
-                href="https://huggingface.co/deepseek-ai/DeepSeek-V3.2"
-                target="_blank"
-                rel="noreferrer"
-                className="text-blue-600 hover:text-blue-700"
-              >
-                {modelLabel}
-              </a>
-            </div>
+            {modelLabel && (
+              <div className="flex items-center gap-2 text-sm text-gray-600">
+                <span>Model:</span>
+                <a
+                  href={`https://huggingface.co/${modelLabel}`}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="text-blue-600 hover:text-blue-700"
+                >
+                  {modelLabel}
+                </a>
+              </div>
+            )}
           </div>
 
           {/* Content */}
           <section className="mb-12">
-            <div className="prose prose-lg max-w-none">
-              <p className="text-gray-700 leading-relaxed whitespace-pre-wrap text-lg">
+            <div className="prose prose-lg max-w-none text-gray-700 leading-relaxed">
+              <ReactMarkdown 
+                remarkPlugins={[remarkGfm]} 
+                rehypePlugins={[rehypeRaw]}
+                components={{
+                  img: ({node, ...props}) => (
+                    <span className="block my-8">
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img {...props} className="rounded-lg shadow-md max-w-full h-auto mx-auto" alt={props.alt || ''} />
+                    </span>
+                  ),
+                }}
+              >
                 {content}
-              </p>
+              </ReactMarkdown>
             </div>
           </section>
 

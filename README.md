@@ -4,7 +4,7 @@ Static bilingual travel blog built with Next.js.
 
 ## Features
 
-- 🌐 Bilingual posts (English + 中文) with language-specific URLs `/posts/[date]/en` and `/posts/[date]/zh`
+- 🌐 Bilingual posts (English + 中文) with language-specific URLs `/posts/[city-slug]/en` and `/posts/[city-slug]/zh`
 - 🔀 Language toggle across the site with shared preference
 - 🧭 Pagination for browsing older posts
 - 🖼️ Local city images from `public/images/cities/`
@@ -21,14 +21,17 @@ Static bilingual travel blog built with Next.js.
 
 ```
 see-the-world-by-llm/
-├── src/
-│   ├── app/              # Next.js app router
-│   │   ├── posts/[date]/ # Dynamic routes for individual posts
-│   │   ├── page.tsx      # Homepage with post cards
-│   │   └── page/[pageNumber]/ # Paginated listing
-│   ├── components/       # Reusable UI components
-│   ├── data/
-│   │   └── posts/        # Blog posts as JSON
+├── app/
+│   ├── page.tsx          # Homepage with post feed
+│   ├── layout.tsx        # Root layout
+│   ├── posts/[city]/     # Dynamic routes for individual posts
+│     └── [lang]/         # Language segment (en/zh)
+├── components/           # Reusable components
+├── data/
+│   ├── posts/            # Blog posts
+│   │   └── [slug]/       # Directory per city (e.g., tokyo/)
+│   │       ├── en.md     # English content with frontmatter
+│   │       └── zh.md     # Chinese content with frontmatter
 │   └── lib/              # Shared utilities (e.g., language context)
 └── public/
     └── images/cities/    # Local city images
@@ -36,23 +39,67 @@ see-the-world-by-llm/
 
 ## Content Management (Manual)
 
-- Add posts as JSON files in `src/data/posts/` named by date, e.g., `2025-12-08.json`.
-- Each file includes bilingual fields and the model used. Example schema:
+Posts are stored as Markdown files with Frontmatter in `src/data/posts/[slug]/`. Each city has its own directory containing `en.md` and `zh.md`.
 
-```json
-{
-  "date": "2025-12-08",
-  "city": { "en": "Tokyo", "zh": "东京", "country": "Japan" },
-  "photoUrl": "/images/cities/tokyo.jpg",
-  "summaryEn": "Two-sentence English summary.",
-  "summaryZh": "两句中文摘要。",
-  "contentEn": "300-400 words in English...",
-  "contentZh": "300-400 字中文正文...",
-  "model": "gpt-5.1"
-}
+### Directory Structure
 ```
-- Place referenced images in `public/images/cities/`.
-- Language-specific routes are generated from the JSON files at build time.
+src/data/posts/
+└── tokyo/
+    ├── en.md
+    └── zh.md
+```
+
+### File Format (Frontmatter)
+
+**`en.md` Example:**
+```markdown
+---
+title: Tokyo
+date: 2025-12-08
+createdAt: 1733875200000
+city: Tokyo
+city_zh: 东京
+country: Japan
+slug: tokyo
+photoUrl: /images/cities/tokyo.jpg
+model: deepseek-ai/DeepSeek-V3
+summary: "Tokyo is a mesmerizing blend of neon-lit skyscrapers and historic temples. From the bustling crossing of Shibuya to the serene Meiji Shrine, it offers an unforgettable experience."
+---
+
+## A Playful Welcome
+Welcome to Tokyo, where the future meets the past...
+
+## Fun Facts
+- Tokyo has the most Michelin-starred restaurants in the world.
+...
+```
+
+**`zh.md` Example:**
+```markdown
+---
+title: 东京
+date: 2025-12-08
+createdAt: 1733875200000
+city: Tokyo
+city_zh: 东京
+country: Japan
+country_zh: 日本
+slug: tokyo
+photoUrl: /images/cities/tokyo.jpg
+model: deepseek-ai/DeepSeek-V3
+summary: "东京是霓虹闪烁的摩天大楼与历史悠久的寺庙的迷人融合。从涩谷繁忙的十字路口到宁静的明治神宫，它提供令人难忘的体验。"
+---
+
+## 俏皮的欢迎语
+欢迎来到东京，这里是未来与过去的交汇点...
+
+## 有趣冷知识
+- 东京拥有世界上最多的米其林星级餐厅。
+...
+```
+
+- **Images**: Place referenced images in `public/images/cities/`.
+- **Generation**: Use the `generate_post.py` script in the parent directory to automatically generate content and images.
 
 ## Getting Started
 
