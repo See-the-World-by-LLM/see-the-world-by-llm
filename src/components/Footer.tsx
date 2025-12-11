@@ -10,7 +10,8 @@ export default function Footer() {
           <div>
             <h3 className="text-white font-bold mb-4">About</h3>
             <p className="text-sm">
-              See the World by LLM is an automated blog exploring cities around the world through AI-generated insights.
+              See the World by LLM is an automated blog exploring cities around the world.
+              Content is updated multiple times a day using various open-source AI models hosted on Hugging Face.
             </p>
           </div>
 
@@ -19,22 +20,31 @@ export default function Footer() {
             <ul className="text-sm space-y-2">
               <li>Next.js with TypeScript</li>
               <li>Tailwind CSS</li>
-              <li>OpenAI API</li>
+              <li>Hugging Face Inference Providers</li>
               <li>GitHub Pages</li>
             </ul>
           </div>
 
           <div>
-            <h3 className="text-white font-bold mb-4">Links</h3>
+            <h3 className="text-white font-bold mb-4">Author & Projects</h3>
+            <p className="text-sm mb-3">
+              Created by <a href="https://github.com/jzhang533" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300">jzhang533</a>.
+              Feel free to discuss and contribute!
+            </p>
             <ul className="text-sm space-y-2">
               <li>
-                <a href="https://github.com" className="text-blue-400 hover:text-blue-300">
-                  GitHub
+                <a href="https://github.com/jzhang533" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300">
+                  GitHub Profile
                 </a>
               </li>
               <li>
-                <a href="#" className="text-blue-400 hover:text-blue-300">
-                  Contact
+                <a href="https://huggingface.co/jzhang533" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300">
+                  Hugging Face Profile
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/See-the-World-by-LLM/world-explorer" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300">
+                  Automation Script
                 </a>
               </li>
             </ul>
