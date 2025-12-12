@@ -15,7 +15,19 @@ export default function Header() {
             <h1 className="text-2xl font-bold">See the World by LLM</h1>
           </Link>
           <p className="text-sm mt-2 text-blue-100">
-            A daily journey to discover cities around the world, powered by AI
+            {language === 'en'
+              ? 'A daily journey to discover cities around the world, powered by AI. '
+              : 'AI驱动的每日环球城市探索之旅。 '}
+            <a
+              href="https://github.com/See-the-World-by-LLM/world-explorer/issues/1"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-50 hover:text-white underline transition-colors"
+            >
+              {language === 'en'
+                ? 'Have a city in mind? Request it here! ↗'
+                : '有想看的城市？点此留言！ ↗'}
+            </a>
           </p>
         </div>
 
