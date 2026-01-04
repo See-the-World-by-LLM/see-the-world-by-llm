@@ -1,11 +1,11 @@
 ---
-title: [城市的中文名称] — Ruse 的中文名是鲁塞。
+title: 鲁塞
 date: 2025-12-29
 createdAt: 1766980860456
 city: Ruse
-city_zh: [城市的中文名称] — Ruse 的中文名是鲁塞。
+city_zh: 鲁塞
 country: Bulgaria
-country_zh: [国家的中文名称] — Bulgaria 的中文名是保加利亚。
+country_zh: 保加利亚
 slug: ruse
 photoUrl: /images/cities/ruse.jpg
 model: deepseek-ai/DeepSeek-R1-0528

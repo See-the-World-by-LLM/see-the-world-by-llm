@@ -3,9 +3,9 @@ title: Kuala Terengganu
 date: 2025-12-28
 createdAt: 1766937682372
 city: Kuala Terengganu
-city_zh: [城市的中文名称] – 所以是“瓜拉丁加奴”（Kuala Terengganu的中文名）。
+city_zh: 瓜拉丁加奴
 country: Malaysia
-country_zh: [国家的中文名称] – “马来西亚”。
+country_zh: 马来西亚
 slug: kuala-terengganu
 photoUrl: /images/cities/kuala-terengganu.jpg
 model: moonshotai/Kimi-K2-Instruct

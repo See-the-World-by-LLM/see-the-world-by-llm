@@ -1,11 +1,11 @@
 ---
-title: [望加锡]
+title: 望加锡
 date: 2025-12-23
 createdAt: 1766491334525
 city: Makassar
-city_zh: [望加锡]
+city_zh: 望加锡
 country: Indonesia
-country_zh: [印度尼西亚]
+country_zh: 印度尼西亚
 slug: makassar
 photoUrl: /images/cities/makassar.jpg
 model: baidu/ERNIE-4.5-300B-A47B-Base-PT

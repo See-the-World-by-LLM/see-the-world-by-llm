@@ -1,11 +1,11 @@
 ---
-title: [城市的中文名称]
+title: 莫迪因-马卡比姆-雷乌特
 date: 2026-01-02
 createdAt: 1767326492605
 city: Modi'in-Maccabim-Re'ut
-city_zh: [城市的中文名称]
+city_zh: 莫迪因-马卡比姆-雷乌特
 country: Israel
-country_zh: [国家的中文名称]
+country_zh: 以色列
 slug: modi-in-maccabim-re-ut
 photoUrl: /images/cities/modi-in-maccabim-re-ut.jpg
 model: deepseek-ai/DeepSeek-R1-0528
