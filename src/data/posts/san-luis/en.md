@@ -9,6 +9,7 @@ country_zh: 阿根廷
 slug: san-luis
 photoUrl: /images/cities/san-luis.jpg
 model: Qwen/Qwen3-32B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "San Luis, Argentina serves up a perfect mix of laid-back charm, natural wonders, and delicious empanadas (they put an EGG in empanadas—how *rude*!). This guide spills the beans on the city’s quirks, must-try meals, and how to see it all in 24 hours without falling asleep."
 ---
 

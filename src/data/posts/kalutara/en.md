@@ -9,6 +9,7 @@ country_zh: Sri Lanka
 slug: kalutara
 photoUrl: /images/cities/kalutara.jpg
 model: Qwen/Qwen3-4B-Thinking-2507
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "[A 2-sentence summary of the post]"
 ---
 

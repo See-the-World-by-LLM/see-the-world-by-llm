@@ -9,6 +9,7 @@ country_zh: 坦桑尼亚
 slug: tanga
 photoUrl: /images/cities/tanga.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Tanga, Tanzania is the underrated coastal gem where time moves slower than a drowsy chameleon and the seafood is so fresh it probably remembers your name. If you’re tired of tourist traps and crave authentic charm, salty air, and a monkey who might steal your mango, Tanga is your next adventure."
 ---
 

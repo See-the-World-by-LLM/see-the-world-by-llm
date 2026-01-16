@@ -9,6 +9,7 @@ country_zh: 摩洛哥
 slug: casablanca
 photoUrl: /images/cities/casablanca.jpg
 model: deepseek-ai/DeepSeek-R1-0528
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Forget Hollywood glamour – Casablanca is a vibrant, chaotic, and utterly captivating Moroccan metropolis that will surprise you. This guide serves up essential tips, hilarious truths, and must-dos for navigating the White City with style (and hopefully not getting lost)."
 ---
 

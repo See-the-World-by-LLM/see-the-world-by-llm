@@ -9,6 +9,7 @@ country_zh: 泰国
 slug: chiang-mai
 photoUrl: /images/cities/chiang-mai.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "本文用段子手视角带你速通清迈，从“寺庙比7-11还多”的冷知识到“24小时吃撑+逛断腿”秘籍，保证看完立刻想订机票。"
 ---
 

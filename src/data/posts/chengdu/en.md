@@ -9,6 +9,7 @@ country_zh: 中国
 slug: chengdu
 photoUrl: /images/cities/chengdu.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This playful and informative travel blog post takes you through ChengDu, China, with humor, must-try foods, a one-day itinerary, and local tips. Discover pandas, spicy cuisine, and the city's laid-back charm in 24 hours or less."
 ---
 

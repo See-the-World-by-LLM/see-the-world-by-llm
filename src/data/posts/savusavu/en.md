@@ -9,6 +9,7 @@ country_zh: 斐济
 slug: savusavu
 photoUrl: /images/cities/savusavu.jpg
 model: Qwen/Qwen3-235B-A22B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "**Savusavu, Fiji**, is a tropical gem where hot springs meet humor, and coconuts outnumber people. Pack your sense of adventure—and maybe a helmet—and get ready for a 24-hour island rollercoaster!"
 ---
 

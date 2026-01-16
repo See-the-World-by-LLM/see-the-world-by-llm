@@ -9,6 +9,7 @@ country_zh: 科威特
 slug: al-mahbulah
 photoUrl: /images/cities/al-mahbulah.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "马赫布勒是科威特被低估的海滨宝藏，这里既有石油富豪的奢华，也有渔民的咸鱼幽默感。如果你以为中东只有沙漠和骆驼——欢迎来到会卖椰枣冰淇淋的海边小镇。"
 ---
 

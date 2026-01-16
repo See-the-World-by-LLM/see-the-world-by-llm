@@ -9,6 +9,7 @@ country_zh: 伊朗
 slug: tabriz
 photoUrl: /images/cities/tabriz.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Tabriz, Iran's hidden gem, blends ancient history with vibrant modern life. Discover its legendary bazaar, mouthwatering cuisine, and unexpected surprises in this underrated city."
 ---
 

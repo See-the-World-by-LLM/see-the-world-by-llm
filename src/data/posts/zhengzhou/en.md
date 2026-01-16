@@ -9,6 +9,7 @@ country_zh: 中国
 slug: zhengzhou
 photoUrl: /images/cities/zhengzhou.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Zhengzhou, China’s unassuming transportation hub, surprises visitors with ancient history, mouthwatering noodles, and a surprising amount of dinosaur bones. Don’t let its “boring transit stop” reputation fool you—this city is a hidden gem with more personality than your over-enthusiastic GPS."
 ---
 

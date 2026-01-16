@@ -9,6 +9,7 @@ country_zh: 巴基斯坦
 slug: gujranwala
 photoUrl: /images/cities/gujranwala.jpg
 model: zai-org/GLM-4.5
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "古吉兰瓦拉，巴基斯坦的摔跤之都和工业重镇，是一个充满活力和惊喜的城市。在这篇博客中，我将带你领略这座城市的独特魅力，从美食摔跤到隐藏景点，全方位体验古吉兰瓦拉的精髓。"
 ---
 

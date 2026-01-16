@@ -9,6 +9,7 @@ country_zh: 阿根廷
 slug: cordoba
 photoUrl: /images/cities/cordoba.jpg
 model: nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the vibrant city of Cordoba, Argentina, where colonial charm meets modern flair. From humorous comparisons to insider tips, this travel blog post will guide you through the must-see sights, delicious local eats, and hidden gems of this captivating destination."
 ---
 

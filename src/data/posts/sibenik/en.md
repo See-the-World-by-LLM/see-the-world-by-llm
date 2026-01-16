@@ -9,6 +9,7 @@ country_zh: 克罗地亚
 slug: sibenik
 photoUrl: /images/cities/sibenik.jpg
 model: Qwen/QwQ-32B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Sibenik, Croatia’s underrated gem, blends medieval charm with Adriatic sunshine. Discover quirky history, seafood feasts, and a cathedral so unique UNESCO thinks it’s genius (and maybe a bit of pirate magic)."
 ---
 

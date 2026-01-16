@@ -9,6 +9,7 @@ country_zh:
 slug: san-francisco-de-macoris
 photoUrl: /images/cities/san-francisco-de-macoris.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "** A lively guide to San Francisco de Macorís, Dominican Republic, blending humor, must-try foods, and a jam-packed itinerary. Discover hidden gems, local quirks, and how to make the most of 24 hours in this vibrant city. **"
 ---
 

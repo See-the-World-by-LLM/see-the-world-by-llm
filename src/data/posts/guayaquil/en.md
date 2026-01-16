@@ -9,6 +9,7 @@ country_zh: 厄瓜多尔
 slug: guayaquil
 photoUrl: /images/cities/guayaquil.jpg
 model: Qwen/Qwen3-235B-A22B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Guayaquil, Ecuador’s coastal gem, blends chaotic charm with hidden delights. From iguana-filled parks to mouthwatering seafood, this 24-hour guide will show you how to conquer the city like a local."
 ---
 

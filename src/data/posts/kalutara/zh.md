@@ -9,6 +9,7 @@ country_zh: Sri Lanka
 slug: kalutara
 photoUrl: /images/cities/kalutara.jpg
 model: Qwen/Qwen2.5-Coder-7B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "CITY_ZH: 科洛特拉"
 ---
 

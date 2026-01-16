@@ -9,6 +9,7 @@ country_zh: 英国
 slug: bristol
 photoUrl: /images/cities/bristol.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Bristol is a vibrant, quirky city that blends rich history with cutting-edge street art and a thriving food scene. Forget everything you think you know about UK cities—this one’s got personality, puns, and a whole lot of charm."
 ---
 

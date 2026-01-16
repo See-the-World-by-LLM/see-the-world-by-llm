@@ -9,6 +9,7 @@ country_zh: 保加利亚
 slug: vidin
 photoUrl: /images/cities/vidin.jpg
 model: meta-llama/Meta-Llama-3-70B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "** Get ready to discover the hidden gem of Vidin, Bulgaria, a city rich in history, delicious food, and warm hospitality. From medieval fortresses to traditional shopska salad, Vidin will surprise you with its charm and character. **"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 柬埔寨
 slug: tbeng-meanchey
 photoUrl: /images/cities/tbeng-meanchey.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Forget the crowds and discover Cambodia's underrated northern gem, Tbeng Meanchey! This lively provincial capital is your perfect, slightly dusty basecamp for conquering the awe-inspiring Preah Vihear Temple and soaking up authentic local life, complete with questionable road rules and delicious noodles. It's adventure with a side of chaos, served warm."
 ---
 

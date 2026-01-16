@@ -9,6 +9,7 @@ country_zh: 日本
 slug: kobe
 photoUrl: /images/cities/kobe.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇风趣幽默的博客带你快速领略神户的独特魅力，从会做马杀鸡的牛到隐藏的异国风情街区。文章还提供了一份高效的一日游攻略和本地人秘籍，让你像当地人一样玩转这座时尚又美味的港口城市。"
 ---
 

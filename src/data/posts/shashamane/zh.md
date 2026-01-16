@@ -9,6 +9,7 @@ country_zh: 埃塞俄比亚
 slug: shashamane
 photoUrl: /images/cities/shashamane.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "沙沙曼尼是埃塞俄比亚的雷鬼圣地，拉斯特法里教徒的“应许之地”，也是你能在非洲一边吃烤玉米一边听鲍勃·马利歌曲的地方。别被它的“乌托邦”人设骗了——这里连出租车司机都可能用吟诗的方式跟你讲价。"
 ---
 

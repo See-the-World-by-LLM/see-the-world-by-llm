@@ -9,6 +9,7 @@ country_zh: 孟加拉国
 slug: rajshahi
 photoUrl: /images/cities/rajshahi.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Rajshahi, Bangladesh's mango-loving, silk-weaving gem, offers a vibrant escape from the usual tourist trail. This post serves up fun facts, food tips, and a reality check that’ll have you booking a ticket faster than a rickshaw driver in rush hour."
 ---
 

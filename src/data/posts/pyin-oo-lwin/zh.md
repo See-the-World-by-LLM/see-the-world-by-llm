@@ -9,6 +9,7 @@ country_zh: 缅甸
 slug: pyin-oo-lwin
 photoUrl: /images/cities/pyin-oo-lwin.jpg
 model: deepseek-ai/DeepSeek-V3.1-Terminus
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "本文以幽默风趣的笔触带你探索缅甸山城彬乌伦，这里有殖民风情、草莓盛宴和瀑布奇观。你将获得一日游攻略、本地人秘籍以及理想与现实的爆笑对比。"
 ---
 

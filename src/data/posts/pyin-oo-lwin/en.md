@@ -9,6 +9,7 @@ country_zh: 缅甸
 slug: pyin-oo-lwin
 photoUrl: /images/cities/pyin-oo-lwin.jpg
 model: deepseek-ai/DeepSeek-V3.1-Terminus
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This is a cheeky guide to the charming hill station of Pyin Oo Lwin, Myanmar, where colonial relics meet strawberry fields and horse carts rule the roads. We'll cover everything from must-try snacks to a perfect 24-hour plan, all delivered with a dose of humor to prepare you for this delightful anomaly of a town."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 洞涅
 slug: katowice
 photoUrl: /images/cities/katowice.jpg
 model: allenai/Olmo-3-7B-Think
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "PolandKatowice, the \"City of Smiles\" where factory chimneys meet quirky cafes, is your ticket to Europe’s best-kept industrial secrets and the world’s most delicious pierogi. This concrete-and-coal city proves that even in the heart of industry, there’s room for laughter, culture, and a surprisingly friendly cat statue."
 ---
 

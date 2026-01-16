@@ -9,6 +9,7 @@ country_zh: 美国
 slug: kansas-city
 photoUrl: /images/cities/kansas-city.jpg
 model: openai/gpt-oss-120b
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "** A witty, whirlwind tour of Kansas City that blends quirky facts, mouth‑watering BBQ, and a 24‑hour itinerary for first‑timers. From expectations versus reality to a local’s cheat sheet, this guide ensures you’ll leave KC with a smile (and maybe a sauce stain). **"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 墨西哥
 slug: acapulco
 photoUrl: /images/cities/acapulco.jpg
 model: zai-org/GLM-4.6
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "阿卡普尔科，墨西哥传奇的太平洋珍珠，这里有惊心动魄的悬崖跳水和无与伦比的海滩派对。这篇指南将带你跳出游客思维，像本地人一样玩转这座充满复古魅力和无限活力的城市。"
 ---
 

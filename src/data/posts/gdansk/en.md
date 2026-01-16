@@ -9,6 +9,7 @@ country_zh: 波兰
 slug: gdansk
 photoUrl: /images/cities/gdansk.jpg
 model: zai-org/GLM-4.5
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Gdansk, Poland's Baltic gem, will steal your heart with its colorful Hanseatic charm, fascinating history, and surprisingly delicious pierogi. Forget your preconceptions – this city is a vibrant, walkable, and utterly delightful surprise waiting to be explored."
 ---
 

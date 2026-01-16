@@ -9,6 +9,7 @@ country_zh: → 阿曼
 slug: al-masna-ah
 photoUrl: /images/cities/al-masna-ah.jpg
 model: meta-llama/Meta-Llama-3-70B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the hidden gem of Al Masna'ah, Oman, a city that will surprise you with its rich history, stunning architecture, and delicious local cuisine. From fun facts to one-day itineraries, this travel blog post will give you the inside scoop on exploring Al Masna'ah like a pro!"
 ---
 

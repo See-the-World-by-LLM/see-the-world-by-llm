@@ -9,6 +9,7 @@ country_zh: 埃及
 slug: damanhur
 photoUrl: /images/cities/damanhur.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "达曼胡尔是埃及尼罗河三角洲的一颗隐藏明珠，融合了古埃及文明与现代生活。在这座被忽视的宝藏城市，你会发现意想不到的惊喜和地道的埃及风情。"
 ---
 

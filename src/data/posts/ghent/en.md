@@ -9,6 +9,7 @@ country_zh: 比利时
 slug: ghent
 photoUrl: /images/cities/ghent.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Ghent is a captivating blend of medieval charm and modern energy, offering surprises at every corner. This guide serves up fun facts, foodie delights, and savvy tips to make your visit unforgettable."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 中国
 slug: wuhan
 photoUrl: /images/cities/wuhan.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Wuhan, a city of lakes, history, and fiery hotpot, surprises with its laid-back charm and culinary delights—prepare to laugh, eat, and explore like a local!"
 ---
 

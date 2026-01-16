@@ -9,6 +9,7 @@ country_zh: 波兰
 slug: zabrze
 photoUrl: /images/cities/zabrze.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇博客以幽默风趣的方式带你探索波兰的“隐藏宝石”——扎布热。你会发现这里不仅有工业传奇和欧洲最深泳池，还有让你垂涎欲滴的饺子，绝对会颠覆你对西里西亚地区的想象。"
 ---
 

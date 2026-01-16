@@ -9,6 +9,7 @@ country_zh: 烏拉圭
 slug: artigas
 photoUrl: /images/cities/artigas.jpg
 model: google/gemma-2-9b-it
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "来一段热带风情的南美冒险！阿提加斯也许不是乌拉圭最热门的旅游胜地，但它独特的魅力和浓厚的历史底蕴，绝对会让你爱上这片热土。"
 ---
 

@@ -9,6 +9,7 @@ country_zh: → 伊拉克
 slug: ramadi
 photoUrl: /images/cities/ramadi.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "[2句话的文章摘要] -"
 ---
 

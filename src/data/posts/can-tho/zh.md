@@ -9,6 +9,7 @@ country_zh: 越南
 slug: can-tho
 photoUrl: /images/cities/can-tho.jpg
 model: openai/gpt-oss-120b
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "芹苔是湄公河三角洲的“水上天堂”，既有鳞次栉比的浮动市场，也有让人惊掉下巴的美食与人情味。即使只有24小时，也能让你玩到手抽筋、胃鼓胀，却仍意犹未尽。"
 ---
 

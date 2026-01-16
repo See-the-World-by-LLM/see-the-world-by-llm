@@ -9,6 +9,7 @@ country_zh: 哥斯达黎加
 slug: san-isidro-de-el-general
 photoUrl: /images/cities/san-isidro-de-el-general.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这里是塔拉曼卡山脉脚下的“咖啡与菠萝宇宙中心”，24小时能从日出云海蹦到夜市炸香蕉。准备好被热情的ticos灌一杯chicha，再被他们的“Tico Time”温柔地迟到吧！"
 ---
 

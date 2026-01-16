@@ -9,6 +9,7 @@ country_zh: 德国
 slug: munster
 photoUrl: /images/cities/munster.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "明斯特，这座被自行车环绕的德国宝藏城市，以其历史建筑、鹅市场和令人垂涎的美食等待着你的探索。准备好在这座\"北方的罗马\"中迷失方向，然后发现惊喜吧！"
 ---
 

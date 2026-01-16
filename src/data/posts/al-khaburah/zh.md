@@ -9,6 +9,7 @@ country_zh: 阿曼
 slug: al-khaburah
 photoUrl: /images/cities/al-khaburah.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "[2句话的文章摘要] -"
 ---
 

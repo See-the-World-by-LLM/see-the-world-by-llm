@@ -9,6 +9,7 @@ country_zh: 斯洛伐克
 slug: bratislava
 photoUrl: /images/cities/bratislava.jpg
 model: baidu/ERNIE-4.5-300B-A47B-Base-PT
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "布拉迪斯拉发，斯洛伐克首都，一座充满冷知识与美食的宝藏城市。从冷知识到必尝美食，从一日游攻略到本地人秘籍，带你玩转这座幽默又迷人的城市。"
 ---
 

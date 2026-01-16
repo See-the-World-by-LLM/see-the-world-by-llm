@@ -9,6 +9,7 @@ country_zh: 埃及
 slug: faiyum
 photoUrl: /images/cities/faiyum.jpg
 model: Qwen/Qwen2.5-Coder-7B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "**SUMMARY:** Faiyum, a charming oasis town in the Western Desert of Egypt, is where life moves at a pace that's just slow enough to make jokes about. From its surprising history to its delicious local dishes and vibrant nightlife, here’s a guide packed with laughs and useful tips for a day-long adventure!"
 ---
 

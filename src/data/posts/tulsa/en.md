@@ -9,6 +9,7 @@ country_zh: 美国
 slug: tulsa
 photoUrl: /images/cities/tulsa.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Forget the flyover state stereotypes; Tulsa, Oklahoma is a vibrant city bursting with Art Deco splendor, a killer food scene, and a surprising amount of cool. This guide will show you how to eat, explore, and live like a local in just 24 hilarious and informative hours."
 ---
 

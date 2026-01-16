@@ -9,6 +9,7 @@ country_zh: 阿根廷
 slug: bahia-blanca
 photoUrl: /images/cities/bahia-blanca.jpg
 model: nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the charming coastal city of Bahia Blanca, Argentina, where stunning beaches, rich history, and delicious local cuisine await. This travel blog post takes you on a journey through the city's highlights, from fun facts to a one-day itinerary and insider tips."
 ---
 

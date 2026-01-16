@@ -9,6 +9,7 @@ country_zh: 古吉尼亚
 slug: douz
 photoUrl: /images/cities/douz.jpg
 model: Qwen/QwQ-32B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Douz, Tunisia, is more than just a desert pit stop—it’s a quirky oasis packed with camel races, surreal sandscapes, and a locals-only vibe that’ll make you forget the heat. Join us as we explore the \"Gate to the Sahara\" with a sense of humor and a camel-sized appetite."
 ---
 

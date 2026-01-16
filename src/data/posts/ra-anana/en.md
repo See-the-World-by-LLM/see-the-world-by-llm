@@ -9,6 +9,7 @@ country_zh: 以色列
 slug: ra-anana
 photoUrl: /images/cities/ra-anana.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "[A 2-sentence summary of the post]"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 哥伦比亚
 slug: neiva
 photoUrl: /images/cities/neiva.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Neiva, Colombia, is a hidden gem with vibrant culture, delicious food, and warm locals. This playful guide covers fun facts, must-try dishes, a one-day itinerary, and hilarious expectations vs. reality. ###"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 荷兰
 slug: eindhoven
 photoUrl: /images/cities/eindhoven.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Eindhoven, the Dutch city where innovation meets cozy charm, surprises with its tech-savvy vibe, quirky street art, and mouthwatering stroopwafels. Get ready for a whirlwind tour of this underrated gem that’ll make you question why you ever skipped it!"
 ---
 

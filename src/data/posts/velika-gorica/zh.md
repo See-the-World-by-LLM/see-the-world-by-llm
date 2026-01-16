@@ -9,6 +9,7 @@ country_zh: 克罗地亚
 slug: velika-gorica
 photoUrl: /images/cities/velika-gorica.jpg
 model: openai/gpt-oss-120b
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "维利卡·戈里察是克罗地亚首都圈的“后花园”，兼具航空城镇的现代气息和传统乡村的温情。本文用幽默的笔触揭示冷知识、吃遍当地美食，并教你24小时玩转全城的速成攻略。"
 ---
 

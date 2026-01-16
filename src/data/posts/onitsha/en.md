@@ -9,6 +9,7 @@ country_zh: 尼日利亚
 slug: onitsha
 photoUrl: /images/cities/onitsha.jpg
 model: Qwen/Qwen3-30B-A3B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Onitsha, Nigeria, is a vibrant city where chaos meets charm, offering a feast for the senses and a glimpse into Igbo culture. From bustling markets to mouthwatering food, this guide will make you eager to pack your bags."
 ---
 

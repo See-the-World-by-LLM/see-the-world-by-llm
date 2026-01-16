@@ -9,6 +9,7 @@ country_zh: 塞内加尔
 slug: fatick
 photoUrl: /images/cities/fatick.jpg
 model: openai/gpt-oss-120b
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Fatick, the hidden jewel of Senegal, blends mystic history, vibrant markets, and mouth‑watering dishes into a 24‑hour adventure you’ll never forget. Pack your curiosity (and a sturdy appetite) for this whirlwind guide to the city’s quirks, flavors, and insider hacks."
 ---
 

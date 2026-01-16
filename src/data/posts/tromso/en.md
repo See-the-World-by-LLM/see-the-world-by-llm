@@ -9,6 +9,7 @@ country_zh: 挪威
 slug: tromso
 photoUrl: /images/cities/tromso.jpg
 model: deepseek-ai/DeepSeek-R1-0528
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover Tromsø, Norway's Arctic wonderland, where reindeer roam, the northern lights dance, and cozy cafes combat the chill! This humorous and practical guide serves up fun facts, must-eat eats, a whirlwind 24-hour itinerary, and essential local tips to navigate the magic (and the slush)."
 ---
 

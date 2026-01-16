@@ -9,6 +9,7 @@ country_zh: 尼日利亚
 slug: ibadan
 photoUrl: /images/cities/ibadan.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "在非洲最大城市之一的阴影下，伊巴丹用“古早味”+“学霸气”+“辣到你跳舞”的棕榈油魔法把你拐跑。读完这篇，你很可能把机票从拉各斯改签到伊巴丹——别怪我没提醒你！"
 ---
 

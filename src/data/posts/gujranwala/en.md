@@ -9,6 +9,7 @@ country_zh: 巴基斯坦
 slug: gujranwala
 photoUrl: /images/cities/gujranwala.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This travel blog offers a lively and witty guide to Gujranwala, Pakistan, celebrating its wrestling heritage, vibrant markets, and mouthwatering cuisine. Packed with essential tips and a humorous reality check, it's your perfect companion for a deliciously chaotic 24-hour adventure in the 'City of Wrestlers'."
 ---
 

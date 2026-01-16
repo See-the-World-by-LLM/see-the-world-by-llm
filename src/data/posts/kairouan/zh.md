@@ -9,6 +9,7 @@ country_zh: 突尼斯
 slug: kairouan
 photoUrl: /images/cities/kairouan.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "凯鲁万——伊斯兰第四圣城，藏着比骆驼还多的冷知识。24小时就能体验沙漠绿洲的魔力，但记得带好防晒霜和幽默感！"
 ---
 

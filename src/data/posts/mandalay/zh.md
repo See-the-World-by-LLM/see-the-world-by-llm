@@ -9,6 +9,7 @@ country_zh: 缅甸
 slug: mandalay
 photoUrl: /images/cities/mandalay.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇文章以幽默风趣的笔调介绍了缅甸古城曼德勒的独特魅力。它涵盖了从冷知识、美食到一日游攻略的实用信息，并诚实地对比了理想与现实，旨在为读者提供一场充满欢笑的纸上旅行。"
 ---
 

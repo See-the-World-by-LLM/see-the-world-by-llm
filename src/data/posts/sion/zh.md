@@ -9,6 +9,7 @@ country_zh: 瑞士
 slug: sion
 photoUrl: /images/cities/sion.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇幽默风趣的博客带你探索瑞士小镇锡永的冷知识、美食和一日游攻略，还有本地人秘籍和理想与现实的搞笑对比。"
 ---
 

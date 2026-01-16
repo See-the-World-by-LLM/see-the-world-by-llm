@@ -9,6 +9,7 @@ country_zh: 巴林
 slug: hamad-town
 photoUrl: /images/cities/hamad-town.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "哈马德镇是巴林的“椰枣王国”，隐藏着无数趣味故事和美食。这篇博客带你用幽默视角探索这个小镇的冷知识、必吃美食和24小时攻略，保证笑到肚子疼！"
 ---
 

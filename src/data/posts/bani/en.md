@@ -9,6 +9,7 @@ country_zh: 多米尼加共和国
 slug: bani
 photoUrl: /images/cities/bani.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "[2-sentence summary]"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 巴拿马
 slug: pacora
 photoUrl: /images/cities/pacora.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "你以为巴拿马只是运河？错！这座热带都市藏着会跳舞的猴子、会讲西班牙语的鸡，还有让你吃完想移民的烤猪。24小时也能玩出花来——只要别相信旅游指南上说的“悠闲”。"
 ---
 

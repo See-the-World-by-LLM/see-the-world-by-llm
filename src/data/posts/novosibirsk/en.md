@@ -9,6 +9,7 @@ country_zh: 俄罗斯
 slug: novosibirsk
 photoUrl: /images/cities/novosibirsk.jpg
 model: Qwen/Qwen3-235B-A22B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Welcome to Novosibirsk, Russia’s Siberian gem where science meets sass and borscht is a lifestyle. Spend 24 hours dodging snowstorms (maybe), ogling opera houses, and eating dumplings that’ll make you forget the cold."
 ---
 

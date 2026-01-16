@@ -9,6 +9,7 @@ country_zh: 荷兰
 slug: eindhoven
 photoUrl: /images/cities/eindhoven.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "埃因霍温，这座荷兰南部的创新之都，将科技魅力与历史风情完美融合。从设计体验到地道美食，这座城市为游客提供了令人难忘的荷兰体验。"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 中国
 slug: beijing
 photoUrl: /images/cities/beijing.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Pack your sense of adventure (and a good pair of walking shoes) for a whirlwind tour of Beijing, where ancient history collides with modern madness in the most delicious, chaotic, and wonderful ways. This guide will arm you with the essential info and laughs to navigate the Forbidden City, conquer Peking Duck, and embrace the beautiful chaos."
 ---
 

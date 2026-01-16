@@ -9,6 +9,7 @@ country_zh: 斐济
 slug: savusavu
 photoUrl: /images/cities/savusavu.jpg
 model: deepseek-ai/DeepSeek-R1-0528
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇幽默风趣的博客带您探索斐济的隐秘宝石——萨武萨武。从冷知识到必吃美食、极限一日游攻略、理想与现实的爆笑对比，再到本地人私藏秘籍，助您在这座椰林摇曳、温泉汩汩的慵懒天堂玩出精髓。"
 ---
 

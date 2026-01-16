@@ -9,6 +9,7 @@ country_zh: 阿曼
 slug: al-khaburah
 photoUrl: /images/cities/al-khaburah.jpg
 model: zai-org/GLM-4.5
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Al Khaburah, Oman, is a charming coastal gem where history meets the sea, offering a refreshingly authentic slice of Omani life far from the tourist crowds. This guide serves up laughs, local secrets, and a perfect 24-hour plan to help you dive headfirst into its salty, date-filled embrace."
 ---
 

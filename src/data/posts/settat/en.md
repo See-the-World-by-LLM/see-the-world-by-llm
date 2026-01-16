@@ -9,6 +9,7 @@ country_zh: 摩洛哥
 slug: settat
 photoUrl: /images/cities/settat.jpg
 model: meta-llama/Meta-Llama-3-70B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the hidden gem of Settat, Morocco, where rich history meets vibrant culture and delicious food. Get ready to explore this charming city with our insider's guide, packed with fun facts, must-try dishes, and a one-day itinerary to make the most of your trip."
 ---
 

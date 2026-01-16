@@ -9,6 +9,7 @@ country_zh: 摩洛哥
 slug: casablanca
 photoUrl: /images/cities/casablanca.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇幽默风趣的博客带你探索卡萨布兰卡的魅力，从冷知识到美食攻略，再到一日游秘籍，让你在笑声中爱上这座摩洛哥海滨城市。"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 斯洛伐克
 slug: michalovce
 photoUrl: /images/cities/michalovce.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇博客将带你用轻松幽默的方式探索斯洛伐克东部的隐藏宝石——米哈洛夫采。从冷知识到美食，再到本地人秘籍，为你揭开这座城市的独特魅力。"
 ---
 

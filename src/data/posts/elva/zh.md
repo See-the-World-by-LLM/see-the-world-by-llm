@@ -9,6 +9,7 @@ country_zh: 爱沙尼亚
 slug: elva
 photoUrl: /images/cities/elva.jpg
 model: baidu/ERNIE-4.5-300B-A47B-Base-PT
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "走进爱沙尼亚的埃尔瓦，一座被森林与河流宠爱的童话小镇。冷知识、美食、一日游攻略全收录，带你用24小时解锁北欧式幽默与浪漫！ ---"
 ---
 

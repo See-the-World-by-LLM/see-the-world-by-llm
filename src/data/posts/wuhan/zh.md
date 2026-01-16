@@ -9,6 +9,7 @@ country_zh: 中国
 slug: wuhan
 photoUrl: /images/cities/wuhan.jpg
 model: allenai/Olmo-3-7B-Think
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "无锡这座城市让你同时感到好奇又想笑，从红色河流到“小东京”风情，这里的每一步都在告诉你：来玩，但小心别被热汤吓晕！"
 ---
 

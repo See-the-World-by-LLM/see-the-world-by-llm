@@ -9,6 +9,7 @@ country_zh: 爱尔兰
 slug: tralee
 photoUrl: /images/cities/tralee.jpg
 model: openai/gpt-oss-120b
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Tralee, Ireland, is a charming blend of rugged landscapes, quirky history, and hearty food that will make any traveler grin. This blog gives you the low‑down on fun facts, must‑eat dishes, a perfect 24‑hour itinerary, and the insider tips locals swear by."
 ---
 

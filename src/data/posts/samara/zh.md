@@ -9,6 +9,7 @@ country_zh: 俄罗斯
 slug: samara
 photoUrl: /images/cities/samara.jpg
 model: openai/gpt-oss-120b
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "萨马拉，这座坐落在伏尔加河畔的“俄罗斯的明珠”，兼具工业气息与悠闲雅致。来这里，你会发现惊人的冷知识、令人垂涎的美食，以及只要24小时就能填满的旅行清单。"
 ---
 

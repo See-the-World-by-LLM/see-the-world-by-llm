@@ -9,6 +9,7 @@ country_zh: 日本
 slug: okinawa
 photoUrl: /images/cities/okinawa.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Dive into the vibrant island culture of Okinawa with this guide that mixes essential facts, tasty eats, and a whirlwind one-day plan. We'll navigate the hilarious gaps between expectation and reality, and share local secrets to help you travel like a pro."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 坦桑尼亚
 slug: songea
 photoUrl: /images/cities/songea.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Songea, Tanzania, is a hidden gem where history, culture, and warm hospitality collide in the most delightful way. This guide will help you navigate its charm, flavors, and quirks like a seasoned local."
 ---
 

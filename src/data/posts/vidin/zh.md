@@ -9,6 +9,7 @@ country_zh: 保加利亚
 slug: vidin
 photoUrl: /images/cities/vidin.jpg
 model: deepseek-ai/DeepSeek-R1-0528
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "[2句话的文章摘要] -"
 ---
 

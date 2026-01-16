@@ -9,6 +9,7 @@ country_zh: 斐济
 slug: navua
 photoUrl: /images/cities/navua.jpg
 model: deepseek-ai/DeepSeek-V3.1-Terminus
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇博客将带你领略斐济纳武阿的自然与人文魅力，从刺激的河上探险到地道的卡瓦仪式。文章以幽默的笔触揭示了理想与现实的旅行差异，并提供了宝贵的本地人秘籍，让你的旅程更加完美。"
 ---
 

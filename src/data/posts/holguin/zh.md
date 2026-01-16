@@ -9,6 +9,7 @@ country_zh: 古巴
 slug: holguin
 photoUrl: /images/cities/holguin.jpg
 model: openai/gpt-oss-120b
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "古巴霍尔古因是一座被热带雨林环抱、咖啡香气扑鼻的城市，适合想要在热情加勒比海风情中寻找惊喜的旅行者。本文用幽默的笔触揭示冷知识、必吃佳肴和24小时速玩攻略，让你在理想与现实之间笑出声来。"
 ---
 

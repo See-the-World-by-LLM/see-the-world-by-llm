@@ -9,6 +9,7 @@ country_zh: 哥伦比亚
 slug: neiva
 photoUrl: /images/cities/neiva.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "内瓦是哥伦比亚最被低估的宝藏城市，热得像烤箱、笑得像段子手，美食多到让你怀疑人生。别被它的名字骗了——这里不是“内卷”，是“内瓦”！"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 古吉尼亚
 slug: douz
 photoUrl: /images/cities/douz.jpg
 model: allenai/Olmo-3-7B-Think
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "从迷失在蜜蜂巢子里的街道到被一只疯狂的马夫鞭打的街头艺人，古吉尼亚都的 TunisDouz 是一个既有趣又有点挑战性的旅行目的地。来吧，逗你笑的！"
 ---
 

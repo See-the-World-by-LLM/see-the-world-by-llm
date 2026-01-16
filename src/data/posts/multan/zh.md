@@ -9,6 +9,7 @@ country_zh: 巴基斯坦
 slug: multan
 photoUrl: /images/cities/multan.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇幽默风趣的博客带你探索巴基斯坦木尔坦的冷知识、美食和一日游攻略，还有本地人秘籍和理想与现实的搞笑对比。"
 ---
 

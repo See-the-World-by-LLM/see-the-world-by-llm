@@ -9,6 +9,7 @@ country_zh: 奥地利
 slug: leoben
 photoUrl: /images/cities/leoben.jpg
 model: deepseek-ai/DeepSeek-R1-0528
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Forget Vienna waltzes and Salzburg hills - Leoben, Austria's charmingly industrial underdog, packs quirky charm, delicious Styrian treats, and surprising history. This guide serves up a hilarious, honest dose of what to expect (and where to find the good schnitzel) if you only have 24 hours in this unique town."
 ---
 

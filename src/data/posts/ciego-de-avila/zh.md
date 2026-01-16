@@ -9,6 +9,7 @@ country_zh: 古巴
 slug: ciego-de-avila
 photoUrl: /images/cities/ciego-de-avila.jpg
 model: baidu/ERNIE-4.5-300B-A47B-Base-PT
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "走进古巴谢戈德阿维拉，这个被阳光与海风亲吻的小城，藏着无数冷知识和美食惊喜。跟随这篇博客，用24小时解锁它的独特魅力吧！"
 ---
 

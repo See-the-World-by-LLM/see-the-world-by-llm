@@ -9,6 +9,7 @@ country_zh: 以色列
 slug: bat-yam
 photoUrl: /images/cities/bat-yam.jpg
 model: nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the charms of Bat Yam, Israel, a city that blends beach vibes with urban delights. From quirky fun facts to mouth-watering local eats, this travel blog post is your ultimate guide to exploring Bat Yam like a pro."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 委内瑞拉
 slug: barquisimeto
 photoUrl: /images/cities/barquisimeto.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇幽默风趣的博客带你探索委内瑞拉的巴基西梅托，从冷知识到美食攻略，再到一日游推荐，让你笑着爱上这座充满魅力的城市。"
 ---
 

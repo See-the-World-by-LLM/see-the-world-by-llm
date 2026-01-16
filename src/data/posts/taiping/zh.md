@@ -9,6 +9,7 @@ country_zh: 马来西亚
 slug: taiping
 photoUrl: /images/cities/taiping.jpg
 model: openai/gpt-oss-120b
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "太平，这座被热带雨林环抱、拥有殖民风情的“小城”，是马来西亚隐秘的宝藏。本文用轻松幽默的笔调，带你快速扫荡必看景点、奇葩冷知识、美食与当地秘笈，让24小时玩转太平不再是梦。"
 ---
 

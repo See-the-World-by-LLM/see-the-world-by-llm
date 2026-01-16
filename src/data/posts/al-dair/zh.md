@@ -9,6 +9,7 @@ country_zh: 巴林
 slug: al-dair
 photoUrl: /images/cities/al-dair.jpg
 model: MiniMaxAI/MiniMax-M2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "想在巴林当一晚的“半当地半游客”？这篇风趣幽默、信息丰富的巴林阿尔代尔小城指南帮你用24小时逛出100小时的快乐；景点、美食、交通礼仪的本地秘籍，一篇搞定。"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 德国
 slug: munster
 photoUrl: /images/cities/munster.jpg
 model: meta-llama/Meta-Llama-3-70B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Get ready to fall in love with Munster, Germany, a charming city that's full of surprises! From its quirky history to its delicious food and stunning architecture, Munster is a hidden gem that's waiting to be discovered."
 ---
 

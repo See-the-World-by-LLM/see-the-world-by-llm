@@ -9,6 +9,7 @@ country_zh: 德国
 slug: essen
 photoUrl: /images/cities/essen.jpg
 model: nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the hidden gem of Essen, Germany, where industrial heritage meets vibrant culture. This travel blog post takes you on a humorous and informative journey through the city's must-see attractions, local eats, and insider tips."
 ---
 

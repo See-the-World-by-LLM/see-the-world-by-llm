@@ -9,6 +9,7 @@ country_zh: 多米尼加共和国
 slug: santa-cruz-de-barahona
 photoUrl: /images/cities/santa-cruz-de-barahona.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Santa Cruz de Barahona is the Dominican Republic’s unfiltered, sun-bleached wildcard—equal parts coconut-scented chill and “did-that-really-just-happen?” adventure. This post spills the beans on what to eat, where to pee (sorry, “be”), and how to survive 24 hours without accidentally marrying a fisherman named Papo."
 ---
 

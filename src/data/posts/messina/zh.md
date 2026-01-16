@@ -9,6 +9,7 @@ country_zh: 意大利
 slug: messina
 photoUrl: /images/cities/messina.jpg
 model: deepseek-ai/DeepSeek-V3.1-Terminus
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇文章以幽默风趣的笔触带你探索意大利的“门户”城市墨西拿。你会发现这座城市的冷知识、必尝美食以及如何像当地人一样在短短24小时内玩转墨西拿的秘籍。"
 ---
 

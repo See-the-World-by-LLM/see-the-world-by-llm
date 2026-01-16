@@ -9,6 +9,7 @@ country_zh: 埃塞俄比亚
 slug: shashamane
 photoUrl: /images/cities/shashamane.jpg
 model: baidu/ERNIE-4.5-300B-A47B-Base-PT
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "[Shashamane, Ethiopia’s “Rasta Capital,” is a vibrant blend of culture, history, and laid-back vibes. From reggae beats to spicy stews, this town offers a unique adventure for travelers seeking off-the-beaten-path charm.]"
 ---
 

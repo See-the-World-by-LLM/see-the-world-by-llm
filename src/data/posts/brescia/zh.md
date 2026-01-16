@@ -9,6 +9,7 @@ country_zh: 意大利
 slug: brescia
 photoUrl: /images/cities/brescia.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇博客将带你探索意大利被严重低估的宝藏城市——布雷西亚。文章以幽默风趣的口吻，揭示了这座城市的冷知识、美食秘籍和高效的一日游攻略，让你像本地人一样玩转布雷西亚。"
 ---
 

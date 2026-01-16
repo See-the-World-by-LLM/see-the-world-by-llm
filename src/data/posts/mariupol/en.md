@@ -9,6 +9,7 @@ country_zh: 乌克兰
 slug: mariupol
 photoUrl: /images/cities/mariupol.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Dive into a tongue-in-cheek virtual tour of Mariupol, Ukraine—where Cossacks once partied, steel plants outshine skyscrapers, and the local fish smoke themselves (almost). Pack your sense of humor and an appetite for chebureky; the city may be off-limits IRL right now, but it’s wide open in travel-daydream mode."
 ---
 

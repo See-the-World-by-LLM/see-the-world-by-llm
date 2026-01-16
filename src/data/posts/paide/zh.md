@@ -9,6 +9,7 @@ country_zh: 爱沙尼亚
 slug: paide
 photoUrl: /images/cities/paide.jpg
 model: baidu/ERNIE-4.5-300B-A47B-Base-PT
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "走进爱沙尼亚的“中世纪小甜心”派德，这里不仅有冷知识满天飞，还有让你味蕾跳舞的美食。一日游也能玩出花，快收下这份幽默攻略！ ---"
 ---
 

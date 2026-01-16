@@ -9,6 +9,7 @@ country_zh: 芬兰
 slug: kouvola
 photoUrl: /images/cities/kouvola.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "芬兰东南部低调的铁路枢纽科沃拉，用松鼠、火车和卡累利阿派征服你的味蕾与笑点。这里没有赫尔辛基的高冷，只有接地气的幽默与惊喜。"
 ---
 

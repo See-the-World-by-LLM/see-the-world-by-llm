@@ -9,6 +9,7 @@ country_zh: 波兰
 slug: zabrze
 photoUrl: /images/cities/zabrze.jpg
 model: MiniMaxAI/MiniMax-M2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This playful travel guide explores the unexpectedly charming industrial city of Zabrze, Poland, debunking stereotypes while highlighting hidden gems, local cuisine, and practical insider tips for an unforgettable 24-hour adventure."
 ---
 

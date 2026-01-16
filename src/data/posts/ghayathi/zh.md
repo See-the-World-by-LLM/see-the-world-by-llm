@@ -9,6 +9,7 @@ country_zh: 阿拉伯联合酋长国
 slug: ghayathi
 photoUrl: /images/cities/ghayathi.jpg
 model: Qwen/Qwen3-235B-A22B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这座沙漠里的宝藏城市，既能让你在骆驼背上摇晃着吃冰激凌，也能用荧光沙丘的星光治愈你的拍照强迫症。准备好在盖娅丝蒂体验“土豪与沙土齐飞”的奇妙冒险了吗？"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 厄瓜多尔
 slug: guayaquil
 photoUrl: /images/cities/guayaquil.jpg
 model: deepseek-ai/DeepSeek-R1-0528
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇幽默风趣的博客带你速览厄瓜多尔活力之都瓜亚基尔。从冷知识到必吃美食、一日游攻略，再到本地人秘籍和理想与现实的反差笑料，助你高效玩转这座“太平洋明珠”。"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 芬兰
 slug: kouvola
 photoUrl: /images/cities/kouvola.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the hidden charm of Kouvola, Finland, where nature meets quirky history and saunas are practically a religion. This guide spills the beans on must-try foods, epic day trips, and how to blend in with the locals (hint: embrace the silence)."
 ---
 

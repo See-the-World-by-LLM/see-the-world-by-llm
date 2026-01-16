@@ -9,6 +9,7 @@ country_zh: 中国
 slug: chongqing
 photoUrl: /images/cities/chongqing.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Chongqing, China’s mountainous mega-city, is a thrilling maze of steaming hot pots, dizzying heights, and relentless escalators—expect the unexpected and bring your appetite!"
 ---
 

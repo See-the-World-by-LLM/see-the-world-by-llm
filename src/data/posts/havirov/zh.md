@@ -9,6 +9,7 @@ country_zh: 捷克共和国
 slug: havirov
 photoUrl: /images/cities/havirov.jpg
 model: deepseek-ai/DeepSeek-R1-Distill-Llama-70B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "哈维若夫，这个捷克共和国东北部的小城，虽然不像布拉格那样名气大，但它却有着独特的魅力和幽默感。从它的工业历史到隐藏的美食宝藏，这里会让你在24小时内爱上它！"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 突尼斯
 slug: gafsa
 photoUrl: /images/cities/gafsa.jpg
 model: zai-org/GLM-4.5
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "加夫萨是突尼斯西南部的一颗隐藏宝石，以其壮观的沙漠风光和丰富的历史遗产而闻名。这座绿洲城市将为游客带来一场穿越时间与文化的独特体验。"
 ---
 

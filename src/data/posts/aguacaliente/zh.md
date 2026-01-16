@@ -9,6 +9,7 @@ country_zh: 哥斯达黎加
 slug: aguacaliente
 photoUrl: /images/cities/aguacaliente.jpg
 model: nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Aguacaliente，一座隐藏在哥斯达黎加的温泉小镇，等待着你的探索。从有趣的冷知识到必尝的美食，bsub带你领略这座城市的独特魅力。"
 ---
 

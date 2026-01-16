@@ -9,6 +9,7 @@ country_zh: 危地马拉
 slug: totonicapan
 photoUrl: /images/cities/totonicapan.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "[A 2-sentence summary of the post]"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 美国
 slug: kansas-city
 photoUrl: /images/cities/kansas-city.jpg
 model: baidu/ERNIE-4.5-300B-A47B-Base-PT
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "堪萨斯城，一个被烤肉香气和爵士乐包围的“中西部宝藏”，冷知识多到能让你笑出腹肌，美食和隐藏玩法更是让人欲罢不能。快来解锁这座城市的“反差萌”！"
 ---
 

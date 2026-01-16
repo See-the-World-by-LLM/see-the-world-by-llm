@@ -9,6 +9,7 @@ country_zh: 伊拉克
 slug: baghdad
 photoUrl: /images/cities/baghdad.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Baghdad is a city of ancient wonders, chaotic charm, and hummus so good it might make you weep—don’t let the headlines scare you off. Come for the history, stay for the tea, the laughter, and the guy who insists you try “just one more bite” of kubba."
 ---
 

@@ -9,6 +9,7 @@ country_zh: Saudi Arabia
 slug: medina
 photoUrl: /images/cities/medina.jpg
 model: swiss-ai/Apertus-8B-Instruct-2509
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "# 从沙漠到天堂：Medina，沙特阿拉伯的神秘宝藏"
 ---
 

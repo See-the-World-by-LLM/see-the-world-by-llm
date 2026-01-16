@@ -9,6 +9,7 @@ country_zh: 孟加拉国
 slug: noakhali
 photoUrl: /images/cities/noakhali.jpg
 model: deepseek-ai/DeepSeek-V3.1-Terminus
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This blog post is your hilarious and handy guide to Noakhali, Bangladesh, a place where the tea is sweet, the people are sweeter, and the adventures are unexpectedly charming. We dive into must-try foods, a jam-packed itinerary, and the comical gap between expectation and reality."
 ---
 

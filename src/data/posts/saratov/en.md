@@ -9,6 +9,7 @@ country_zh: 俄罗斯
 slug: saratov
 photoUrl: /images/cities/saratov.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This engaging and humorous travel blog post takes you on a whirlwind tour of Saratov, Russia, packed with fun facts, must-try foods, and a one-day itinerary. Discover the city's quirks, local secrets, and a playful reality check to make your visit unforgettable."
 ---
 

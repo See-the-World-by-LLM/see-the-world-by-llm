@@ -9,6 +9,7 @@ country_zh: 孟加拉国
 slug: rajshahi
 photoUrl: /images/cities/rajshahi.jpg
 model: openai/gpt-oss-120b
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "拉杰沙希是孟加拉国的“紫色之城”，兼具古老的学术氛围与热闹的市集。本文用幽默的笔调带你快速搞定24小时玩转攻略、吃遍必尝美食以及本地人的隐藏秘诀。"
 ---
 

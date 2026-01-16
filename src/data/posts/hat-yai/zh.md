@@ -9,6 +9,7 @@ country_zh: 泰国
 slug: hat-yai
 photoUrl: /images/cities/hat-yai.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇风趣幽默的博客带你探索泰国南部的宝藏小城——合艾。从意想不到的冷知识到让人垂涎欲滴的美食，再到24小时极限游玩攻略，让你在笑声中彻底爱上这座充满活力的城市。"
 ---
 

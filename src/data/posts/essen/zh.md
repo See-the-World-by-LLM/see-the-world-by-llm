@@ -9,6 +9,7 @@ country_zh: 德国
 slug: essen
 photoUrl: /images/cities/essen.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "埃森，德国鲁尔区的“钢铁侠”城市，用工业遗产变身文化新地标！本文带你用24小时解锁冷知识、必吃美食，以及“理想vs现实”的爆笑旅行真相。"
 ---
 

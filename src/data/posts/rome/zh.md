@@ -9,6 +9,7 @@ country_zh: 意大利
 slug: rome
 photoUrl: /images/cities/rome.jpg
 model: openai/gpt-oss-120b
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇幽默又信息满满的罗马旅游指南，帮你在24小时内玩转永恒之城。无论是冷知识、必吃美食，还是本地人偷偷传授的技巧，都让你笑着踏上意式冒险。"
 ---
 

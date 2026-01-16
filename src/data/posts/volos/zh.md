@@ -9,6 +9,7 @@ country_zh: 希腊
 slug: volos
 photoUrl: /images/cities/volos.jpg
 model: zai-org/GLM-4.5
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "沃洛斯是希腊色萨利地区的一颗隐藏宝石，拥有丰富的神话历史、美味的当地美食和通往皮利翁山的便利通道。这座港口城市完美结合了传统文化与现代化设施，是探索希腊中部不可错过的目的地。"
 ---
 

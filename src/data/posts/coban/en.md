@@ -9,6 +9,7 @@ country_zh: 危地马拉
 slug: coban
 photoUrl: /images/cities/coban.jpg
 model: nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Get ready to fall in love with Coban, Guatemala, a hidden gem waiting to be explored. From stunning natural wonders to mouth-watering local cuisine, this travel blog post will guide you through the best of Coban with humor, insider tips, and a dash of adventure."
 ---
 

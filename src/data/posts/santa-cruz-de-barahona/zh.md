@@ -9,6 +9,7 @@ country_zh: 多米尼加共和国
 slug: santa-cruz-de-barahona
 photoUrl: /images/cities/santa-cruz-de-barahona.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "探索多米尼加共和国西海岸的隐藏宝石——巴拉奥纳！本文带你穿越热带风情，从冷知识到美食攻略，笑中带泪的旅行指南助你玩转这座被低估的天堂。"
 ---
 

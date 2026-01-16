@@ -9,6 +9,7 @@ country_zh: 塞内加尔
 slug: dakar
 photoUrl: /images/cities/dakar.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This post offers a vibrant and humorous guide to Dakar, Senegal, blending essential information with witty observations. It covers must-see spots, delicious food, local tips, and what you can really expect from this energetic coastal capital."
 ---
 

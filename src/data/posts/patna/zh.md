@@ -9,6 +9,7 @@ country_zh: 印度
 slug: patna
 photoUrl: /images/cities/patna.jpg
 model: Qwen/Qwen3-30B-A3B-Thinking-2507
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "巴特那不仅是印度最古老的城市之一，更是历史与街头美食的活力融合。准备好被它的“古老魅力”和“现代混乱”双重暴击，让24小时变成终生回忆！"
 ---
 

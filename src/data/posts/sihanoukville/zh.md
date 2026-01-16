@@ -9,6 +9,7 @@ country_zh: 柬埔寨
 slug: sihanoukville
 photoUrl: /images/cities/sihanoukville.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇文章以幽默风趣的笔调，带领读者探索柬埔寨的海滨城市西哈努克市。文章不仅提供了实用的旅行攻略、必尝美食和冷知识，还通过理想与现实的对比增添趣味，鼓励读者亲自前往体验这座城市的独特魅力。"
 ---
 

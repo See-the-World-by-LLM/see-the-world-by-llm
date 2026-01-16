@@ -9,6 +9,7 @@ country_zh: 泰国
 slug: bangkok
 photoUrl: /images/cities/bangkok.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "** This travel blog post takes you on a whirlwind tour of Bangkok, Thailand, blending humor, fun facts, and practical tips. From must-try street food to a jam-packed one-day itinerary, you’ll leave feeling like a Bangkok insider. **"
 ---
 

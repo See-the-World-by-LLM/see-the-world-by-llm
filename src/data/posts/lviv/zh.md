@@ -9,6 +9,7 @@ country_zh: 乌克兰
 slug: lviv
 photoUrl: /images/cities/lviv.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "利沃夫是一座把“咖啡香”当氧气、“砖墙”当滤镜的城市，24小时就能让你从“打卡游客”升级成“半吊子本地人”。读完这篇，你钱包还没打开，心已经飞去乌克兰西边最会开玩笑的小城了。"
 ---
 

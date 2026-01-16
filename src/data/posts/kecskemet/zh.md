@@ -9,6 +9,7 @@ country_zh: 匈牙利
 slug: kecskemet
 photoUrl: /images/cities/kecskemet.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "凯奇凯梅特——匈牙利最“不正经”的城市，拥有会跳舞的雕像、吃不胖的香肠和一个连本地人都说不清的交通规则。如果你以为匈牙利只有布达佩斯，那你错过了一个连鸽子都懂幽默的地方。"
 ---
 

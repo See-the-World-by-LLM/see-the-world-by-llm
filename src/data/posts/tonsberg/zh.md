@@ -9,6 +9,7 @@ country_zh: 挪威
 slug: tonsberg
 photoUrl: /images/cities/tonsberg.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "滕斯贝格，挪威最古老的“时光胶囊”，藏着维京时代的秘密与北欧的慵懒风情。在这里，每一块砖都在讲故事，每一口海鲜都带着大海的幽默。"
 ---
 

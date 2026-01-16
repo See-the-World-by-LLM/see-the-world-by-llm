@@ -9,6 +9,7 @@ country_zh: 巴基斯坦
 slug: quetta
 photoUrl: /images/cities/quetta.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Quetta, Pakistan, is a city of rugged beauty, rich culture, and mouthwatering food. This guide will take you through its highlights, from must-try dishes to a jam-packed one-day itinerary, all served with a side of humor. ###"
 ---
 

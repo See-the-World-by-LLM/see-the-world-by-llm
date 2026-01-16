@@ -9,6 +9,7 @@ country_zh: 加纳
 slug: obuasi
 photoUrl: /images/cities/obuasi.jpg
 model: nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the hidden gem of Obuasi, Ghana, where rich history, vibrant culture, and warm hospitality await. From gold mines to delicious local eats, this travel blog post will guide you through an unforgettable adventure in Obuasi."
 ---
 

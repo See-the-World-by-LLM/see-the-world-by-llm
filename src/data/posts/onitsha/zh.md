@@ -9,6 +9,7 @@ country_zh: 尼日利亚
 slug: onitsha
 photoUrl: /images/cities/onitsha.jpg
 model: Qwen/Qwen3-8B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "探索尼日利亚“非洲硅谷”的魅力，从热浪到美食的极致体验。"
 ---
 

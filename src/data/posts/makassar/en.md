@@ -9,6 +9,7 @@ country_zh: 印度尼西亚
 slug: makassar
 photoUrl: /images/cities/makassar.jpg
 model: zai-org/GLM-4.5
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Dive into the vibrant chaos of Makassar, where history meets spice and traffic jams double as cultural immersion. This post dishes out hilarious truths, mouthwatering eats, and a whirlwind 24-hour guide to Indonesia’s underrated gateway to the east."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 哥伦比亚
 slug: bucaramanga
 photoUrl: /images/cities/bucaramanga.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "在“美丽之城”布卡拉曼加，24小时足够让你从峡谷尖叫到夜市吃到扶墙。看完这篇，你会相信：不打卡这座山城，你的哥伦比亚护照章就缺个牙！"
 ---
 

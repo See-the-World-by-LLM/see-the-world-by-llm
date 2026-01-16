@@ -9,6 +9,7 @@ country_zh: 伊朗
 slug: tabriz
 photoUrl: /images/cities/tabriz.jpg
 model: Qwen/Qwen3-235B-A22B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "从世界最古老集市到彩虹湖奇观，这座伊朗西北部的宝藏城市总能用幽默感和惊喜征服旅行者。24小时极限玩法+本地人才懂的隐藏彩蛋，带你解锁真正的波斯风情。"
 ---
 

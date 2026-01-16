@@ -9,6 +9,7 @@ country_zh: 比利时
 slug: ghent
 photoUrl: /images/cities/ghent.jpg
 model: deepseek-ai/DeepSeek-V3.1-Terminus
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇博客将带你以幽默风趣的方式探索比利时根特这座被低估的中世纪宝石。从令人捧腹的冷知识到一日游攻略，帮你规划一趟既高效又充满欢乐的旅程。"
 ---
 

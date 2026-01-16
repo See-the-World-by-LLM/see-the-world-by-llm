@@ -9,6 +9,7 @@ country_zh: 坦桑尼亚
 slug: tanga
 photoUrl: /images/cities/tanga.jpg
 model: MiniMaxAI/MiniMax-M2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "一座被东非海风轻轻拂过、被殖民桥与市集悄悄包围的海边小城。读完全文，你会带着三件有趣的事实、一份24小时行程、和几则“理想很丰满、现实很骨感”的幽默对比，笑着走向这个被忽略的海岸宝藏。"
 ---
 

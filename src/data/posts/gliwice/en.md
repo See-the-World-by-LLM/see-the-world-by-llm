@@ -9,6 +9,7 @@ country_zh: 波兰
 slug: gliwice
 photoUrl: /images/cities/gliwice.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Gliwice, Poland, is a hidden gem bursting with quirky charm, rich history, and surprisingly delicious food. Forget stereotypes—this Silesian city will surprise you with its vibrant culture and unexpected delights."
 ---
 

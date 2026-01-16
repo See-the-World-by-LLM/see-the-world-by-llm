@@ -9,6 +9,7 @@ country_zh: 匈牙利
 slug: kecskemet
 photoUrl: /images/cities/kecskemet.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the charming Hungarian city of Kecskemet, where Baroque architecture meets quirky traditions and culinary delights, perfect for a surprising 24-hour adventure."
 ---
 

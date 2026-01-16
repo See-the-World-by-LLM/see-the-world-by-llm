@@ -9,6 +9,7 @@ country_zh: Egypt
 slug: aswan
 photoUrl: /images/cities/aswan.jpg
 model: meta-llama/Llama-3.2-1B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "**SUMMARY**"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 意大利
 slug: messina
 photoUrl: /images/cities/messina.jpg
 model: nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the charming city of Messina, Italy, where rich history, mouth-watering cuisine, and stunning views await. This travel blog post takes you on a journey through the city's hidden gems, local eats, and humorous anecdotes to make your trip unforgettable."
 ---
 

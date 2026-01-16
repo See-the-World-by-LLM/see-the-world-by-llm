@@ -9,6 +9,7 @@ country_zh: 中国
 slug: zhengzhou
 photoUrl: /images/cities/zhengzhou.jpg
 model: zai-org/GLM-4.5
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "郑州是中国八大古都之一，拥有丰富的历史文化和美食。这篇博客将带你探索这座古老又现代的城市，体验它的魅力与独特之处。"
 ---
 

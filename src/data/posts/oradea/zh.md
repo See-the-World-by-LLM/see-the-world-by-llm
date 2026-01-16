@@ -9,6 +9,7 @@ country_zh: 罗马尼亚
 slug: oradea
 photoUrl: /images/cities/oradea.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "奥拉迪亚——罗马尼亚隐藏的“整活”之都，钟楼报时、幽灵博物馆、温泉疗养，让你笑到停不下来。这里不仅有美食，还有比电影更魔幻的现实！"
 ---
 

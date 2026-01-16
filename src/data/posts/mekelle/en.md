@@ -9,6 +9,7 @@ country_zh: 埃塞俄比亚
 slug: mekelle
 photoUrl: /images/cities/mekelle.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Mekelle, Ethiopia’s vibrant northern gem, is a whirlwind of history, heat, and hilariously stubborn donkeys — where ancient rock churches rub shoulders with bustling markets and your taste buds will thank you for every spicy bite. Don’t come for silence; come for stories, injera, and the chance to outrun a goat in a traffic jam."
 ---
 

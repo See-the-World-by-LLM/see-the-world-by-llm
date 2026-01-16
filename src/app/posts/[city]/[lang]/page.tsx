@@ -43,6 +43,7 @@ export default async function PostPage({ params }: PageProps) {
   const cityName = lang === 'en' ? post.city.en : post.city.zh;
   const countryName = (lang === 'zh' && post.city.countryZh) ? post.city.countryZh : post.city.country;
   const modelLabel = lang === 'en' ? post.modelEn : post.modelZh;
+  const imageModel = post.imageModel;
 
   return (
     <div className="min-h-screen bg-gray-50 flex flex-col">
@@ -83,16 +84,31 @@ export default async function PostPage({ params }: PageProps) {
               </time>
             </div>
             {modelLabel && (
-              <div className="flex items-center gap-2 text-sm text-gray-600">
-                <span>Model:</span>
-                <a
-                  href={`https://huggingface.co/${modelLabel}`}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="text-blue-600 hover:text-blue-700"
-                >
-                  {modelLabel}
-                </a>
+              <div className="flex flex-col gap-1 text-sm text-gray-600">
+                <div className="flex items-center gap-2">
+                  <span>Model:</span>
+                  <a
+                    href={`https://huggingface.co/${modelLabel}`}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="text-blue-600 hover:text-blue-700"
+                  >
+                    {modelLabel}
+                  </a>
+                </div>
+                {imageModel && (
+                  <div className="flex items-center gap-2">
+                    <span>Image Model:</span>
+                    <a
+                      href={`https://huggingface.co/${imageModel}`}
+                      target="_blank"
+                      rel="noreferrer"
+                      className="text-blue-600 hover:text-blue-700"
+                    >
+                      {imageModel}
+                    </a>
+                  </div>
+                )}
               </div>
             )}
           </div>

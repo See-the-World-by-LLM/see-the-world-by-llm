@@ -9,6 +9,7 @@ country_zh: 中国
 slug: shenyang
 photoUrl: /images/cities/shenyang.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "沈阳，一座把“硬核工业”和“撸串灵魂”焊在一起的城市，冷知识比老雪还冰，美食比鸡架还香。24小时就能让你从故宫穿越到搓澡堂，再被东北人的热情灌醉。"
 ---
 

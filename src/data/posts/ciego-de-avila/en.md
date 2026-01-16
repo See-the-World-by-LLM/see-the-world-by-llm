@@ -9,6 +9,7 @@ country_zh: 古巴
 slug: ciego-de-avila
 photoUrl: /images/cities/ciego-de-avila.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover Ciego de Avila, Cuba’s unsung gem where colonial charm meets Caribbean flair, offering a hilarious blend of history, mouthwatering cuisine, and unexpected surprises. Pack your sense of adventure and prepare for a 24-hour whirlwind through a city that defies expectations!"
 ---
 

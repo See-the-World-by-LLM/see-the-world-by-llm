@@ -9,6 +9,7 @@ country_zh: 以色列
 slug: rehovot
 photoUrl: /images/cities/rehovot.jpg
 model: Qwen/Qwen3-235B-A22B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这座以色列中部的科技绿洲，既藏着全球最硬核的科研机构，又盛产让人笑出眼泪的农业冷笑话。24小时玩转雷霍沃特，你将收获知识、美食与表情包素材三件套！"
 ---
 

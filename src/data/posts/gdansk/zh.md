@@ -9,6 +9,7 @@ country_zh: 波兰
 slug: gdansk
 photoUrl: /images/cities/gdansk.jpg
 model: deepseek-ai/DeepSeek-R1-0528
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "[2句话的文章摘要] — 需要总结文章内容，用两句话。 -"
 ---
 

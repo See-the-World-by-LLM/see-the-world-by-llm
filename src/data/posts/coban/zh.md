@@ -9,6 +9,7 @@ country_zh: 危地马拉
 slug: coban
 photoUrl: /images/cities/coban.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "科班，危地马拉的咖啡之都，以其宜人气候和丰富文化吸引游客。探索这座城市的秘密，品尝美食，享受难忘的冒险。"
 ---
 

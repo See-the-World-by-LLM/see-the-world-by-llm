@@ -9,6 +9,7 @@ country_zh: 尼泊尔
 slug: triyuga
 photoUrl: /images/cities/triyuga.jpg
 model: zai-org/GLM-4.5
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Triyuga, Nepal, is a vibrant Terai town bursting with unexpected charm, delicious eats, and hilarious reality checks. Get ready for dust, spice, and genuine warmth in this off-the-beaten-path gem."
 ---
 

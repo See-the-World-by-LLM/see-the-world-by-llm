@@ -9,6 +9,7 @@ country_zh: 爱沙尼亚
 slug: voru
 photoUrl: /images/cities/voru.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This is a hilarious and informative guide to Võru, Estonia, a charming town that’s far more than just a funny name. Get ready for smoked fish, spontaneous folk singing, and discovering why this hidden gem is the anti-Tallinn you never knew you needed."
 ---
 

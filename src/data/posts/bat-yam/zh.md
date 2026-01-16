@@ -9,6 +9,7 @@ country_zh: 以色列
 slug: bat-yam
 photoUrl: /images/cities/bat-yam.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇幽默风趣的博客带你探索以色列海滨小城巴特亚姆的魅力。文章揭秘了三个冷知识，推荐了必尝美食，规划了紧凑一日游，并贴心地提供了理想与现实的对比以及本地人秘籍，最后热情邀请你亲自体验这座“地中海边的小辣椒”。"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 乌干达
 slug: gulu
 photoUrl: /images/cities/gulu.jpg
 model: nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "欢迎来到充满意外惊喜的乌干达首府！这里的冷知识如StatusLabel般有趣，美食足以让味蕾起舞，一日游攻略助您高效探索，幽默的对比展现真实与想象的差异，本地人秘籍带您体验地道之趣。预备好开启您的Gulu冒险之旅吧！"
 ---
 

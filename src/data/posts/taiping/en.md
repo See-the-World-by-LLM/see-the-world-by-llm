@@ -9,6 +9,7 @@ country_zh: 马来西亚
 slug: taiping
 photoUrl: /images/cities/taiping.jpg
 model: deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Taiping, Malaysia, is a charming town steeped in history, culture, and quirky attractions. From its colonial heritage to its vibrant street food scene, Taiping offers a unique blend of old-world charm and modern delights that will leave you wanting more."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 中国
 slug: shanghai
 photoUrl: /images/cities/shanghai.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This blog post offers a lively and humorous guide to Shanghai, blending essential facts, food recommendations, and a packed itinerary with witty observations. It’s designed to help travelers navigate the city’s wonders and quirks with local tips and a dash of fun."
 ---
 

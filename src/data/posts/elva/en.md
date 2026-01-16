@@ -9,6 +9,7 @@ country_zh: 爱沙尼亚
 slug: elva
 photoUrl: /images/cities/elva.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the charming town of Elva, Estonia, through this engaging and humorous travel guide. From fun facts to must-try foods and a packed one-day itinerary, this post has everything you need to explore Elva like a local."
 ---
 

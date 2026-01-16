@@ -9,6 +9,7 @@ country_zh: 土耳其
 slug: konya
 photoUrl: /images/cities/konya.jpg
 model: zai-org/GLM-4.6
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "来到科尼亚，你将发现一个旋转着苏菲主义诗篇与烤肉香气的世界。这里不仅是鲁米的故乡，更是一场心灵与味蕾的双重修行。"
 ---
 

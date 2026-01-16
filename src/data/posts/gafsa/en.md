@@ -9,6 +9,7 @@ country_zh: 突尼斯
 slug: gafsa
 photoUrl: /images/cities/gafsa.jpg
 model: Qwen/Qwen3-235B-A22B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Gafsa, Tunisia, blends ancient history, quirky phosphate lore, and oasis charm into one unforgettable adventure. From steaming hot springs to market chaos, this underdog city proves you don’t need pyramids to steal the show."
 ---
 

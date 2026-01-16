@@ -9,6 +9,7 @@ country_zh: 阿根廷
 slug: san-luis
 photoUrl: /images/cities/san-luis.jpg
 model: nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "准备好被圣路易斯的魅力_plus_美食和隐藏的宝藏们逗乐了！从傲人的 冷知识到DataURL的攻略，这篇文章会让您 желать去这座阿根廷小城一游。无论是探险、品味还是发呆，这里都能满足您的旅行瘾！"
 ---
 

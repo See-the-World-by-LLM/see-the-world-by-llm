@@ -9,6 +9,7 @@ country_zh: 瑞士
 slug: sion
 photoUrl: /images/cities/sion.jpg
 model: openai/gpt-oss-120b
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "A whimsical yet practical guide to Sion, Switzerland, blending quirky anecdotes with must‑see sights, delicious eats, and insider tips. Whether you have a week or just 24 hours, this post shows how to experience the city’s charm without getting lost in cheese‑filled confusion."
 ---
 

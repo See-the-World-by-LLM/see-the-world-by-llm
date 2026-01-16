@@ -9,6 +9,7 @@ country_zh:
 slug: san-francisco-de-macoris
 photoUrl: /images/cities/san-francisco-de-macoris.jpg
 model: deepseek-ai/DeepSeek-R1-0528
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "[2句话的文章摘要] -"
 ---
 

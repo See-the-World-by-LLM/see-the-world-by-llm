@@ -9,6 +9,7 @@ country_zh: 挪威
 slug: tromso
 photoUrl: /images/cities/tromso.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇幽默风趣的博客带你走进北极之门特罗姆瑟，揭秘它的冷知识、美食和一日游攻略。文章还提供了理想与现实的对比以及本地人秘籍，鼓励你亲自踏上这片神奇的土地。"
 ---
 

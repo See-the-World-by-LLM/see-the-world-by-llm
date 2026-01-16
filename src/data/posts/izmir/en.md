@@ -9,6 +9,7 @@ country_zh: 土耳其
 slug: izmir
 photoUrl: /images/cities/izmir.jpg
 model: Qwen/Qwen3-235B-A22B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Izmir, Turkey’s third-largest city, blends ancient history, vibrant markets, and mouthwatering cuisine with a side of seaside charm. This guide covers everything from boyoz pastries to dodging overly friendly cats in 24 hours."
 ---
 

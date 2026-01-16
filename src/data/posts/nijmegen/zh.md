@@ -9,6 +9,7 @@ country_zh: 荷兰
 slug: nijmegen
 photoUrl: /images/cities/nijmegen.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "奈梅亨是荷兰最古老却最会装嫩的城市，连罗马人都曾为它打call。24小时足够你骑车、啃奶酪、踩古砖，还能在瓦桥上看夕阳假装自己是中世纪主角。"
 ---
 

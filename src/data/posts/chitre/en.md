@@ -9,6 +9,7 @@ country_zh: 巴拿马
 slug: chitre
 photoUrl: /images/cities/chitre.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Chitré looks like someone miniaturized Panama City, wrung out the traffic, and sprinkled it with folkloric sparkle. In 24 hours you can binge on corn-wrapped calories, dance to accordion beats in the street, and still be in bed by ten—this post shows you how."
 ---
 

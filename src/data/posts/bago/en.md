@@ -9,6 +9,7 @@ country_zh: 缅甸
 slug: bago
 photoUrl: /images/cities/bago.jpg
 model: deepseek-ai/DeepSeek-V3.1-Terminus
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This post is a lighthearted guide to the chaotic charm of Bago, Myanmar. Packed with humor, essential tips, and a one-day itinerary, it proves that while Bago might not be a polished gem, its giant, wobbly Buddhas and vibrant energy are an unforgettable adventure."
 ---
 

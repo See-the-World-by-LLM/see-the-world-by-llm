@@ -9,6 +9,7 @@ country_zh: 匈牙利
 slug: sopron
 photoUrl: /images/cities/sopron.jpg
 model: deepseek-ai/DeepSeek-R1-Distill-Qwen-14B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Sopron, Hungary is a magical mix of whimsical history, mouthwatering cuisine, and charming small-town vibes. Whether you're a history buff, foodie, or just looking for a quick escape, Sopron will capture your heart in 24 hours flat."
 ---
 

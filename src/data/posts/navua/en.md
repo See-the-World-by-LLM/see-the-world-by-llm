@@ -9,6 +9,7 @@ country_zh: 斐济
 slug: navua
 photoUrl: /images/cities/navua.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Forget Fiji's postcard-perfect beaches for a day and dive into the muddy, magical heart of Navua! This blog is your hilarious and handy guide to river adventures, unexpected history, and why you *need* to try that weird-looking root vegetable cake."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 瑞典
 slug: uppsala
 photoUrl: /images/cities/uppsala.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Uppsala, Sweden’s historic university town is where Viking spirits meet espresso-fueled students—and you’ll leave obsessed with meatballs, medieval cathedrals, and the world’s tallest spire that somehow doesn’t get a parking ticket."
 ---
 

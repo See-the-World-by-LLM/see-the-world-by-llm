@@ -9,6 +9,7 @@ country_zh: 斯洛文尼亚
 slug: trbovlje
 photoUrl: /images/cities/trbovlje.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇博客将带您以幽默风趣的方式探索斯洛文尼亚的“硬核”小镇特尔博夫列。文章揭示了它不为人知的冷知识、必尝美食和高效一日游攻略，并诚实地对比了理想与现实的差距。"
 ---
 

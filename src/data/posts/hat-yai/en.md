@@ -9,6 +9,7 @@ country_zh: 泰国
 slug: hat-yai
 photoUrl: /images/cities/hat-yai.jpg
 model: deepseek-ai/DeepSeek-V3.1-Terminus
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This guide explores the vibrant city of Hat Yai, Thailand, with a mix of humor and practical advice. From unexpected rooster statues and dazzling temples to the ultimate green curry and a whirlwind 24-hour itinerary, it's your key to unlocking the city's quirky charm."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 巴基斯坦
 slug: multan
 photoUrl: /images/cities/multan.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "[A 2-sentence summary of the post]"
 ---
 

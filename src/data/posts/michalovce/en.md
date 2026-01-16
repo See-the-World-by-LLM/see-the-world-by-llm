@@ -9,6 +9,7 @@ country_zh: 斯洛伐克
 slug: michalovce
 photoUrl: /images/cities/michalovce.jpg
 model: Qwen/Qwen3-30B-A3B-Thinking-2507
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Michalovce isn't the postcard-perfect Slovakia you might expect, but it's the charming, cheese-drenched, slightly quirky hidden gem that deserves your vacation. Pack your appetite and a sense of humor for a day trip that defies expectations."
 ---
 

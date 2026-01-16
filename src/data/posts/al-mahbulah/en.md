@@ -9,6 +9,7 @@ country_zh: 科威特
 slug: al-mahbulah
 photoUrl: /images/cities/al-mahbulah.jpg
 model: deepseek-ai/DeepSeek-V3.1-Terminus
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This blog post is a lighthearted and informative guide to the often-overlooked city of Al Mahbulah, Kuwait. It serves up a mix of quirky facts, essential foodie tips, and a realistic one-day plan, all wrapped in a humorous take on what to really expect."
 ---
 

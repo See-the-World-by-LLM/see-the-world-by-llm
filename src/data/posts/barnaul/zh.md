@@ -9,6 +9,7 @@ country_zh: 俄罗斯
 slug: barnaul
 photoUrl: /images/cities/barnaul.jpg
 model: deepseek-ai/DeepSeek-V3.1-Terminus
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇文章以幽默风趣的方式带你探索俄罗斯的“备胎”首府——巴尔瑙尔。你会发现这座西伯利亚城市的冷知识、美食和独特魅力，并学会如何在24小时内玩转它。"
 ---
 

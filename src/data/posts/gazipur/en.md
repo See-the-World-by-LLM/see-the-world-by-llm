@@ -9,6 +9,7 @@ country_zh:
 slug: gazipur
 photoUrl: /images/cities/gazipur.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover Gazipur, Bangladesh's unsung industrial hub turned surprising getaway, where factories meet forests and culinary delights await the intrepid traveler. This bustling city near Dhaka offers a unique blend of urban energy, natural escapes, and mouthwatering flavors that defy expectations."
 ---
 

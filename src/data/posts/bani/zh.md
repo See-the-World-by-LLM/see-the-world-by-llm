@@ -9,6 +9,7 @@ country_zh: 多米尼加共和国
 slug: bani
 photoUrl: /images/cities/bani.jpg
 model: deepseek-ai/DeepSeek-V3.1-Terminus
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇风趣幽默的文章带你探索多米尼加共和国的巴尼市，一个充满芒果香气和海风的小城。文章揭秘了当地的冷知识、必尝美食和高效一日游攻略，并提供了本地人的实用秘籍。"
 ---
 

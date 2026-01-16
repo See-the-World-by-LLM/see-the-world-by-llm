@@ -9,6 +9,7 @@ country_zh: 埃及
 slug: damanhur
 photoUrl: /images/cities/damanhur.jpg
 model: deepseek-ai/DeepSeek-R1-0528
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "[A 2-sentence summary of the post]"
 ---
 

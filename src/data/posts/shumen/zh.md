@@ -9,6 +9,7 @@ country_zh: 保加利亚
 slug: shumen
 photoUrl: /images/cities/shumen.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "舒门——一个连地图都懒得画清楚的保加利亚宝藏小城，却藏着千年古堡、会跳舞的石头和会讲笑话的奶酪。如果你以为保加利亚只有玫瑰和酸奶，那你还没见过舒门的“神操作”。"
 ---
 

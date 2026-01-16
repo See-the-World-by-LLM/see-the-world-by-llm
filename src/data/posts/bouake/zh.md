@@ -9,6 +9,7 @@ country_zh: 科特迪瓦
 slug: bouake
 photoUrl: /images/cities/bouake.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "在科特迪瓦的“音乐之都”班吉，你可能被鼓点催眠，被芒果噎住，但绝对会被当地人热情到怀疑人生。24小时玩转这座笑中带泪的热带都市，从街头烤鸡到“假装懂交通”的终极挑战，这里比你的前任还难懂，却比任何度假村都真实。"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 中国
 slug: shenyang
 photoUrl: /images/cities/shenyang.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This is your hilarious and helpful guide to conquering Shenyang, China in 24 hours. We cover imperial palaces, questionable-smelling snacks, and how to avoid looking like a lost tourist in a city that’s way cooler than you think."
 ---
 

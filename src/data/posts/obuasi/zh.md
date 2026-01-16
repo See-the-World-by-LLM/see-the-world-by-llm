@@ -9,6 +9,7 @@ country_zh: 加纳
 slug: obuasi
 photoUrl: /images/cities/obuasi.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "奥布阿西不只是金矿的代名词，它还是一座把黄金埋在笑话里的城市。一篇24小时爆笑生存指南，教你如何在24克拉阳光下挖到快乐。"
 ---
 

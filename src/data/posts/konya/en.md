@@ -9,6 +9,7 @@ country_zh: 土耳其
 slug: konya
 photoUrl: /images/cities/konya.jpg
 model: nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the charming city of Konya, Turkey, where rich history, delicious food, and warm hospitality await. This travel blog post takes you on a journey through Konya's highlights, from quirky fun facts to mouth-watering local cuisine and expert tips for a memorable trip."
 ---
 

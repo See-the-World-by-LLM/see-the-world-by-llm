@@ -9,6 +9,7 @@ country_zh: → 哥斯达黎加。
 slug: san-vicente
 photoUrl: /images/cities/san-vicente.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "San Vicente, Costa Rica is a blink-and-you’ll-mlove-it mountain hideaway where coffee smells better than your morning alarm and the locals treat you like long-lost cousins. This post spills the beans—literally—on how to squeeze maximum pura vida into 24 caffeine-fired hours."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 印度
 slug: patna
 photoUrl: /images/cities/patna.jpg
 model: moonshotai/Kimi-K2-Instruct-0905
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Patna, India’s chaotic, charming capital of Bihar, is a city where ancient universities rub shoulders with lassi the size of your head. This post spills the chai on what to eat, where to go, and how to survive 24 sweat-soaked, soul-stirring hours without getting fleeced by a rickshaw wallah."
 ---
 

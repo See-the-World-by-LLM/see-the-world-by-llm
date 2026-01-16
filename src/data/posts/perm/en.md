@@ -9,6 +9,7 @@ country_zh: 俄罗斯
 slug: perm
 photoUrl: /images/cities/perm.jpg
 model: nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the quirky charm of Perm, Russia, a city that seamlessly blends Soviet-era grandeur with modern eccentricity. From its bizarre museums to its mouth-watering local delicacies, Perm is a hidden gem waiting to be explored."
 ---
 

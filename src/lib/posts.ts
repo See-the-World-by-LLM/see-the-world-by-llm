@@ -14,6 +14,7 @@ export interface BlogPost {
   slug: string;
   photoUrl: string;
   model?: string;
+  imageModel?: string;
   modelEn?: string;
   modelZh?: string;
   summaryEn: string;
@@ -58,6 +59,7 @@ export function getAllPosts(): BlogPost[] {
           slug: enMatter.data.slug,
           photoUrl: enMatter.data.photoUrl,
           model: enMatter.data.model,
+          imageModel: enMatter.data.imageModel,
           modelEn: enMatter.data.model,
           modelZh: zhMatter.data.model,
           summaryEn: enMatter.data.summary,
@@ -74,6 +76,7 @@ export function getAllPosts(): BlogPost[] {
         const post = JSON.parse(content);
         if (!post.slug) post.slug = item.replace('.json', '');
         post.modelEn = post.model;
+        post.imageModel = post.imageModel;
         post.modelZh = post.model;
         post.createdAt = stat.birthtimeMs;
         posts.push(post);
@@ -119,6 +122,7 @@ export function getPostBySlug(slug: string): BlogPost | null {
         slug: enMatter.data.slug,
         photoUrl: enMatter.data.photoUrl,
         model: enMatter.data.model,
+        imageModel: enMatter.data.imageModel,
         modelEn: enMatter.data.model,
         modelZh: zhMatter.data.model,
         summaryEn: enMatter.data.summary,
@@ -137,6 +141,7 @@ export function getPostBySlug(slug: string): BlogPost | null {
       const post = JSON.parse(content);
       if (!post.slug) post.slug = slug;
       post.modelEn = post.model;
+      post.imageModel = post.imageModel;
       post.modelZh = post.model;
       return post;
     } catch (e) {

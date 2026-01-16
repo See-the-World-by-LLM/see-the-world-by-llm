@@ -9,6 +9,7 @@ country_zh: → 哥斯达黎加。
 slug: san-vicente
 photoUrl: /images/cities/san-vicente.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "摘要要简洁，两句话。 -"
 ---
 

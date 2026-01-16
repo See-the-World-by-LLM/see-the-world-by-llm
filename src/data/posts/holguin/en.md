@@ -9,6 +9,7 @@ country_zh: 古巴
 slug: holguin
 photoUrl: /images/cities/holguin.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This cheeky guide to Holguín, Cuba, serves up the city's vibrant parks, surprising history, and delicious pork with a side of humor. Get ready for rooster alarms, salsa steps, and the essential tip: bring patience and pesos (both kinds!)."
 ---
 

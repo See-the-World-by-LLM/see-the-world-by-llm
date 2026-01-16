@@ -9,6 +9,7 @@ country_zh: 加拿大
 slug: kelowna
 photoUrl: /images/cities/kelowna.jpg
 model: deepseek-ai/DeepSeek-R1-0528
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇幽默风趣的博客带你探索加拿大BC省阳光之城基洛纳！揭秘水怪传说、太空葡萄园，品尝桃酒和班诺克面包，获取24小时暴走攻略和本地人秘籍，体验理想与现实的爆笑反差。"
 ---
 

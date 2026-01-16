@@ -9,6 +9,7 @@ country_zh: 加纳
 slug: dome
 photoUrl: /images/cities/dome.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Dome, a bustling suburb of Accra, is a vibrant microcosm of modern Ghanaian life that deserves a spot on your itinerary. This guide will take you through its unique charm with humor, must-try foods, and local secrets for an unforgettable 24-hour adventure."
 ---
 

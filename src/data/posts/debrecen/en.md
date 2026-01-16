@@ -9,6 +9,7 @@ country_zh: 匈牙利
 slug: debrecen
 photoUrl: /images/cities/debrecen.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Forget Budapest for a second and let's talk about Debrecen, Hungary's charming and sun-drenched second city. This guide will have you navigating its grand squares, quirky museums, and legendary fried cheese like a local, all with a healthy dose of humor."
 ---
 

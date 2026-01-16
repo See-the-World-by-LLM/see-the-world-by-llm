@@ -9,6 +9,7 @@ country_zh: 中国
 slug: chaoshan-2
 photoUrl: /images/cities/chaoshan-2.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这是一篇轻松幽默的潮汕旅游指南，带你领略独特的“工夫”文化、征服味蕾的美食和当地人“滴茶”的日常。文章充满了实用的秘籍和俏皮的对比，旨在让你笑着规划下一次美食文化之旅。"
 ---
 

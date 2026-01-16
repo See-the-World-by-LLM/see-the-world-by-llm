@@ -9,6 +9,7 @@ country_zh: 墨西哥
 slug: toluca
 photoUrl: /images/cities/toluca.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "托卢卡是墨西哥州的首府，一个被火山环绕的“水边之城”，却因干涸的湖泊而成了“无水的水边”——但别担心，这里的热巧克力和幽默感足以弥补一切！"
 ---
 

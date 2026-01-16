@@ -9,6 +9,7 @@ country_zh: 阿根廷
 slug: santiago-del-estero
 photoUrl: /images/cities/santiago-del-estero.jpg
 model: zai-org/GLM-4.5
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover Santiago del Estero, Argentina's oldest city, where history meets vibrant folklore and surprisingly delicious cuisine. This guide promises laughs, local secrets, and a perfect 24-hour adventure in a place warmer than its weather!"
 ---
 

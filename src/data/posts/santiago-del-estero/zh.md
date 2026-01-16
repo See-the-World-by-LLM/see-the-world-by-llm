@@ -9,6 +9,7 @@ country_zh: 阿根廷
 slug: santiago-del-estero
 photoUrl: /images/cities/santiago-del-estero.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇幽默风趣的博客带你探索阿根廷的圣地亚哥-德尔埃斯特罗，从冷知识到美食，再到一日游攻略和本地人秘籍，让你轻松玩转这座充满魅力的城市。"
 ---
 

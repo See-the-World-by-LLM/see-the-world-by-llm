@@ -9,6 +9,7 @@ country_zh: 阿尔及利亚
 slug: batna
 photoUrl: /images/cities/batna.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "[2-sentence summary]"
 ---
 

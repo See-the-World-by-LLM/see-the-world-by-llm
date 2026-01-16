@@ -9,6 +9,7 @@ country_zh: 墨西哥
 slug: toluca
 photoUrl: /images/cities/toluca.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Toluca, Mexico, is a vibrant city brimming with culture, delicious food, and surprising quirks. This guide serves up fun facts, must-try eats, a one-day itinerary, and a hilarious reality check to help you explore like a local."
 ---
 

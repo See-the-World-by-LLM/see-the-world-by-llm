@@ -9,6 +9,7 @@ country_zh: 俄罗斯
 slug: saratov
 photoUrl: /images/cities/saratov.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "欢迎来到萨拉托夫，这座伏尔加河畔的隐藏宝石！准备好在俄罗斯最友善的城市之一，体验一段既怀旧又前卫的奇妙旅程。"
 ---
 

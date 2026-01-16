@@ -9,6 +9,7 @@ country_zh: 印度尼西亚
 slug: jakarta
 photoUrl: /images/cities/jakarta.jpg
 model: baidu/ERNIE-4.5-300B-A47B-Base-PT
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "走进雅加达——这座东南亚的“魔幻现实主义”之都，体验交通迷宫、美食天堂与冷知识大爆炸！24小时也能玩出花，本地人秘籍助你避坑，快收好攻略出发吧！"
 ---
 

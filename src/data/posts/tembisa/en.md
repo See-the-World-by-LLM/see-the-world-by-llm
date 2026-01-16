@@ -9,6 +9,7 @@ country_zh: 南非
 slug: tembisa
 photoUrl: /images/cities/tembisa.jpg
 model: Qwen/Qwen2.5-Coder-3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "### CONTENT:"
 ---
 

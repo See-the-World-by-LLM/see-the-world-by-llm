@@ -9,6 +9,7 @@ country_zh: 斯里兰卡
 slug: wattala
 photoUrl: /images/cities/wattala.jpg
 model: zai-org/GLM-4.6
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Wattala, Sri Lanka's underrated suburban gem, offers authentic local experiences just outside bustling Colombo. From diverse cultural sites to mouthwatering cuisine, this guide reveals why Wattala deserves a spot on your Sri Lankan itinerary."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 哥伦比亚
 slug: bucaramanga
 photoUrl: /images/cities/bucaramanga.jpg
 model: baidu/ERNIE-4.5-300B-A47B-Base-PT
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Bucaramanga, Colombia’s “City of Parks,” is a vibrant mix of natural beauty, quirky charm, and mouthwatering street food. Whether you’re here for 24 hours or a week, this guide will help you navigate its hills, hammocks, and hidden gems with humor and local flair."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 巴西
 slug: sao-luis
 photoUrl: /images/cities/sao-luis.jpg
 model: nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the vibrant charm of São Luís, Brazil, a city where colonial history meets stunning natural beauty. From quirky fun facts to mouth-watering local cuisine, this travel guide will help you make the most of your trip to this hidden gem."
 ---
 

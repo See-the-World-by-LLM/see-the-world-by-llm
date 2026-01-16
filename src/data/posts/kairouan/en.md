@@ -9,6 +9,7 @@ country_zh: 突尼斯
 slug: kairouan
 photoUrl: /images/cities/kairouan.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Kairouan is the spiritual heart of Tunisia disguised as a laid-back carpet-making, pastry-frying theme park. Read this before you go so you don’t accidentally insult a baker, miss the world’s oldest minaret, or—worse—skip the sugar-drenched makroudh."
 ---
 

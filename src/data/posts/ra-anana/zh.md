@@ -9,6 +9,7 @@ country_zh: 以色列
 slug: ra-anana
 photoUrl: /images/cities/ra-anana.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "拉阿纳纳是以色列最“加拿大”的城市，却藏在亚洲，用高科技和中东风味把你甜到掉牙。读完这篇，你会立刻想订机票去和仙人掌合影、再让鹰嘴豆泥征服味蕾。"
 ---
 

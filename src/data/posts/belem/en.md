@@ -9,6 +9,7 @@ country_zh: 巴西
 slug: belem
 photoUrl: /images/cities/belem.jpg
 model: deepseek-ai/DeepSeek-R1-0528
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "[2-sentence summary]"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 日本
 slug: okinawa
 photoUrl: /images/cities/okinawa.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这是一篇幽默风趣的冲绳旅游指南，充满了实用信息和自嘲式笑点。文章带你快速了解冲绳的冷知识、美食和高效游玩秘籍，鼓励你亲自去体验这座独特海岛的魔力。"
 ---
 

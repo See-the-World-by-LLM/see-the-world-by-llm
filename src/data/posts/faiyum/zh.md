@@ -9,6 +9,7 @@ country_zh: 埃及
 slug: faiyum
 photoUrl: /images/cities/faiyum.jpg
 model: Qwen/Qwen3-30B-A3B-Thinking-2507
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "法尤姆，埃及的“低调宝藏”，藏着比金字塔更接地气的秘境——湖光山色、鳄鱼神庙和让你笑出腹肌的本地人日常。别被它的“小众”骗了，这里能让旅行小白秒变埃及通！"
 ---
 

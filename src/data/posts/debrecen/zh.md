@@ -9,6 +9,7 @@ country_zh: 匈牙利
 slug: debrecen
 photoUrl: /images/cities/debrecen.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "德布勒森——匈牙利第二大城市，拥有欧洲最大的新教教堂、会跳舞的火鸡，以及让你以为自己在布达佩斯结果发现连ATM都懒得找你说话的真诚冷漠。这里不是旅游手册里的“小巴黎”，但绝对是味蕾和灵魂的意外惊喜。"
 ---
 

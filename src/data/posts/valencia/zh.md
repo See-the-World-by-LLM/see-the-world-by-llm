@@ -9,6 +9,7 @@ country_zh: 委内瑞拉
 slug: valencia
 photoUrl: /images/cities/valencia.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "瓦伦西亚是委内瑞拉的一颗活力四射的宝石，融合了历史、美食和幽默的冒险。准备好在24小时内体验一场让你笑到肚子疼的旅程吧！"
 ---
 

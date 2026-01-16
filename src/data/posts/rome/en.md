@@ -9,6 +9,7 @@ country_zh: 意大利
 slug: rome
 photoUrl: /images/cities/rome.jpg
 model: nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the eternal city of Rome through a humorous and informative lens, covering must-know facts, mouth-watering food, a whirlwind one-day itinerary, and insider tips to make your trip unforgettable. Get ready to laugh, learn, and long for the dolce vita as we dive into the heart of Italy."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 爱尔兰
 slug: bray
 photoUrl: /images/cities/bray.jpg
 model: openai/gpt-oss-120b
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "布雷是一个兼具海岸风光与城市热闹的小镇，让你一天玩遍又不失悠闲。本文用幽默的笔触带你发现它的冷知识、必吃美食和不为人知的本地秘籍。"
 ---
 

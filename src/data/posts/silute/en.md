@@ -9,6 +9,7 @@ country_zh: 立陶宛
 slug: silute
 photoUrl: /images/cities/silute.jpg
 model: google/gemma-2-9b-it
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Embrace the charm of Silute, Lithuania, a hidden gem on the banks of the Jūra river. This quirky city offers history, nature, and surprisingly delicious food, proving that big things come in small packages."
 ---
 

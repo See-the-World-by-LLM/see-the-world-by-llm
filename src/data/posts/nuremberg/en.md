@@ -9,6 +9,7 @@ country_zh: 德国
 slug: nuremberg
 photoUrl: /images/cities/nuremberg.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This post takes you on a hilarious and insightful 24-hour sprint through Nuremberg, Germany. From sausage etiquette to medieval charm, get ready for a whirlwind tour packed with fun facts, must-eat foods, and local secrets that will make you want to book a trip."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 保加利亚
 slug: shumen
 photoUrl: /images/cities/shumen.jpg
 model: deepseek-ai/DeepSeek-V3.1-Terminus
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This blog post is your ultimate guide to exploring Shumen, Bulgaria, with a healthy dose of humor and practical advice. We cover everything from colossal communist monuments and cheesy pastry to why your expectations of a sleepy town are hilariously wrong."
 ---
 

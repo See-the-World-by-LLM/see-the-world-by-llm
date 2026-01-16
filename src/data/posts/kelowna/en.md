@@ -9,6 +9,7 @@ country_zh: 加拿大
 slug: kelowna
 photoUrl: /images/cities/kelowna.jpg
 model: zai-org/GLM-4.5
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Kelowna is the sun-drenched, wine-soaked heart of the Okanagan, offering stunning lakeside views and delicious local bites. This guide packs in playful facts, must-try eats, a whirlwind 24-hour plan, and hilarious truths to ensure your visit is more 'ah-mazing' than 'uh-oh'."
 ---
 

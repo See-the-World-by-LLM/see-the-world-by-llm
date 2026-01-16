@@ -9,6 +9,7 @@ country_zh: 印度
 slug: jaipur
 photoUrl: /images/cities/jaipur.jpg
 model: deepseek-ai/DeepSeek-V3.1-Terminus
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇博客以幽默诙谐的方式带你快速领略粉色之城斋浦尔的无限魅力。从冷知识到一日游攻略，再到本地人秘籍，本文将是你规划斋浦尔之旅的绝佳拍档。"
 ---
 

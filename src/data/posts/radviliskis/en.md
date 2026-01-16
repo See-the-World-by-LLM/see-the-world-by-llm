@@ -9,6 +9,7 @@ country_zh: 立陶宛
 slug: radviliskis
 photoUrl: /images/cities/radviliskis.jpg
 model: openai/gpt-oss-120b
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Radviliskis may be tiny, but it packs a punch of history, quirky facts, and tasty treats that will leave you smiling. This blog gives you a whirlwind tour, a cheeky reality check, and insider hacks to make the most of a 24‑hour adventure."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 阿曼
 slug: ibri
 photoUrl: /images/cities/ibri.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇博客以轻松幽默的方式带你探索阿曼的“阳光之都”伊卜里，揭秘它的冷知识、美食和隐藏玩法。准备好迎接沙漠的炙热和当地人的热情吧！"
 ---
 

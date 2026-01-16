@@ -9,6 +9,7 @@ country_zh: 英国
 slug: bristol
 photoUrl: /images/cities/bristol.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "布里斯托，这座充满创意与历史的城市，以其独特的街头艺术、美味的苹果酒和友好的当地人而闻名。准备好在这座英格兰西南部的瑰宝中迷失方向、发现惊喜并让你的味蕾跳舞吧！"
 ---
 

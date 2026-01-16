@@ -9,6 +9,7 @@ country_zh: 意大利
 slug: trieste
 photoUrl: /images/cities/trieste.jpg
 model: zai-org/GLM-4.6
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Forget what you think you know about Italy; Trieste is a windswept, coffee-fueled dream where Vienna meets the Adriatic. This unique port city serves up a potent cocktail of Habsburg grandeur, literary history, and a culinary scene all its own, just waiting to be discovered."
 ---
 

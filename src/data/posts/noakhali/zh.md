@@ -9,6 +9,7 @@ country_zh: 孟加拉国
 slug: noakhali
 photoUrl: /images/cities/noakhali.jpg
 model: zai-org/GLM-4.6
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "厌倦了千篇一律的旅行地？来孟加拉国诺阿卡利吧，这里不仅有绝美的风光和美味的海鲜，还有能让你笑到捧腹的意外“惊喜”。这是一份让你在体验真实孟加拉风情的同时，又能找到无限乐趣的旅行指南。"
 ---
 

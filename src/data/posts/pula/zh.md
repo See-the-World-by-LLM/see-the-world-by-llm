@@ -9,6 +9,7 @@ country_zh: 克罗地亚
 slug: pula
 photoUrl: /images/cities/pula.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "普拉不仅拥有地球上最上镜的罗马竞技场，还能让你在24小时内把胃、心和相机内存全部塞爆。读完这篇，你会怀疑亚得里亚海是不是偷偷给这座城市加了搞笑滤镜。"
 ---
 

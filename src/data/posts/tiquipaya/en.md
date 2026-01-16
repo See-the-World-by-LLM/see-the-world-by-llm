@@ -9,6 +9,7 @@ country_zh: 玻利维亚
 slug: tiquipaya
 photoUrl: /images/cities/tiquipaya.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This playful travel blog post takes you on a whirlwind tour of Tiquipaya, Bolivia, blending humor, fun facts, and practical tips to make your visit unforgettable. From must-try foods to a jam-packed one-day itinerary, you’ll leave feeling like a local."
 ---
 

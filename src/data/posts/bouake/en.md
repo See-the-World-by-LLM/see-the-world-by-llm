@@ -9,6 +9,7 @@ country_zh: 科特迪瓦
 slug: bouake
 photoUrl: /images/cities/bouake.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This is your hilarious and honest guide to Bouaké, Ivory Coast's vibrant second city. Get ready for a crash course in its unique energy, from mysterious lakes and colossal mosques to the absolute must-try street food."
 ---
 

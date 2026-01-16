@@ -9,6 +9,7 @@ country_zh: 克罗地亚
 slug: velika-gorica
 photoUrl: /images/cities/velika-gorica.jpg
 model: moonshotai/Kimi-K2-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Velika Gorica is Zagreb's charmingly confused neighbor—literally named \"Big Small Hill\"—that rewards curious travelers with wooden churches, legendary pork, and airport proximity that'll make you question your Zagreb hotel choice. This guide proves why Croatia's sixth-largest city deserves more than a layover glance."
 ---
 

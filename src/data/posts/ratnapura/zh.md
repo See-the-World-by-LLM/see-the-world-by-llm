@@ -9,6 +9,7 @@ country_zh: 斯里兰卡
 slug: ratnapura
 photoUrl: /images/cities/ratnapura.jpg
 model: Qwen/Qwen3-235B-A22B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这座被称为\"宝石之城\"的小镇，藏着会跳舞的蛇、会骗人的猴子和能把石头变美食的厨师。24小时玩转拉特纳普拉，你需要一份防猴子背包指南和对宝石的浪漫想象。"
 ---
 

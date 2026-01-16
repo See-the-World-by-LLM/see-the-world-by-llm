@@ -9,6 +9,7 @@ country_zh: 俄罗斯
 slug: novosibirsk
 photoUrl: /images/cities/novosibirsk.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "新西伯利亚，西伯利亚的心脏地带，是一个充满惊喜的俄罗斯城市。从壮观的科学城到美味的俄罗斯饺子，这座城市将为你提供难忘的冒险体验。"
 ---
 

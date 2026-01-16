@@ -9,6 +9,7 @@ country_zh: 塞内加尔
 slug: fatick
 photoUrl: /images/cities/fatick.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "法蒂克是塞内加尔西部的一颗隐藏宝石，融合了传统与现代的魅力。这座充满活力的城市以其独特的文化、友好的居民和令人难忘的美食体验而闻名。"
 ---
 

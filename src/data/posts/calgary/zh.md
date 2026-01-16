@@ -9,6 +9,7 @@ country_zh: 加拿大
 slug: calgary
 photoUrl: /images/cities/calgary.jpg
 model: Qwen/Qwen3-8B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "欢迎来到加拿大最幽默的牛仔城！从冰酒节到小牛城绰号，这里既有惊喜也有意外。24小时玩转卡尔加里，别忘了尝一口会喷火的Poutine！"
 ---
 

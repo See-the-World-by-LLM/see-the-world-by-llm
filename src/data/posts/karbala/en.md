@@ -9,6 +9,7 @@ country_zh: 伊拉克
 slug: karbala
 photoUrl: /images/cities/karbala.jpg
 model: moonshotai/Kimi-K2-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Karbala, Iraq's spiritual heartland, offers travelers an unexpectedly warm welcome with its golden shrines, soulful cuisine, and hospitality that could convert even the most skeptical tourist. This guide reveals how to navigate this pilgrimage city in 24 hours while avoiding common pitfalls and discovering its hidden charms."
 ---
 

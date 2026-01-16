@@ -9,6 +9,7 @@ country_zh: 卡塔尔
 slug: the-pearl-qatar
 photoUrl: /images/cities/the-pearl-qatar.jpg
 model: meta-llama/Meta-Llama-3-70B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the luxurious and vibrant side of Doha at The Pearl-Qatar, a man-made island with a rich history, delicious food, and modern amenities. Get ready to explore the best of Qatar in one day with this ultimate travel guide!"
 ---
 

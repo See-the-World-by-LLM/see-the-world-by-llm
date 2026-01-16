@@ -9,6 +9,7 @@ country_zh: 瑞典
 slug: uppsala
 photoUrl: /images/cities/uppsala.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "需要写一个简短的摘要，用两句话概括文章内容。 -"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 塞内加尔
 slug: kolda
 photoUrl: /images/cities/kolda.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇幽默风趣的博客带你探索塞内加尔的科尔达，从冷知识到一日游攻略，还有本地人秘籍，保证让你笑出声的同时也想立刻订机票！"
 ---
 

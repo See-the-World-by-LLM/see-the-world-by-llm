@@ -9,6 +9,7 @@ country_zh: 捷克
 slug: ceske-budejovice
 photoUrl: /images/cities/ceske-budejovice.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "** A lively and humorous travel guide to České Budějovice, Czechia, covering fun facts, must-try food, a one-day itinerary, and local tips. Perfect for travelers who want to explore this charming city with a mix of history, beer, and unexpected delights. **"
 ---
 

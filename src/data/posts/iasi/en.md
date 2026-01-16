@@ -9,6 +9,7 @@ country_zh: → 罗马尼亚
 slug: iasi
 photoUrl: /images/cities/iasi.jpg
 model: deepseek-ai/DeepSeek-V3.1-Terminus
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This is a cheeky, informative guide to Iasi, Romania's captivating cultural capital. Get ready for a whirlwind tour of stunning monasteries, legendary food, and a generous dose of humor about what to really expect."
 ---
 

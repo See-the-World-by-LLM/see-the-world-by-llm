@@ -9,6 +9,7 @@ country_zh: 希腊
 slug: katerini
 photoUrl: /images/cities/katerini.jpg
 model: zai-org/GLM-4.6
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover Katerini, Greece, the underrated gateway to Mount Olympus, where authentic flavors and laid-back vibes replace tourist traps. This guide gives you the inside scoop on the city's fun facts, must-eat food, a perfect one-day itinerary, and tips for blending in like a local."
 ---
 

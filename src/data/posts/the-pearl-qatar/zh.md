@@ -9,6 +9,7 @@ country_zh: 卡塔尔
 slug: the-pearl-qatar
 photoUrl: /images/cities/the-pearl-qatar.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇幽默风趣的博客带你探索多哈的奢华明珠——珍珠岛。从冷知识到一日游攻略，再到本地人秘籍和理想现实的爆笑对比，助你在这座人工岛上玩得像个“壕”而不破产！"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 伊拉克
 slug: baghdad
 photoUrl: /images/cities/baghdad.jpg
 model: Qwen/Qwen3-30B-A3B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "巴格达是历史与现代交织的神秘之城，既有千年古城的厚重，也有街头生活的鲜活。这里的故事比《一千零一夜》更魔幻，而你的旅行体验，可能比预期更“接地气”。"
 ---
 

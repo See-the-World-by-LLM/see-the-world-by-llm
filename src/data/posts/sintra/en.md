@@ -9,6 +9,7 @@ country_zh: 葡萄牙
 slug: sintra
 photoUrl: /images/cities/sintra.jpg
 model: nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Get ready to be spellbound by Sintra's majestic beauty and quirky charm, where ancient castles, mouth-watering pastries, and stunning natural landscapes await. This travel guide will walk you through the city's hidden gems, must-try delicacies, and tips that will make you fall in love with this Portuguese wonderland."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 坦桑尼亚
 slug: songea
 photoUrl: /images/cities/songea.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "松盖亚是坦桑尼亚南部的一颗隐藏宝石，以其丰富的文化、友好的居民和独特的木雕艺术而闻名。这个被低估的目的地将为你提供一次难忘的非洲冒险体验。"
 ---
 

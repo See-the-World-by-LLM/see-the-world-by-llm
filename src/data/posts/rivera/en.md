@@ -9,6 +9,7 @@ country_zh: 乌拉圭
 slug: rivera
 photoUrl: /images/cities/rivera.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover Rivera, Uruguay—a charming border town with a unique blend of cultures, delicious food, and quirky surprises. This guide covers fun facts, must-try eats, a one-day itinerary, and local secrets to make your visit unforgettable. ###"
 ---
 

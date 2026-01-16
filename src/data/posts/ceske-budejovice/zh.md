@@ -9,6 +9,7 @@ country_zh: 捷克
 slug: ceske-budejovice
 photoUrl: /images/cities/ceske-budejovice.jpg
 model: baidu/ERNIE-4.5-300B-A47B-Base-PT
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "捷克布杰约维采，一座被啤酒香与中世纪浪漫包裹的“百威老家”，冷知识、美食与24小时暴走攻略全打包，带你玩转这座“波西米亚甜心”！ ---"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 中国
 slug: beijing
 photoUrl: /images/cities/beijing.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇文章以幽默风趣的方式介绍北京，涵盖冷知识、美食和一日游攻略。它对比了理想与现实的旅行体验，并提供本地人秘籍，鼓励读者探索这座古老而现代的城市。"
 ---
 

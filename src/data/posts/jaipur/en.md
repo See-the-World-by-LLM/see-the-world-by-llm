@@ -9,6 +9,7 @@ country_zh: 印度
 slug: jaipur
 photoUrl: /images/cities/jaipur.jpg
 model: openai/gpt-oss-120b
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Jaipur, the Pink City of India, dazzles with its regal architecture, mouth‑watering street foods, and a whirlwind of culture that can be explored in just one day. This blog blends humor with insider tips to help travelers navigate the city’s expectations, realities, and hidden gems."
 ---
 

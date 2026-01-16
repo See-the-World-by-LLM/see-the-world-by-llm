@@ -9,6 +9,7 @@ country_zh: 危地马拉
 slug: villa-nueva
 photoUrl: /images/cities/villa-nueva.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这个被严重低估的危地马拉卫星城，用300年的“新镇”之名和满街的摩托车大军，悄悄藏着令人捧腹的旅行惊喜。准备好接受一场笑中带泪的冒险了吗？"
 ---
 

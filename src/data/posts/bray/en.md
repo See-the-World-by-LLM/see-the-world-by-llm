@@ -9,6 +9,7 @@ country_zh: 爱尔兰
 slug: bray
 photoUrl: /images/cities/bray.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Bray is a charming coastal town in Ireland that perfectly blends seaside kitsch with breathtaking natural beauty, all just a hop-skip from Dublin. This guide will give you the lowdown on how to enjoy its fish and chips, conquer its mountain, and embrace its wonderfully quirky reality."
 ---
 

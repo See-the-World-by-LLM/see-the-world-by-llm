@@ -9,6 +9,7 @@ country_zh: 土耳其
 slug: kayseri
 photoUrl: /images/cities/kayseri.jpg
 model: MiniMaxAI/MiniMax-M2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "A playful, info-packed guide to Kayseri that blends humor, history, and hunger, showing why the city’s altitude, flavor, and charm make it a worthy, unexpected detour. From mountain views to mantı moments, this itinerary and cheat sheet will make the most of a 24-hour escape."
 ---
 

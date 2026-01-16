@@ -9,6 +9,7 @@ country_zh: 匈牙利
 slug: sopron
 photoUrl: /images/cities/sopron.jpg
 model: Qwen/Qwen2.5-Coder-3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "匈牙利Sopron是位于巴尔干半岛与斯洛伐克边境的城市，以其独特的文化和美味的美食而闻名。在短短24小时内，我们可以探索这座历史古都的迷人之处，同时感受来自不同文化的独特魅力。 ####"
 ---
 

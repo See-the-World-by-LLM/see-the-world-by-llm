@@ -9,6 +9,7 @@ country_zh: 巴林
 slug: hamad-town
 photoUrl: /images/cities/hamad-town.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Hamad Town, Bahrain’s unsung hero, blends suburban charm with surprising cultural gems and culinary delights. This guide spills the secrets to navigating this hidden gem like a pro, from street food sprees to desert escapades."
 ---
 

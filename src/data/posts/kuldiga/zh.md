@@ -9,6 +9,7 @@ country_zh: 拉脱维亚
 slug: kuldiga
 photoUrl: /images/cities/kuldiga.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "在拉脱维亚最“慢动作”的小镇库尔迪加，瀑布比你刷手机还勤快，而当地人用沉默当WiFi密码。如果你以为欧洲小镇都像巴黎那样浪漫，那库尔迪加会用一条会唱歌的桥和会吃鱼的猫重新定义“治愈”。"
 ---
 

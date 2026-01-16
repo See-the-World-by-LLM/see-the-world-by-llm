@@ -9,6 +9,7 @@ country_zh: 尼泊尔
 slug: triyuga
 photoUrl: /images/cities/triyuga.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Triyuga（三河城）是尼泊尔鲜为人知的“隐藏副本”，有会唱歌的桥和24小时不打烊的奶茶摊。读完这篇，你会把珠峰机票改签到这儿。"
 ---
 

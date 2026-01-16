@@ -9,6 +9,7 @@ country_zh: Canada
 slug: vancouver
 photoUrl: /images/cities/vancouver.jpg
 model: Qwen/Qwen2.5-Coder-7B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Vancouver, the best city in Canada!"
 ---
 

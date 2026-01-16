@@ -9,6 +9,7 @@ country_zh: 缅甸
 slug: mandalay
 photoUrl: /images/cities/mandalay.jpg
 model: meta-llama/Meta-Llama-3-70B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Get ready for a whirlwind adventure in Mandalay, Myanmar's cultural and spiritual hub! From stunning pagodas to mouth-watering street food, this post will have you planning your trip in no time."
 ---
 

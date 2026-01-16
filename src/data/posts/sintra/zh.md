@@ -9,6 +9,7 @@ country_zh: 葡萄牙
 slug: sintra
 photoUrl: /images/cities/sintra.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "辛特拉是里斯本旁边一座被云雾宠坏的童话小镇，宫殿、密林和甜点一起联手把你宠成“废人”。读完这篇不正经指南，你会一边笑到掉下巴，一边立刻订机票。"
 ---
 

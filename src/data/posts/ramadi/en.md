@@ -9,6 +9,7 @@ country_zh: → 伊拉克
 slug: ramadi
 photoUrl: /images/cities/ramadi.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This travel blog post explores Ramadi, Iraq, with a lighthearted and informative tone, debunking myths and highlighting its hidden charms. It offers practical tips, a tight itinerary, and a compelling reason to look beyond the headlines."
 ---
 

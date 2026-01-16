@@ -9,6 +9,7 @@ country_zh: 波兰
 slug: gliwice
 photoUrl: /images/cities/gliwice.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇幽默风趣的博客带你探索波兰的格利维采，从冷知识到一日游攻略，还有本地人秘籍，让你轻松玩转这座隐藏的宝藏城市！"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 危地马拉
 slug: villa-nueva
 photoUrl: /images/cities/villa-nueva.jpg
 model: moonshotai/Kimi-K2-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Villa Nueva is Guatemala's overlooked industrial powerhouse that surprises visitors with world-class amusement parks, legendary chicharrones, and authentic urban energy just minutes from the capital. This guide reveals why you should skip the tourist trail and spend 24 hours in the country's most misunderstood municipality."
 ---
 

@@ -9,6 +9,7 @@ country_zh: Canada
 slug: vancouver
 photoUrl: /images/cities/vancouver.jpg
 model: deepseek-ai/DeepSeek-R1-Distill-Llama-8B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Vancouver is a vibrant city with unique culture, beautiful landscapes, and delicious food. Explore the best spots with a mix of humor and local insider tips."
 ---
 

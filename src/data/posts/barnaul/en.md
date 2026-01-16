@@ -9,6 +9,7 @@ country_zh: 俄罗斯
 slug: barnaul
 photoUrl: /images/cities/barnaul.jpg
 model: deepseek-ai/DeepSeek-R1-0528
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover why Siberia's Barnaul is the quirky, underrated gem you never knew you needed. This guide serves up fun facts, pelmeni-fueled adventures, and hilarious reality checks for the intrepid traveler."
 ---
 

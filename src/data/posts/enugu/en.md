@@ -9,6 +9,7 @@ country_zh: 尼日利亚
 slug: enugu
 photoUrl: /images/cities/enugu.jpg
 model: zai-org/GLM-4.6
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover why Enugu, Nigeria's \"Coal City,\" is more than just its mining past with a guide to its lush hills, spicy foods, and vibrant local life. This post will equip you with a one-day itinerary, essential food recommendations, and local secrets to experience the true spirit of 042."
 ---
 

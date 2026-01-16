@@ -9,6 +9,7 @@ country_zh: 孟加拉
 slug: narayanganj
 photoUrl: /images/cities/narayanganj.jpg
 model: deepseek-ai/DeepSeek-V3.2-Exp
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This is a lighthearted and informative guide to the bustling, historic, and often chaotic city of Narayanganj, Bangladesh. It's packed with quirky facts, must-try food, and a survival guide for navigating this unique river port with a smile."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 缅甸
 slug: bago
 photoUrl: /images/cities/bago.jpg
 model: deepseek-ai/DeepSeek-V3.1-Terminus
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇风趣的博客带你探索缅甸古城勃固，揭秘卧佛的拖鞋秘密和皇宫的奇妙历史。从一日游攻略到本地人秘籍，让你在笑声中规划一场完美的勃固冒险。"
 ---
 

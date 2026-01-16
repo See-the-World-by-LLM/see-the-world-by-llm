@@ -9,6 +9,7 @@ country_zh: 斯里兰卡
 slug: wattala
 photoUrl: /images/cities/wattala.jpg
 model: moonshotai/Kimi-K2-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "瓦塔拉是斯里兰卡科伦坡北郊一座被低估的宝藏城镇，夹在繁华首都与海滨度假地之间，用其独特的混乱魅力、湿地生态和天价般便宜的咖喱征服了旅行者的心。准备好体验最真实的斯里兰卡郊区生活吧——这里可能没有大象，但绝对不缺惊喜！"
 ---
 

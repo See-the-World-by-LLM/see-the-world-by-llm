@@ -9,6 +9,7 @@ country_zh: 卡塔尔
 slug: al-sadd
 photoUrl: /images/cities/al-sadd.jpg
 model: moonshotai/Kimi-K2-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "探索卡塔尔最时髦的街区阿尔萨德，在空调与沙漠之间寻找平衡。这篇指南将告诉你如何在24小时内体验最地道的海湾风情，同时避免被热浪和物价\"劝退\"。"
 ---
 

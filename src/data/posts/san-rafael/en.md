@@ -9,6 +9,7 @@ country_zh: 哥斯达黎加
 slug: san-rafael
 photoUrl: /images/cities/san-rafael.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "San Rafael, Costa Rica is a vibrant, off-the-beaten-path gem where adventure meets laid-back charm, offering everything from quirky history to mouthwatering eats. This guide spills the beans on making the most of your 24 hours in this underrated paradise."
 ---
 

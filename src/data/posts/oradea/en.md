@@ -9,6 +9,7 @@ country_zh: 罗马尼亚
 slug: oradea
 photoUrl: /images/cities/oradea.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover Oradea, Romania's Art Nouveau gem, where thermal waters bubble, chimney cakes beckon, and history meets quirky charm. This guide serves up essential sights, delicious bites, and local secrets with a hefty dose of humor for your Transylvanian adventure."
 ---
 

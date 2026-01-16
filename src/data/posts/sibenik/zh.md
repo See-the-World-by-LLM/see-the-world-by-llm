@@ -9,6 +9,7 @@ country_zh: 克罗地亚
 slug: sibenik
 photoUrl: /images/cities/sibenik.jpg
 model: Qwen/Qwen2.5-72B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "探索克罗地亚的斯普利特，不仅是一次历史与现代交融的旅行，更是一场味蕾与心灵的双重盛宴。这里有你想不到的小秘密，也有必去的打卡点，让我们一起开启这段奇妙之旅吧！"
 ---
 

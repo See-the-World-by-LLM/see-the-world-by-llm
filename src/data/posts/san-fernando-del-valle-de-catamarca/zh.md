@@ -9,6 +9,7 @@ country_zh: 阿根廷
 slug: san-fernando-del-valle-de-catamarca
 photoUrl: /images/cities/san-fernando-del-valle-de-catamarca.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "在阿根廷最热的城市里，连仙人掌都在涂防晒霜！这篇博客用段子带你24小时吃遍卡塔马卡，并告诉你为什么当地人把山当冰箱用。"
 ---
 

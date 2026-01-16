@@ -9,6 +9,7 @@ country_zh: 西班牙
 slug: madrid
 photoUrl: /images/cities/madrid.jpg
 model: zai-org/GLM-4.6
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇博客将带你领略马德里的独特魅力，从令人捧腹的冷知识到令人垂涎的美食，再到一份高效又有趣的24小时攻略。准备好笑出腹肌，打包行囊，去爱上这座热情似火的不夜城吧！"
 ---
 

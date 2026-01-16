@@ -9,6 +9,7 @@ country_zh: 意大利
 slug: brescia
 photoUrl: /images/cities/brescia.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover Brescia, Italy's unsung hero—a city packed with ancient wonders, delectable eats, and more charm than a gondolier's serenade. From Roman ruins to medieval marvels, this Lombard gem will leave you saying, \"Why didn't I come sooner?"
 ---
 

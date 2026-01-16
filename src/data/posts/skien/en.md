@@ -9,6 +9,7 @@ country_zh: Norway的中文是“挪威”。
 slug: skien
 photoUrl: /images/cities/skien.jpg
 model: deepseek-ai/DeepSeek-R1-0528
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This cheeky guide unpacks Skien, Norway – Henrik Ibsen's birthplace and a charmingly unpretentious gateway to Telemark. Get ready for quirky facts, brown cheese, canal adventures, Viking reality checks, and insider tips for soaking up authentic small-town Norwegian vibes."
 ---
 

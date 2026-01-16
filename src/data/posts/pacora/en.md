@@ -9,6 +9,7 @@ country_zh: 巴拿马
 slug: pacora
 photoUrl: /images/cities/pacora.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover Pacora, Panama's hidden gem where lush mountains meet quirky charm! This guide spills the beans on its unique vibe, delicious eats, and how to conquer it in just 24 hours."
 ---
 

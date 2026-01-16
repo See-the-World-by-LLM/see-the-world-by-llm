@@ -9,6 +9,7 @@ country_zh: 以色列
 slug: modi-in-maccabim-re-ut
 photoUrl: /images/cities/modi-in-maccabim-re-ut.jpg
 model: deepseek-ai/DeepSeek-R1-0528
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "[2句话的文章摘要] -"
 ---
 

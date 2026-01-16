@@ -9,6 +9,7 @@ country_zh: 日本
 slug: kyoto
 photoUrl: /images/cities/kyoto.jpg
 model: Qwen/Qwen3-4B-Instruct-2507
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "京都是一座融合千年古韵与现代生活的城市，这里既有“神道教的宁静”，也有“上班族社畜的崩溃现场”。来京都，你将尝到抹茶的苦涩、禅意的平和，以及偶尔被猫咪“点对”后才意识到自己正在被看穿的尴尬。"
 ---
 

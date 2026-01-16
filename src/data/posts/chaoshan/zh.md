@@ -9,6 +9,7 @@ country_zh: China
 slug: chaoshan
 photoUrl: /images/cities/chaoshan.jpg
 model: allenai/Olmo-3-7B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "CITY_ZH: 奉化"
 ---
 

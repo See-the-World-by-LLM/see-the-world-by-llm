@@ -9,6 +9,7 @@ country_zh: 中国
 slug: foshan
 photoUrl: /images/cities/foshan.jpg
 model: zai-org/GLM-4.5
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover Foshan, China's hidden gem where kung fu legends meet mouthwatering cuisine and ancient temples. This guide packs humor, insider tips, and a 24-hour adventure to help you dodge tourist traps and embrace the city’s chaotic charm."
 ---
 

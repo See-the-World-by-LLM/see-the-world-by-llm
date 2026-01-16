@@ -9,6 +9,7 @@ country_zh: 印度尼西亚
 slug: makassar
 photoUrl: /images/cities/makassar.jpg
 model: baidu/ERNIE-4.5-300B-A47B-Base-PT
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "[望加锡，印度尼西亚的“混搭之都”，以冷知识、美食和24小时精彩游等你来探。跟着本地人秘籍，感受理想与现实的碰撞，开启你的冒险之旅！] ---"
 ---
 

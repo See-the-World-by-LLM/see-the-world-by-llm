@@ -9,6 +9,7 @@ country_zh: China
 slug: chaoshan
 photoUrl: /images/cities/chaoshan.jpg
 model: deepseek-ai/DeepSeek-V3.2-Exp
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This post is your hilarious and handy guide to surviving and thriving in Chaoshan, China, a region obsessed with tea, food, and taking things slow. Get ready for a culinary adventure, a crash course in Gongfu tea, and a healthy dose of reality checks."
 ---
 

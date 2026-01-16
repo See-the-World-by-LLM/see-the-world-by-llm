@@ -9,6 +9,7 @@ country_zh: 意大利
 slug: trieste
 photoUrl: /images/cities/trieste.jpg
 model: zai-org/GLM-4.5
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "的里雅斯特，这个被遗忘的意大利角落，融合了意大利、奥地利和斯拉夫文化的独特魅力。从咖啡文化到壮丽的海景，这座港口城市将给你带来意想不到的惊喜。"
 ---
 

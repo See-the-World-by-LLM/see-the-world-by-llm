@@ -9,6 +9,7 @@ country_zh: 爱沙尼亚
 slug: paide
 photoUrl: /images/cities/paide.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Paide, Estonia’s “capital of the heart,” is a pint-sized town with a skyscraper-tall past, serving up medieval towers, juniper cheese, and sauna buses that’ll steam your glasses off. In 24 hours you’ll conquer a castle, picnic on an ancient valley, and still have time to debate with a local whether it’s “Paide” or “Pay-dee.”"
 ---
 

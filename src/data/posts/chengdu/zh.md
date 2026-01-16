@@ -9,6 +9,7 @@ country_zh: 中国
 slug: chengdu
 photoUrl: /images/cities/chengdu.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇幽默风趣的成都旅游博客带你探索熊猫、美食和慢生活，包含冷知识、必尝美食和一日游攻略，还有本地人秘籍和理想与现实的搞笑对比。"
 ---
 

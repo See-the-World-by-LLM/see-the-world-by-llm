@@ -9,6 +9,7 @@ country_zh: 烏拉圭
 slug: artigas
 photoUrl: /images/cities/artigas.jpg
 model: zai-org/GLM-4.5
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Artigas, Uruguay's northernmost gem, offers a surprising blend of gaucho grit, Brazilian buzz, and sparkling amethysts. This guide serves up the city's quirks, flavors, and secrets with a side of humor, proving it's far more than just a border town stopover."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 奥地利
 slug: klagenfurt
 photoUrl: /images/cities/klagenfurt.jpg
 model: zai-org/GLM-4.6
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Tired of overwhelming tourist hubs? Discover Klagenfurt, Austria, a city whose \"sorrowful\" name belies its joyful lakeside charm, serving up a perfect blend of myths, culinary delights, and relaxed vibes."
 ---
 

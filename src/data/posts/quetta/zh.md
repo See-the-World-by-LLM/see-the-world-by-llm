@@ -9,6 +9,7 @@ country_zh: 巴基斯坦
 slug: quetta
 photoUrl: /images/cities/quetta.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "奎达是巴基斯坦最被低估的“隐藏彩蛋”——海拔高、脾气更高，连羊肉都能把你辣哭。读完这篇，你会明白为什么本地人总说：“来奎达，肺活量和胃容量都要先买保险。”"
 ---
 

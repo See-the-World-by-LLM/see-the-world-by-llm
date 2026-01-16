@@ -9,6 +9,7 @@ country_zh: 约旦
 slug: zarqa
 photoUrl: /images/cities/zarqa.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "扎尔卡不是约旦的“备胎”，而是能把你的笑点调到110迈的隐藏彩蛋。读完这篇，你会把24小时掰成48小时用，只为多吃一口“炸弹”面包。"
 ---
 

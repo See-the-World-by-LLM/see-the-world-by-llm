@@ -9,6 +9,7 @@ country_zh: 约旦
 slug: zarqa
 photoUrl: /images/cities/zarqa.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "[2-sentence summary]"
 ---
 

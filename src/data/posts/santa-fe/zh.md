@@ -9,6 +9,7 @@ country_zh: 阿根廷
 slug: santa-fe
 photoUrl: /images/cities/santa-fe.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "圣菲，阿根廷的\"河流之城\"，融合了殖民历史与现代活力的迷人目的地。在这座被帕拉纳河环绕的城市里，你可以品尝到令人垂涎的美食，探索丰富的文化遗产，感受阿根廷热情好客的氛围。"
 ---
 

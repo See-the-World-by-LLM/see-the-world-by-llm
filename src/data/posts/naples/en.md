@@ -9,6 +9,7 @@ country_zh: Italy
 slug: naples
 photoUrl: /images/cities/naples.jpg
 model: deepseek-ai/DeepSeek-R1-0528-Qwen3-8B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "A whirlwind tour of Naples, a city overflowing with history, food, and the kind of energy that can wear out your tap shoes! From cannoli to chaos, there's nowhere quite like it."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 尼日利亚
 slug: enugu
 photoUrl: /images/cities/enugu.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "本文是一篇关于尼日利亚东部埃努古市的幽默旅行指南。文章以风趣的笔触介绍了埃努古的独特魅力，包括冷知识、必吃美食、紧凑的一日游路线，以及理想与现实的对比和本地人秘籍，旨在鼓励旅行者探索这座“煤城”。"
 ---
 

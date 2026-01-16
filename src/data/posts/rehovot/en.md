@@ -9,6 +9,7 @@ country_zh: 以色列
 slug: rehovot
 photoUrl: /images/cities/rehovot.jpg
 model: moonshotai/Kimi-K2-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Rehovot is Israel's quirky scientific heartland where world-changing research and legendary hummus joints coexist. This underrated city offers an authentic slice of Israeli life without the tourist traps, proving that sometimes the best destinations are the ones your travel agent hasn't heard of."
 ---
 

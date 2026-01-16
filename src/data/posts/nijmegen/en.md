@@ -9,6 +9,7 @@ country_zh: 荷兰
 slug: nijmegen
 photoUrl: /images/cities/nijmegen.jpg
 model: nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the charming Dutch city of Nijmegen, where ancient history meets modern quirks. From Roman ruins to tantalizing local eats, this travel guide dives into the must-sees, must-eats, and insider tips for an unforgettable visit."
 ---
 

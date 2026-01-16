@@ -9,6 +9,7 @@ country_zh: 印度尼西亚
 slug: jakarta
 photoUrl: /images/cities/jakarta.jpg
 model: zai-org/GLM-4.6
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Get ready to dive headfirst into Jakarta, a chaotic whirlwind of incredible food, rich history, and traffic that has its own personality. This guide will help you navigate beautiful madness and discover why this sprawling metropolis will capture your heart, for better or for worse."
 ---
 

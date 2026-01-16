@@ -9,6 +9,7 @@ country_zh: 加纳
 slug: dome
 photoUrl: /images/cities/dome.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "一个连地图都懒得标注的神秘之地，却藏着非洲最意想不到的欢乐。跟着我的脚步，笑对\"不存在\"的旅行，发现真正的宝藏！"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 奥地利
 slug: krems-an-der-donau
 photoUrl: /images/cities/krems-an-der-donau.jpg
 model: zai-org/GLM-4.5
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Krems an der Donau is Austria's wine-soaked, Danube-hugging charmer that punches way above its weight. Expect medieval lanes, vineyard vistas, and enough Grüner Veltliner to make you forget Vienna ever existed."
 ---
 

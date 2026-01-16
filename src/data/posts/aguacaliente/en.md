@@ -9,6 +9,7 @@ country_zh: 哥斯达黎加
 slug: aguacaliente
 photoUrl: /images/cities/aguacaliente.jpg
 model: meta-llama/Meta-Llama-3-70B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Get ready to escape the ordinary in Aguacaliente, Costa Rica, a hidden gem that will surprise you with its unique charm and off-the-beaten-path adventures. From exploring ancient ruins to indulging in delicious local cuisine, we'll guide you through the best of Aguacaliente in just 24 hours."
 ---
 

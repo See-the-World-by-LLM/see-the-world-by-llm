@@ -9,6 +9,7 @@ country_zh: 老挝
 slug: savannakhet
 photoUrl: /images/cities/savannakhet.jpg
 model: meta-llama/Meta-Llama-3-70B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the hidden gem of Savannakhet, Laos, a city that will surprise you with its rich history, delicious food, and laid-back atmosphere. From colonial architecture to street food heaven, get ready to fall in love with this charming town!"
 ---
 

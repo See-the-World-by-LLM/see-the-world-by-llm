@@ -9,6 +9,7 @@ country_zh: 日本
 slug: fukuoka
 photoUrl: /images/cities/fukuoka.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇博客以幽默风趣的风格介绍了日本福冈的独特魅力，包括有趣冷知识、必尝美食和一日游攻略。文章还通过理想与现实的对比和本地人秘籍，为读者提供了实用又有趣的旅行建议。"
 ---
 

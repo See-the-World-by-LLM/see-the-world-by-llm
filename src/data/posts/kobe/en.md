@@ -9,6 +9,7 @@ country_zh: 日本
 slug: kobe
 photoUrl: /images/cities/kobe.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Kobe, Japan, is a dazzling blend of cosmopolitan charm and quirky charm—where beef is a religion, harbors sparkle like disco balls, and locals will politely nod while silently judging your chopstick skills. This guide serves up fun facts, foodie revelations, and a 24-hour survival plan for travelers who want to eat, explore, and maybe not embarrass themselves too badly."
 ---
 

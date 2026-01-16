@@ -9,6 +9,7 @@ country_zh: 拉脱维亚
 slug: kuldiga
 photoUrl: /images/cities/kuldiga.jpg
 model: moonshotai/Kimi-K2-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Kuldiga is Latvia's sleepy secret weapon—a town with Europe's widest (and shortest) waterfall, more charm than tourists, and enough quirky history to make you the most interesting person at your next dinner party. This guide will help you navigate its cobbled streets, frog monuments, and hemp butter like a local who’s in on the joke."
 ---
 

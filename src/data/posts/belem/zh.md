@@ -9,6 +9,7 @@ country_zh: 巴西
 slug: belem
 photoUrl: /images/cities/belem.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这座亚马逊河畔的热带明珠，用300种水果和粉红河豚的传说征服你。从赤道玩笑到美食狂欢，24小时也能玩出花来！"
 ---
 

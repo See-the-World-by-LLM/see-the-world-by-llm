@@ -9,6 +9,7 @@ country_zh: 阿曼
 slug: ibri
 photoUrl: /images/cities/ibri.jpg
 model: Qwen/Qwen3-235B-A22B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the unsung charm of Ibri, Oman—a desert gem packed with history, humor, and dates (the edible kind). From sinkholes to sticky sweets, this 24-hour guide proves you don’t need a camel to explore the unexpected."
 ---
 

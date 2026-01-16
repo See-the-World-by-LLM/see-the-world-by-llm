@@ -9,6 +9,7 @@ country_zh: 希腊
 slug: volos
 photoUrl: /images/cities/volos.jpg
 model: zai-org/GLM-4.6
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Forget the crowded Greek islands and discover Volos, a vibrant mainland city where the legends of Jason and the Argonauts meet a modern, mouth-watering foodie scene. It's a place where mythic history, stunning mountain-to-sea landscapes, and a potent local spirit called tsipouro create an adventure you won't soon forget."
 ---
 

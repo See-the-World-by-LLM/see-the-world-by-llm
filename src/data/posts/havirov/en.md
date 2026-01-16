@@ -9,6 +9,7 @@ country_zh: 捷克共和国
 slug: havirov
 photoUrl: /images/cities/havirov.jpg
 model: Qwen/Qwen3-4B-Thinking-2507
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "[2-sentence summary]"
 ---
 

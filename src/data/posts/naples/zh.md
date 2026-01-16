@@ -9,6 +9,7 @@ country_zh: Italy
 slug: naples
 photoUrl: /images/cities/naples.jpg
 model: google/gemma-2-9b-it
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "##  城市：那不勒斯"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 巴西
 slug: sao-luis
 photoUrl: /images/cities/sao-luis.jpg
 model: moonshotai/Kimi-K2-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "圣路易斯是巴西唯一由法国人创立的城市，拥有全球最多的葡萄牙瓷砖建筑和独特的雷鬼文化。这座被联合国教科文组织列入世界遗产的海滨城市，将殖民风情、非洲传统和亚马逊风味完美融合，既浪漫又充满惊喜。"
 ---
 

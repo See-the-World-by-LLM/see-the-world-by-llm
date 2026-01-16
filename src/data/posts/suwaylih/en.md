@@ -9,6 +9,7 @@ country_zh: 约旦
 slug: suwaylih
 photoUrl: /images/cities/suwaylih.jpg
 model: zai-org/GLM-4.5
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Suwaylih, Amman’s underrated gem, serves up a chaotic cocktail of urban energy, hidden history, and mouthwatering street food that’ll hijack your taste buds. Pack your sense of humor and stretchy pants—this guide turns 24 hours in Jordan’s quirkiest district into an unforgettable joyride."
 ---
 

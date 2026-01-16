@@ -9,6 +9,7 @@ country_zh: Saudi Arabia
 slug: medina
 photoUrl: /images/cities/medina.jpg
 model: Qwen/Qwen2.5-72B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Dive into the heart of Islamic history with a visit to Medina, where ancient traditions meet modern life. From savoring local delicacies to exploring sacred sites, this travel guide offers a light-hearted yet insightful look at one of the most revered cities in the world."
 ---
 

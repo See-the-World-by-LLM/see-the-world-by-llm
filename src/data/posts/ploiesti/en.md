@@ -9,6 +9,7 @@ country_zh: 罗马尼亚
 slug: ploiesti
 photoUrl: /images/cities/ploiesti.jpg
 model: baidu/ERNIE-4.5-21B-A3B-PT
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Ploiesti, Romania’s bustling industrial hub turned charming cultural haven, is ready to dazzle you with its quirky history, delicious treats, and laid-back vibes. Pack your sense of adventure—and maybe a helmet—for this whirlwind tour of the city!"
 ---
 

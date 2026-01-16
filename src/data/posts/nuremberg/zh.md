@@ -9,6 +9,7 @@ country_zh: 德国
 slug: nuremberg
 photoUrl: /images/cities/nuremberg.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "欢迎来到纽伦堡，这座融合了中世纪魅力与现代活力的巴伐利亚城市！准备好在历史、美食和幽默中度过难忘时光吧！"
 ---
 

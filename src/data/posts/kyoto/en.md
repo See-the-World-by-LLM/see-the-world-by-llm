@@ -9,6 +9,7 @@ country_zh: 日本
 slug: kyoto
 photoUrl: /images/cities/kyoto.jpg
 model: deepseek-ai/DeepSeek-R1-0528-Qwen3-8B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Hyping up for Kyoto? This post shares fun Kyoto facts, must-eat foods, a jam-packed day trip plan, a cheeky reality check, essential tips (from a local!), and why you simply *must* visit this incredible city. Ready for an unforgettable adventure? Read on!"
 ---
 

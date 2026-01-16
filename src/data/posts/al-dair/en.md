@@ -9,6 +9,7 @@ country_zh: 巴林
 slug: al-dair
 photoUrl: /images/cities/al-dair.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Al Dair, Bahrain's hidden village gem, offers authentic culture, history, and warm hospitality away from the tourist crowds. Discover why this underrated spot is the perfect escape for travelers seeking real connection and delicious food."
 ---
 

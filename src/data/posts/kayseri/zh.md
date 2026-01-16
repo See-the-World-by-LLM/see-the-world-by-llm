@@ -9,6 +9,7 @@ country_zh: 土耳其
 slug: kayseri
 photoUrl: /images/cities/kayseri.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "开塞利，土耳其的“火山之城”，藏着千年历史与热气腾腾的美食。这里既有神秘洞穴教堂，又有让人笑到肚子疼的现实与理想差距。"
 ---
 

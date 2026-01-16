@@ -9,6 +9,7 @@ country_zh: 立陶宛
 slug: silute
 photoUrl: /images/cities/silute.jpg
 model: openai/gpt-oss-120b
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇博客用轻松幽默的笔调带你玩转立陶宛西海岸的“小海港”——希卢特，教你在24小时内吃遍当地美味、抢先探索不为人知的角落。无论你是背包客还是周末休闲族，都能在这里找到“理想”与“现实”的爆笑对照。"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 阿根廷
 slug: cordoba
 photoUrl: /images/cities/cordoba.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇幽默风趣的博客带你探索阿根廷科尔多瓦的冷知识、美食和一日游攻略，还有本地人秘籍和理想与现实的搞笑对比。"
 ---
 

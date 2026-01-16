@@ -9,6 +9,7 @@ country_zh: 俄罗斯
 slug: perm
 photoUrl: /images/cities/perm.jpg
 model: Qwen/Qwen3-235B-A22B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "想体验盐矿里的芭蕾和北极熊看守的地铁站吗？俄罗斯彼尔姆用硬核工业风和软萌日常承包你的24小时奇遇。这里连空气都带着伏特加的微醺感，但请别对路灯上的松鼠雕像较真——它们只是在执行秘密监视任务。"
 ---
 

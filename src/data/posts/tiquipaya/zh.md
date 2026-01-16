@@ -9,6 +9,7 @@ country_zh: 玻利维亚
 slug: tiquipaya
 photoUrl: /images/cities/tiquipaya.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇博文将带您走进玻利维亚的“花园城市”蒂基帕亚，以幽默风趣的笔触揭秘它的冷知识、美食和隐藏玩法。准备好迎接理想与现实的爆笑碰撞，并收获一份完美的一日游攻略。"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 中国
 slug: shanghai
 photoUrl: /images/cities/shanghai.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "上海，这座被称为\"魔都\"的城市，以其独特的魅力融合了东西方文化，是现代与传统完美结合的典范。在这里，你既可以感受到国际大都市的繁华，也能体验到老上海的韵味。"
 ---
 

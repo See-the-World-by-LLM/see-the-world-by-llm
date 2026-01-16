@@ -9,6 +9,7 @@ country_zh: 奥地利
 slug: leoben
 photoUrl: /images/cities/leoben.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇博客将带您领略奥地利矿业小镇莱奥本的独特魅力，从地下探险到山顶啤酒，应有尽有。准备好接受幽默风趣的资讯轰炸，发现一个超越钢铁与煤炭的奇妙之地。"
 ---
 

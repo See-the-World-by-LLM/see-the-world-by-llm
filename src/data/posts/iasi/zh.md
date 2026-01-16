@@ -9,6 +9,7 @@ country_zh: → 罗马尼亚
 slug: iasi
 photoUrl: /images/cities/iasi.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "需要写一个简短的摘要，两句话。 -"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 克罗地亚
 slug: pula
 photoUrl: /images/cities/pula.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This engaging and humorous travel blog post takes you through Pula, Croatia, with fun facts, must-try foods, a one-day itinerary, and local tips. Discover the city's charm, from Roman ruins to seafood delights, while laughing at the gap between expectations and reality."
 ---
 

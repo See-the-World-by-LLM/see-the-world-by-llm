@@ -9,6 +9,7 @@ country_zh: 乌克兰
 slug: khmelnytskyi
 photoUrl: /images/cities/khmelnytskyi.jpg
 model: MiniMaxAI/MiniMax-M2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "A humorous and engaging travel guide to Khmelnytskyi, Ukraine, covering fun facts, local cuisine, a 24-hour itinerary, and practical tips for visiting this often-overlooked city."
 ---
 

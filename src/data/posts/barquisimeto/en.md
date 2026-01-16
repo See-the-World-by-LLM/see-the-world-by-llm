@@ -9,6 +9,7 @@ country_zh: 委内瑞拉
 slug: barquisimeto
 photoUrl: /images/cities/barquisimeto.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Barquisimeto, Venezuela's sun-drenched secret, shatters stereotypes with its vibrant culture, mouthwatering cuisine, and warm-hearted locals. This underrated gem proves that sometimes the best adventures are found off the beaten path."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 泰国
 slug: chiang-mai
 photoUrl: /images/cities/chiang-mai.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This is your hilarious and practical guide to conquering Chiang Mai in 24 hours, from temple-hopping and devouring khao soi to navigating the charming chaos of the Old City. Prepare for a delightful clash of expectations and reality, armed with local secrets that will make your trip unforgettable."
 ---
 

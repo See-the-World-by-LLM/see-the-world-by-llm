@@ -9,6 +9,7 @@ country_zh: 奥地利
 slug: klagenfurt
 photoUrl: /images/cities/klagenfurt.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "奥地利湖畔小城克拉根福，表面是文艺清新的度假胜地，实际藏着会说话的喷泉和会跳舞的雕像——准备好被它的反差萌击中了吗？"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 厄瓜多尔
 slug: la-libertad
 photoUrl: /images/cities/la-libertad.jpg
 model: deepseek-ai/DeepSeek-V3.1-Terminus
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "本文以轻松幽默的笔调介绍了厄瓜多尔海滨小城自由城，涵盖了其历史冷知识、必尝美食和一日游攻略。文章还通过风趣的对比和本地人秘籍，为读者提供了实用且充满欢乐的旅行指南。"
 ---
 

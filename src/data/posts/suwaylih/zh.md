@@ -9,6 +9,7 @@ country_zh: 约旦
 slug: suwaylih
 photoUrl: /images/cities/suwaylih.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇文章以幽默风趣的方式介绍了约旦安曼的旅游亮点，包括冷知识、美食推荐和一日游攻略，同时提供了本地人秘籍和理想与现实的对比。"
 ---
 

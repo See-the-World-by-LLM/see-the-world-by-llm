@@ -9,6 +9,7 @@ country_zh: 斯洛伐克
 slug: bratislava
 photoUrl: /images/cities/bratislava.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Bratislava, Slovakia’s surprisingly charming capital, packs medieval magic, communist quirks, and delicious dumplings into one compact city. Expect unexpected laughs, hearty food, and a day packed with history—all without breaking the bank!"
 ---
 

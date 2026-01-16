@@ -9,6 +9,7 @@ country_zh: 委内瑞拉
 slug: valencia
 photoUrl: /images/cities/valencia.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Valencia is Venezuela’s cheeky, heat-soaked cousin that refuses to take itself too seriously—packed with unexpected art, carb-loaded glory, and traffic that could humble a Formula 1 driver. In 24 absurdly fun hours you’ll eat, sweat, laugh, and probably honk your horn in rhythmic solidarity with the locals."
 ---
 

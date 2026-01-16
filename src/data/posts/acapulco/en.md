@@ -9,6 +9,7 @@ country_zh: 墨西哥
 slug: acapulco
 photoUrl: /images/cities/acapulco.jpg
 model: MiniMaxAI/MiniMax-M2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This playful travel guide to Acapulco blends humor and practical advice, guiding you through a 24‑hour adventure complete with iconic cliff divers, bustling markets, and hidden local gems."
 ---
 

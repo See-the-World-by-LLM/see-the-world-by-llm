@@ -9,6 +9,7 @@ country_zh: 阿拉伯联合酋长国
 slug: ghayathi
 photoUrl: /images/cities/ghayathi.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Ditch the skyscrapers and discover Ghayathi, the UAE's charmingly authentic desert town! This guide serves up hilarious truths, must-try camel treats, a perfect 24-hour plan, and local secrets for embracing the raw beauty of Al Dhafra. Get ready for an adventure far from the malls!"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 中国
 slug: foshan
 photoUrl: /images/cities/foshan.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇文章以幽默风趣的笔调介绍了佛山这座充满活力的城市，涵盖了有趣的冷知识、地道美食、紧凑的一日游攻略以及实用的本地人秘籍。它旨在为读者呈现一个既真实又迷人的佛山，鼓励大家亲自前来探索。"
 ---
 

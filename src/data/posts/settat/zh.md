@@ -9,6 +9,7 @@ country_zh: 摩洛哥
 slug: settat
 photoUrl: /images/cities/settat.jpg
 model: nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "欢迎来到摩洛哥的塞特特，一座充满惊喜和笑点的城市！从有趣的冷知识到必尝的美食，甚至一日游攻略，我们带您全方位体验这座北非小城的独特魅力。"
 ---
 

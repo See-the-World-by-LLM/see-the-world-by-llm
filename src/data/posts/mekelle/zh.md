@@ -9,6 +9,7 @@ country_zh: 埃塞俄比亚
 slug: mekelle
 photoUrl: /images/cities/mekelle.jpg
 model: deepseek-ai/DeepSeek-V3.1-Terminus
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇风趣幽默的博客带你领略埃塞俄比亚北方重镇默克莱的魅力，从奇特的历史冷知识到不容错过的当地美食，为你提供一份充满欢笑的旅行指南。文章通过对比理想与现实的旅行体验，并分享本地人秘籍，让你像当地人一样玩转这座宝藏城市。"
 ---
 

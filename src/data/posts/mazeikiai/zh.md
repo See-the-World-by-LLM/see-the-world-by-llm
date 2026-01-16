@@ -9,6 +9,7 @@ country_zh: 立陶宛
 slug: mazeikiai
 photoUrl: /images/cities/mazeikiai.jpg
 model: zai-org/GLM-4.5
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "马热伊基艾是立陶宛西北部一个鲜为人知的工业城市，拥有独特的石油历史和迷人的自然风光。这座被游客忽视的小城其实藏着许多惊喜，等待着冒险者去发现。"
 ---
 

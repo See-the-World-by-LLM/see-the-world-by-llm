@@ -9,6 +9,7 @@ country_zh: 老挝
 slug: savannakhet
 photoUrl: /images/cities/savannakhet.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "需要写一个简短的摘要，两句话。 -"
 ---
 

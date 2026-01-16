@@ -9,6 +9,7 @@ country_zh: 坦桑尼亚
 slug: arusha
 photoUrl: /images/cities/arusha.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "阿鲁沙是坦桑尼亚的“非洲客厅”，一边是乞力马扎罗山的高冷背影，一边是街头猴子抢你香蕉的搞笑日常。来这里，你不是游客——你是大自然和幽默感的联合主演。"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 土耳其
 slug: izmir
 photoUrl: /images/cities/izmir.jpg
 model: zai-org/GLM-4.5
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "伊兹密尔，土耳其的爱琴海明珠，融合古老历史与现代活力的迷人城市。这篇幽默风趣的旅游指南将带你探索这座城市的秘密、美食和不可错过的体验。"
 ---
 

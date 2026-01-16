@@ -9,6 +9,7 @@ country_zh: 保加利亚
 slug: ruse
 photoUrl: /images/cities/ruse.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "[A 2-sentence summary of the post]"
 ---
 

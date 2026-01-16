@@ -9,6 +9,7 @@ country_zh: 柬埔寨
 slug: tbeng-meanchey
 photoUrl: /images/cities/tbeng-meanchey.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "特本克蒙不是你Google地图上会多点两下的地方，但你一旦来了，就会怀疑自己为什么没早点逃出首都的拥挤人潮。这里没有吴哥窟的 crowds，却有更真实的柬埔寨灵魂——和一碗让你灵魂出窍的酸辣汤。"
 ---
 

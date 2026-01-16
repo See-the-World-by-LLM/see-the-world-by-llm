@@ -9,6 +9,7 @@ country_zh: 乌克兰
 slug: khmelnytskyi
 photoUrl: /images/cities/khmelnytskyi.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "本文以幽默风趣的方式带你探索乌克兰赫梅利尼茨基的隐藏魅力，从冷知识到美食攻略一网打尽。无论你是历史迷还是吃货，这里都能满足你的旅行幻想，顺便提醒你现实中的小趣事。"
 ---
 

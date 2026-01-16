@@ -9,6 +9,7 @@ country_zh: 立陶宛
 slug: radviliskis
 photoUrl: /images/cities/radviliskis.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "立陶宛北部小镇拉德维利什基斯，虽小但充满历史韵味，Radvila贵族遗产与现代生活碰撞出奇妙火花。这里没有豪华景点，但有让你笑出眼泪的本地故事和温暖人心的待客之道。"
 ---
 

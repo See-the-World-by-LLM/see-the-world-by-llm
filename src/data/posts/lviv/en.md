@@ -9,6 +9,7 @@ country_zh: 乌克兰
 slug: lviv
 photoUrl: /images/cities/lviv.jpg
 model: zai-org/GLM-4.5
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover Lviv, Ukraine's charming cultural gem, where coffee, cobblestones, and quirky history collide. This guide serves up a whirlwind 24-hour adventure packed with humor, local secrets, and must-eat delicacies to make your trip unforgettable."
 ---
 

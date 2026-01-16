@@ -9,6 +9,7 @@ country_zh: 罗马尼亚
 slug: ploiesti
 photoUrl: /images/cities/ploiesti.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "本文以幽默风趣的笔触，带你探索罗马尼亚的石油之都——普洛耶什蒂。你会发现这座城市不仅有丰富的石油历史，还隐藏着令人惊喜的美食、文化和冷知识。"
 ---
 

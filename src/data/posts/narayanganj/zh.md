@@ -9,6 +9,7 @@ country_zh: 孟加拉
 slug: narayanganj
 photoUrl: /images/cities/narayanganj.jpg
 model: openai/gpt-oss-20b
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "纳拉扬贾——既是孟加拉的“水上港”，又是糖商的老本行；这里的鱼香、糖粉与河船，让你在短短24小时里，既能品尝地道美食，又能体会“水陆双栖”的日常。"
 ---
 

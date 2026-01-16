@@ -9,6 +9,7 @@ country_zh: 立陶宛
 slug: mazeikiai
 photoUrl: /images/cities/mazeikiai.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This is a lighthearted and informative guide to the wonderfully offbeat Lithuanian town of Mazeikiai. Get ready for industrial charm, surprisingly good food, and a travel story you won't find anywhere else."
 ---
 

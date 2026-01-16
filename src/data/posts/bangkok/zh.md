@@ -9,6 +9,7 @@ country_zh: 泰国
 slug: bangkok
 photoUrl: /images/cities/bangkok.jpg
 model: Qwen/Qwen3-235B-A22B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这座城市用堵车和微笑治愈你，用辣椒和佛塔征服你。24小时不够，但2400泰铢能让你假装自己是本地人。"
 ---
 

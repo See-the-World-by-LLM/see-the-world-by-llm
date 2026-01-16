@@ -9,6 +9,7 @@ country_zh: 阿根廷
 slug: san-fernando-del-valle-de-catamarca
 photoUrl: /images/cities/san-fernando-del-valle-de-catamarca.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Welcome to a cheeky guide to San Fernando del Valle de Catamarca, the often-overlooked capital of Catamarca Province. This post serves up fun facts, must-eat foods, a jam-packed one-day itinerary, and a hearty dose of reality about visiting this charming Argentine city."
 ---
 

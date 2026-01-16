@@ -9,6 +9,7 @@ country_zh: 日本
 slug: fukuoka
 photoUrl: /images/cities/fukuoka.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "A lively guide to Fukuoka, Japan, blending humor with must-know tips for eating, exploring, and avoiding tourist traps. Discover why this city is a delicious, friendly, and surprisingly efficient adventure waiting to happen."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 危地马拉
 slug: totonicapan
 photoUrl: /images/cities/totonicapan.jpg
 model: baidu/ERNIE-4.5-300B-A47B-Base-PT
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "走进危地马拉的托托尼卡潘，这座被云雾缭绕的古城藏着无数冷知识和美食惊喜。24小时攻略带你玩转最精华，还有本地人秘籍助你避坑！ ---"
 ---
 

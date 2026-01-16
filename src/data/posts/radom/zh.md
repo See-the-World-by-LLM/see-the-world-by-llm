@@ -9,6 +9,7 @@ country_zh: 波兰
 slug: radom
 photoUrl: /images/cities/radom.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇博客带你逛遍波兰“最被低估”的城市拉多姆——一个连波兰人都调侃、却藏着惊喜的地方。读完你会知道：24小时怎么玩、吃什么、怎么装得像地道Radomianin（拉多姆人）！"
 ---
 

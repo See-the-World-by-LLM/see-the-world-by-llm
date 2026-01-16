@@ -9,6 +9,7 @@ country_zh: 哥斯达黎加
 slug: san-rafael
 photoUrl: /images/cities/san-rafael.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "本文以幽默风趣的笔触介绍了哥斯达黎加圣拉斐尔的旅游亮点，从冷知识到美食、一日游攻略，再到当地人的实用秘籍。文章鼓励读者亲自探索这座充满魅力的城镇，体验其自然与文化的完美融合。"
 ---
 

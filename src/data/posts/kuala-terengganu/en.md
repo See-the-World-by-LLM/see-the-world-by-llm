@@ -9,6 +9,7 @@ country_zh: 马来西亚
 slug: kuala-terengganu
 photoUrl: /images/cities/kuala-terengganu.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Kuala Terengganu is a sleepy, salty, sultan-sized city where crystal-mosque domes, kite-sized roti, and turtle-sized smiles outnumber tourists 10-to-1. In 24 hours you can breakfast on coconut-milk caviar, island-hop in a technicolor boat, and still be in bed by the time the azan remix starts—this post shows you how."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 加拿大
 slug: calgary
 photoUrl: /images/cities/calgary.jpg
 model: deepseek-ai/DeepSeek-V3-0324
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This lively travel blog post takes you on a whirlwind tour of Calgary, Canada, blending humor, fun facts, and practical tips. From must-try local eats to a jam-packed one-day itinerary, it’s your ultimate guide to exploring Calgary like a pro."
 ---
 

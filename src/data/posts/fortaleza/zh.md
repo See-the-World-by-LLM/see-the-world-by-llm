@@ -9,6 +9,7 @@ country_zh: 巴西
 slug: fortaleza
 photoUrl: /images/cities/fortaleza.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇幽默风趣的博客带你探索巴西福塔莱萨的冷知识、美食和一日游攻略，还有本地人秘籍和理想与现实的爆笑对比。"
 ---
 

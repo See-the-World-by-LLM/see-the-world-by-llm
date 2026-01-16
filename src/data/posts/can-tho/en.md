@@ -9,6 +9,7 @@ country_zh: 越南
 slug: can-tho
 photoUrl: /images/cities/can-tho.jpg
 model: nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the vibrant city of Can Tho, Vietnam, where bustling markets, delicious street food, and stunning natural beauty await. This travel blog post takes you on a journey through the city's highlights, humorously exploring its unique character and providing expert tips for an unforgettable visit."
 ---
 

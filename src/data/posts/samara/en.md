@@ -9,6 +9,7 @@ country_zh: 俄罗斯
 slug: samara
 photoUrl: /images/cities/samara.jpg
 model: MiniMaxAI/MiniMax-M2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Samara invites travelers to discover a hidden Russian gem where Soviet charm meets Volga river breezes. This witty guide shows you how to taste, tour, and tackle the city in just 24 hours."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 洞涅
 slug: katowice
 photoUrl: /images/cities/katowice.jpg
 model: deepseek-ai/DeepSeek-R1-Distill-Qwen-7B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "### SUMMARY:  "
 ---
 

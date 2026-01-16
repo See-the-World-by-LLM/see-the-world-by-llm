@@ -9,6 +9,7 @@ country_zh: 厄瓜多尔
 slug: la-libertad
 photoUrl: /images/cities/la-libertad.jpg
 model: moonshotai/Kimi-K2-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover La Libertad, Ecuador's unassuming coastal gem where fishing boats outnumber tourists and the ceviche is always fresher than your dance moves. This guide reveals why this working-class port city deserves a spot on your Ecuador itinerary, complete with insider tips and a healthy dose of reality."
 ---
 

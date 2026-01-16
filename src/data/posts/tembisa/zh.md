@@ -9,6 +9,7 @@ country_zh: 南非
 slug: tembisa
 photoUrl: /images/cities/tembisa.jpg
 model: nvidia/NVIDIA-Nemotron-Nano-12B-v2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "一座南非的破碎镜子，里面倒映着生命的粗粮与人性的煲仔饭，用你敢不敢的心情开启夹层旅程。"
 ---
 

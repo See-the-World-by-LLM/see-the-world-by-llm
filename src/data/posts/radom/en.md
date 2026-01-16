@@ -9,6 +9,7 @@ country_zh: 波兰
 slug: radom
 photoUrl: /images/cities/radom.jpg
 model: Qwen/Qwen3-235B-A22B
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Radom, Poland, is a hidden gem packed with quirky history, delicious food, and surprises that defy expectations. This one-day guide will show you how to conquer the city with style (and maybe a few pierogi)."
 ---
 

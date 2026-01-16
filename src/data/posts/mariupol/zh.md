@@ -9,6 +9,7 @@ country_zh: 乌克兰
 slug: mariupol
 photoUrl: /images/cities/mariupol.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这是一篇用幽默风趣的笔触介绍乌克兰海滨城市马里乌波尔的虚拟旅游博客。文章包含了城市冷知识、美食推荐和一日游攻略，旨在轻松的氛围中展现这座城市的独特魅力。"
 ---
 

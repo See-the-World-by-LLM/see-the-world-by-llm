@@ -9,6 +9,7 @@ country_zh: 巴拿马
 slug: chitre
 photoUrl: /images/cities/chitre.jpg
 model: deepseek-ai/DeepSeek-V3.1-Terminus
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "本文以幽默风趣的笔调介绍了巴拿马奇特雷市的魅力，涵盖了冷知识、美食和一目游攻略。文章通过生动的对比和本地人秘籍，为读者呈现了一个真实而有趣的奇特雷。"
 ---
 

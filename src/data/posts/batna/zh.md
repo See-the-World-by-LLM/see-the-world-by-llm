@@ -9,6 +9,7 @@ country_zh: 阿尔及利亚
 slug: batna
 photoUrl: /images/cities/batna.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "巴特纳，这座被奥雷斯山脉环抱的阿尔及利亚古城，是历史爱好者的天堂，也是通往撒哈拉的门户。准备好在罗马遗迹、传统美食和热情好客的当地人中迷失自我吧！"
 ---
 

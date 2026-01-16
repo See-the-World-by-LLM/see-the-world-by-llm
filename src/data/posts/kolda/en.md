@@ -9,6 +9,7 @@ country_zh: 塞内加尔
 slug: kolda
 photoUrl: /images/cities/kolda.jpg
 model: deepseek-ai/DeepSeek-R1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This cheeky guide to Kolda, Senegal, swaps safari fantasies for the vibrant reality of cashews, wrestling, and peanut stew. Discover why this southern charmer is worth ditching the beach for, armed with local tips and a healthy dose of humor."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 以色列
 slug: modi-in-maccabim-re-ut
 photoUrl: /images/cities/modi-in-maccabim-re-ut.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Modi'in-Maccabim-Re'ut is Israel’s hidden gem, blending ancient history with modern flair—perfect for history buffs and foodies alike. This guide will help you navigate its quirks, flavors, and secrets in just one day!"
 ---
 

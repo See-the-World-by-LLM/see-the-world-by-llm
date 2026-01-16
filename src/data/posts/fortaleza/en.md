@@ -9,6 +9,7 @@ country_zh: 巴西
 slug: fortaleza
 photoUrl: /images/cities/fortaleza.jpg
 model: zai-org/GLM-4.5
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Fortaleza, Brazil, is a vibrant coastal city bursting with culture, beaches, and mouthwatering cuisine. This guide serves up a humorous, no-nonsense tour of its sun-soaked chaos, from feasting on crab to navigating its quirky realities."
 ---
 

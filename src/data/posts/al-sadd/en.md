@@ -9,6 +9,7 @@ country_zh: 卡塔尔
 slug: al-sadd
 photoUrl: /images/cities/al-sadd.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the vibrant heart of Doha in Al Sadd, Qatar, with this playful guide packed with fun facts, must-try foods, and a jam-packed itinerary. From hilarious expectations vs. reality moments to local secrets, this post ensures you’ll make the most of your 24 hours in this dynamic district."
 ---
 

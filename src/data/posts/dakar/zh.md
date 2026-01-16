@@ -9,6 +9,7 @@ country_zh: 塞内加尔
 slug: dakar
 photoUrl: /images/cities/dakar.jpg
 model: moonshotai/Kimi-K2-Thinking
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "探索西非明珠达喀尔，从非洲最高的纪念碑到比自由女神还霸气的雕像，这座充满节奏感的城市用美食、音乐和无尽的交通堵塞欢迎着你。准备好你的胃和耐心，因为达喀尔会让你同时体验到极致的挫败感和难以忘怀的惊喜。"
 ---
 

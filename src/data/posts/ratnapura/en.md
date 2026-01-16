@@ -9,6 +9,7 @@ country_zh: 斯里兰卡
 slug: ratnapura
 photoUrl: /images/cities/ratnapura.jpg
 model: deepseek-ai/DeepSeek-V3.1-Terminus
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This blog post is your ultimate, slightly irreverent guide to Ratnapura, the 'City of Gems' in Sri Lanka. Get ready for a day of sparkly adventures, spicy food, and a healthy dose of reality, all served with a side of humour."
 ---
 

@@ -9,6 +9,7 @@ country_zh: 奥地利
 slug: krems-an-der-donau
 photoUrl: /images/cities/krems-an-der-donau.jpg
 model: moonshotai/Kimi-K2-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "在“酒比水多”的克雷姆斯，一天能逛完中世纪老街、喝掉一年份雷司令，还能把“理想很丰满、现实很酒味”收入囊中。读完这篇，你会立刻想把护照扔进多瑙河——因为不去太亏了！"
 ---
 

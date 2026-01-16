@@ -9,6 +9,7 @@ country_zh: 尼日利亚
 slug: ibadan
 photoUrl: /images/cities/ibadan.jpg
 model: nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover the vibrant city of Ibadan, Nigeria, through a humorous and informative travel blog post, covering fun facts, local cuisine, a one-day itinerary, and insider tips. Get ready to laugh, learn, and explore the cultural richness of this African gem."
 ---
 

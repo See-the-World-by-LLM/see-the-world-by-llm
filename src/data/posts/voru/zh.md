@@ -9,6 +9,7 @@ country_zh: 爱沙尼亚
 slug: voru
 photoUrl: /images/cities/voru.jpg
 model: deepseek-ai/DeepSeek-V3.1-Terminus
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "本文以风趣幽默的笔触带你探索爱沙尼亚鲜为人知的宝藏——沃鲁。你会发现这里的冷知识比你想的更古怪，美食比你想的更扎实，绝对是一次充满惊喜的微型冒险。"
 ---
 

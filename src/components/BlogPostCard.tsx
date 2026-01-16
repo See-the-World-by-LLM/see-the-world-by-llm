@@ -16,6 +16,7 @@ interface BlogPost {
   slug?: string;
   photoUrl: string;
   model?: string;
+  imageModel?: string;
   modelEn?: string;
   modelZh?: string;
   summaryEn: string;
@@ -36,6 +37,7 @@ export default function BlogPostCard({ post }: BlogPostCardProps) {
   const slug = post.slug || post.city.en.toLowerCase().replace(/,/g, '').replace(/ /g, '-');
   const postUrl = `/posts/${slug}/${language}`;
   const modelLabel = language === 'en' ? post.modelEn : post.modelZh;
+  const imageModel = post.imageModel;
 
   return (
     <article className="bg-white rounded-lg shadow-md hover:shadow-xl transition-all overflow-hidden group">
@@ -73,10 +75,35 @@ export default function BlogPostCard({ post }: BlogPostCardProps) {
           </div>
         </Link>
 
-        {modelLabel && (
-          <p className="text-xs text-gray-500 mt-3">
-            Model: <a href={`https://huggingface.co/${modelLabel}`} target="_blank" rel="noreferrer" className="text-blue-600 hover:text-blue-700">{modelLabel}</a>
-          </p>
+        {(modelLabel || imageModel) && (
+          <div className="text-xs text-gray-500 mt-3 space-y-1">
+            {modelLabel && (
+              <p>
+                Model:{' '}
+                <a
+                  href={`https://huggingface.co/${modelLabel}`}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="text-blue-600 hover:text-blue-700"
+                >
+                  {modelLabel}
+                </a>
+              </p>
+            )}
+            {imageModel && (
+              <p>
+                Image Model:{' '}
+                <a
+                  href={`https://huggingface.co/${imageModel}`}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="text-blue-600 hover:text-blue-700"
+                >
+                  {imageModel}
+                </a>
+              </p>
+            )}
+          </div>
         )}
       </div>
     </article>

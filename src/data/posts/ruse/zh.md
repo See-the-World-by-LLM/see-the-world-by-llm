@@ -9,6 +9,7 @@ country_zh: 保加利亚
 slug: ruse
 photoUrl: /images/cities/ruse.jpg
 model: deepseek-ai/DeepSeek-R1-0528
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "[2句话的文章摘要] — 我需要创建一个简短的摘要，总结文章内容。 然后，"
 ---
 

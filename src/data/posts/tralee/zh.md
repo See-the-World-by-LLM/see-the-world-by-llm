@@ -9,6 +9,7 @@ country_zh: 爱尔兰
 slug: tralee
 photoUrl: /images/cities/tralee.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇风趣幽默的博客带你快速领略爱尔兰特拉利的魅力，从冷知识到美食，再到一日游秘籍，让你在笑声中规划完美行程。准备好迎接玫瑰、小矮妖和可能遇上的雨天了吗？"
 ---
 

@@ -9,6 +9,7 @@ country_zh: 乌拉圭
 slug: rivera
 photoUrl: /images/cities/rivera.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "这篇文章将带你领略乌拉圭边境小城里韦拉的独特魅力，这里一半是乌拉圭，一半是巴西，充满了文化碰撞的乐趣。从冷知识到美食攻略，从一日游路线到本地人秘籍，本文将以幽默风趣的方式为你呈现一个最真实的里韦拉。"
 ---
 

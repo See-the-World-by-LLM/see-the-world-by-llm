@@ -9,6 +9,7 @@ country_zh: 哥斯达黎加
 slug: san-isidro-de-el-general
 photoUrl: /images/cities/san-isidro-de-el-general.jpg
 model: deepseek-ai/DeepSeek-V3
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "This playful travel guide to San Isidro de El General, Costa Rica, offers a mix of humor, local insights, and practical tips for making the most of your visit. From must-try foods to a jam-packed one-day itinerary, you’ll leave feeling like a seasoned traveler."
 ---
 

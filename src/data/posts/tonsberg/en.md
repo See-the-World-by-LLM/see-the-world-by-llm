@@ -9,6 +9,7 @@ country_zh: 挪威
 slug: tonsberg
 photoUrl: /images/cities/tonsberg.jpg
 model: zai-org/GLM-4.5
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Tonsberg, Norway's oldest town, offers a delightful mix of Viking history, coastal charm, and surprisingly tasty seafood. This post will guide you through its quirks, flavors, and must-sees with a side of humor—because even Vikings had to laugh somewhere!"
 ---
 

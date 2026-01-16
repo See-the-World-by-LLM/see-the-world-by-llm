@@ -9,6 +9,7 @@ country_zh: 坦桑尼亚
 slug: arusha
 photoUrl: /images/cities/arusha.jpg
 model: zai-org/GLM-4.5-Air
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Arusha, Tanzania, is a vibrant gateway to African adventures, blending bustling markets, stunning landscapes, and a laid-back vibe. This guide will help you navigate its charm with humor, local insights, and a dash of Tanzanian flair."
 ---
 

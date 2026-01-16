@@ -9,6 +9,7 @@ country_zh: 中国
 slug: chaoshan-2
 photoUrl: /images/cities/chaoshan-2.jpg
 model: deepseek-ai/DeepSeek-V3.2
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Discover Chaoshan, the vibrant coastal region of Guangdong, China, where ancient culture meets a world-renowned food scene. This guide will take you on a humorous and informative 24-hour sprint through its culinary delights, hidden gems, and unique local quirks."
 ---
 

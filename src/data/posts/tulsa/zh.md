@@ -9,6 +9,7 @@ country_zh: 美国
 slug: tulsa
 photoUrl: /images/cities/tulsa.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "图尔萨——这座被遗忘的石油大亨狂欢地，藏着艺术、炸鸡和会跳舞的恐龙。如果你以为俄克拉荷马只有牛仔和龙卷风，那你还没喝过这里的“玉米威士忌奶昔”。"
 ---
 

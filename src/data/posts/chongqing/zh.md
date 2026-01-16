@@ -9,6 +9,7 @@ country_zh: 中国
 slug: chongqing
 photoUrl: /images/cities/chongqing.jpg
 model: zai-org/GLM-4.6
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "重庆，一座导航都会崩溃的8D魔幻城市。准备好在错综复杂的地形中挑战你的味蕾和双腿，迎接一场充满火锅、雾气和惊喜的冒险。"
 ---
 

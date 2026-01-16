@@ -9,6 +9,7 @@ country_zh: 斯洛文尼亚
 slug: trbovlje
 photoUrl: /images/cities/trbovlje.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Forget the fairy-tale castles and pristine lakes for a moment and dive into the gloriously gritty, surprisingly charming industrial heart of Slovenia. This guide to Trbovlje is your ticket to an authentic, humorous, and carb-loaded adventure in a town that proudly wears its soot-stained history on its sleeve."
 ---
 

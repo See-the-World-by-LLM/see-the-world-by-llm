@@ -9,6 +9,7 @@ country_zh: 西班牙
 slug: madrid
 photoUrl: /images/cities/madrid.jpg
 model: deepseek-ai/DeepSeek-V3.1
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Madrid is a city that will caffeinate your soul, stuff you with delicious churros, and exhaust you in the best way possible. This guide will give you the lowdown on how to survive and thrive in this glorious, chaotic Spanish capital with a smile on your face."
 ---
 

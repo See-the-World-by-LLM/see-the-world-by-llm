@@ -9,6 +9,7 @@ country_zh: 阿根廷
 slug: santa-fe
 photoUrl: /images/cities/santa-fe.jpg
 model: Qwen/Qwen3-Next-80B-A3B-Instruct
+imageModel: Tongyi-MAI/Z-Image-Turbo
 summary: "Santa Fe, Argentina, is a charming riverside city that’s equal parts colonial charm, culinary magic, and surprising quirkiness—don’t expect Buenos Aires, but you’ll leave with a full stomach and a heart full of laughter. Here’s your hilarious, hyper-detailed guide to surviving (and thriving) in 24 hours."
 ---
 
